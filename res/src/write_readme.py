@@ -163,5 +163,4 @@ def write_readme():
 				
 		 
 		
-local_check()
 write_readme()
