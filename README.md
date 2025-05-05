@@ -43,8 +43,8 @@
 		<td>78</td>
 		<td>78</td>
 		<td>91</td>
-		<td>95</td>
-		<td>+ 4</td>
+		<td>97</td>
+		<td>+ 6</td>
 	</tr>
 </table>
 </sub></sup>
@@ -69,8 +69,8 @@
 		<td>78</td>
 		<td>78</td>
 		<td>91</td>
-		<td>95</td>
-		<td>+ 4</td>
+		<td>97</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>Bunsen.Burner</td>
