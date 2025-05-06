@@ -4,13 +4,13 @@
 <table>
 	<tr>
 		<td></td>
-		<td>2025-04-29</td>
 		<td>2025-04-30</td>
 		<td>2025-05-01</td>
 		<td>2025-05-02</td>
 		<td>2025-05-03</td>
 		<td>2025-05-04</td>
 		<td>2025-05-05</td>
+		<td>2025-05-06</td>
 		<td>today +</td>
 	</tr>
 	<tr>
@@ -19,10 +19,10 @@
 		<td>30</td>
 		<td>30</td>
 		<td>30</td>
-		<td>30</td>
 		<td>39</td>
 		<td>41</td>
-		<td>+ 2</td>
+		<td>41</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -30,9 +30,9 @@
 		<td>26</td>
 		<td>26</td>
 		<td>26</td>
-		<td>26</td>
 		<td>37</td>
 		<td>39</td>
+		<td>41</td>
 		<td>+ 2</td>
 	</tr>
 	<tr>
@@ -41,10 +41,10 @@
 		<td>78</td>
 		<td>78</td>
 		<td>78</td>
-		<td>78</td>
 		<td>91</td>
 		<td>97</td>
-		<td>+ 6</td>
+		<td>99</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </sub></sup>
@@ -52,13 +52,13 @@
 <table>
 	<tr>
 		<td></td>
-		<td>2025-04-29</td>
 		<td>2025-04-30</td>
 		<td>2025-05-01</td>
 		<td>2025-05-02</td>
 		<td>2025-05-03</td>
 		<td>2025-05-04</td>
 		<td>2025-05-05</td>
+		<td>2025-05-06</td>
 		<td>today +</td>
 	</tr>
 	<tr>
@@ -67,20 +67,9 @@
 		<td>78</td>
 		<td>78</td>
 		<td>78</td>
-		<td>78</td>
 		<td>91</td>
 		<td>97</td>
-		<td>+ 6</td>
-	</tr>
-	<tr>
-		<td>Bunsen.Burner</td>
-		<td>30</td>
-		<td>30</td>
-		<td>30</td>
-		<td>30</td>
-		<td>30</td>
-		<td>39</td>
-		<td>41</td>
+		<td>99</td>
 		<td>+ 2</td>
 	</tr>
 	<tr>
@@ -89,10 +78,21 @@
 		<td>26</td>
 		<td>26</td>
 		<td>26</td>
-		<td>26</td>
 		<td>37</td>
 		<td>39</td>
+		<td>41</td>
 		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>Bunsen.Burner</td>
+		<td>30</td>
+		<td>30</td>
+		<td>30</td>
+		<td>30</td>
+		<td>39</td>
+		<td>41</td>
+		<td>41</td>
+		<td></td>
 	</tr>
 </table>
 </sub></sup>
