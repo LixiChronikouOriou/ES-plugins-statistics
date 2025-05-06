@@ -32,8 +32,8 @@
 		<td>26</td>
 		<td>37</td>
 		<td>39</td>
-		<td>42</td>
-		<td>+ 3</td>
+		<td>43</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -43,8 +43,8 @@
 		<td>78</td>
 		<td>91</td>
 		<td>97</td>
-		<td>100</td>
-		<td>+ 3</td>
+		<td>101</td>
+		<td>+ 4</td>
 	</tr>
 </table>
 </sub></sup>
@@ -69,8 +69,8 @@
 		<td>78</td>
 		<td>91</td>
 		<td>97</td>
-		<td>100</td>
-		<td>+ 3</td>
+		<td>101</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -80,8 +80,8 @@
 		<td>26</td>
 		<td>37</td>
 		<td>39</td>
-		<td>42</td>
-		<td>+ 3</td>
+		<td>43</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Bunsen.Burner</td>
