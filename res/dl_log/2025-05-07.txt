@@ -1,6 +1,6 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.3-Louise.Conglomerate.Shipyards | downloads: 29
-v1.0.2-Korunak.Defense.Drones | downloads: 24
+v1.0.2-Korunak.Defense.Drones | downloads: 26
 v1.0.1-Korunak.Defense.Drones | downloads: 3
 v1.0.2-Louise.Conglomerate.Shipyards | downloads: 15
 v1.0.2-Bunsen.Burner | downloads: 27
@@ -12,10 +12,10 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 11
-# TOTAL DOWNLOADS: 186
+# TOTAL DOWNLOADS: 188
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 Bunsen.Burner 42
-Korunak.Defense.Drones 43
+Korunak.Defense.Drones 45
 Louise.Conglomerate.Shipyards 101
