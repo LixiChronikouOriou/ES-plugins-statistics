@@ -32,8 +32,8 @@
 		<td>60</td>
 		<td>64</td>
 		<td>64</td>
-		<td>64</td>
-		<td></td>
+		<td>66</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -80,8 +80,8 @@
 		<td>60</td>
 		<td>64</td>
 		<td>64</td>
-		<td>64</td>
-		<td></td>
+		<td>66</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Bunsen.Burner</td>
