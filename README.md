@@ -4,13 +4,13 @@
 <table>
 	<tr>
 		<td></td>
-		<td>2025-05-11</td>
 		<td>2025-05-12</td>
 		<td>2025-05-13</td>
 		<td>2025-05-14</td>
 		<td>2025-05-15</td>
 		<td>2025-05-16</td>
 		<td>2025-05-17</td>
+		<td>2025-05-18</td>
 		<td>today +</td>
 	</tr>
 	<tr>
@@ -26,22 +26,22 @@
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
-		<td>56</td>
 		<td>58</td>
 		<td>58</td>
 		<td>60</td>
 		<td>60</td>
+		<td>64</td>
 		<td>64</td>
 		<td>64</td>
 		<td></td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
-		<td>113</td>
 		<td>117</td>
 		<td>117</td>
 		<td>119</td>
 		<td>123</td>
+		<td>125</td>
 		<td>125</td>
 		<td>125</td>
 		<td></td>
@@ -52,33 +52,33 @@
 <table>
 	<tr>
 		<td></td>
-		<td>2025-05-11</td>
 		<td>2025-05-12</td>
 		<td>2025-05-13</td>
 		<td>2025-05-14</td>
 		<td>2025-05-15</td>
 		<td>2025-05-16</td>
 		<td>2025-05-17</td>
+		<td>2025-05-18</td>
 		<td>today +</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
-		<td>113</td>
 		<td>117</td>
 		<td>117</td>
 		<td>119</td>
 		<td>123</td>
 		<td>125</td>
 		<td>125</td>
+		<td>125</td>
 		<td></td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
-		<td>56</td>
 		<td>58</td>
 		<td>58</td>
 		<td>60</td>
 		<td>60</td>
+		<td>64</td>
 		<td>64</td>
 		<td>64</td>
 		<td></td>
