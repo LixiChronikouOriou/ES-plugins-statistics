@@ -65,8 +65,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>0</td>
-		<td>5</td>
-		<td>+ 5</td>
+		<td>7</td>
+		<td>+ 7</td>
 	</tr>
 </table>
 </sub></sup>
@@ -117,7 +117,7 @@
 		<td>+ 8</td>
 	</tr>
 	<tr>
-		<td>Fundamental.Outfit.Expansion</td>
+		<td>Solar.Sails</td>
 		<td>0</td>
 		<td>0</td>
 		<td>0</td>
@@ -128,15 +128,15 @@
 		<td>+ 7</td>
 	</tr>
 	<tr>
-		<td>Solar.Sails</td>
+		<td>Fundamental.Outfit.Expansion</td>
 		<td>0</td>
 		<td>0</td>
 		<td>0</td>
 		<td>0</td>
 		<td>0</td>
 		<td>0</td>
-		<td>5</td>
-		<td>+ 5</td>
+		<td>7</td>
+		<td>+ 7</td>
 	</tr>
 </table>
 </sub></sup>
