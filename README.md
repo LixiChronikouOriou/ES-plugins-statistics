@@ -4,69 +4,69 @@
 <table>
 	<tr>
 		<td></td>
-		<td>2025-05-20</td>
 		<td>2025-05-21</td>
 		<td>2025-05-22</td>
 		<td>2025-05-23</td>
 		<td>2025-05-24</td>
 		<td>2025-05-25</td>
 		<td>2025-05-26</td>
+		<td>2025-05-27</td>
 		<td>today +</td>
 	</tr>
 	<tr>
 		<td>Bunsen.Burner</td>
-		<td>62</td>
 		<td>65</td>
 		<td>67</td>
 		<td>73</td>
 		<td>73</td>
 		<td>73</td>
 		<td>77</td>
+		<td>81</td>
 		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
-		<td>17</td>
 		<td>22</td>
 		<td>24</td>
 		<td>30</td>
 		<td>30</td>
 		<td>30</td>
 		<td>36</td>
-		<td>+ 6</td>
+		<td>38</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
-		<td>84</td>
 		<td>88</td>
 		<td>90</td>
 		<td>95</td>
 		<td>95</td>
 		<td>95</td>
 		<td>99</td>
-		<td>+ 4</td>
+		<td>101</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
-		<td>141</td>
 		<td>146</td>
 		<td>148</td>
 		<td>150</td>
 		<td>150</td>
 		<td>150</td>
 		<td>156</td>
-		<td>+ 6</td>
+		<td>156</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
-		<td>15</td>
 		<td>17</td>
 		<td>19</td>
 		<td>21</td>
 		<td>21</td>
 		<td>21</td>
 		<td>25</td>
-		<td>+ 4</td>
+		<td>25</td>
+		<td></td>
 	</tr>
 </table>
 </sub></sup>
@@ -74,69 +74,69 @@
 <table>
 	<tr>
 		<td></td>
-		<td>2025-05-20</td>
 		<td>2025-05-21</td>
 		<td>2025-05-22</td>
 		<td>2025-05-23</td>
 		<td>2025-05-24</td>
 		<td>2025-05-25</td>
 		<td>2025-05-26</td>
+		<td>2025-05-27</td>
 		<td>today +</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
-		<td>141</td>
 		<td>146</td>
 		<td>148</td>
 		<td>150</td>
 		<td>150</td>
 		<td>150</td>
 		<td>156</td>
-		<td>+ 6</td>
+		<td>156</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
-		<td>84</td>
 		<td>88</td>
 		<td>90</td>
 		<td>95</td>
 		<td>95</td>
 		<td>95</td>
 		<td>99</td>
-		<td>+ 4</td>
+		<td>101</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Bunsen.Burner</td>
-		<td>62</td>
 		<td>65</td>
 		<td>67</td>
 		<td>73</td>
 		<td>73</td>
 		<td>73</td>
 		<td>77</td>
+		<td>81</td>
 		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
-		<td>17</td>
 		<td>22</td>
 		<td>24</td>
 		<td>30</td>
 		<td>30</td>
 		<td>30</td>
 		<td>36</td>
-		<td>+ 6</td>
+		<td>38</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
-		<td>15</td>
 		<td>17</td>
 		<td>19</td>
 		<td>21</td>
 		<td>21</td>
 		<td>21</td>
 		<td>25</td>
-		<td>+ 4</td>
+		<td>25</td>
+		<td></td>
 	</tr>
 </table>
 </sub></sup>
