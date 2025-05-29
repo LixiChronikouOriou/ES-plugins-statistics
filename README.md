@@ -65,8 +65,8 @@
 		<td>25</td>
 		<td>34</td>
 		<td>34</td>
-		<td>35</td>
-		<td>+ 1</td>
+		<td>37</td>
+		<td>+ 3</td>
 	</tr>
 </table>
 </sub></sup>
@@ -135,8 +135,8 @@
 		<td>25</td>
 		<td>34</td>
 		<td>34</td>
-		<td>35</td>
-		<td>+ 1</td>
+		<td>37</td>
+		<td>+ 3</td>
 	</tr>
 </table>
 </sub></sup>
