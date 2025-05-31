@@ -21,8 +21,8 @@
 		<td>88</td>
 		<td>88</td>
 		<td>88</td>
-		<td>88</td>
-		<td></td>
+		<td>90</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
@@ -113,8 +113,8 @@
 		<td>88</td>
 		<td>88</td>
 		<td>88</td>
-		<td>88</td>
-		<td></td>
+		<td>90</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
