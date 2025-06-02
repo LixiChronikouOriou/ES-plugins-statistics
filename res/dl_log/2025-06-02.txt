@@ -1,8 +1,8 @@
 # DOWNLOADS FOR EACH RELEASE:
-v2.0.0-Solar.Sails | downloads: 9
-v1.2.0-Fundamental.Outfit.Expansion | downloads: 10
-v1.1.1-Louise.Conglomerate.Shipyards | downloads: 7
-v1.1.1-Bunsen.Burner | downloads: 10
+v2.0.0-Solar.Sails | downloads: 11
+v1.2.0-Fundamental.Outfit.Expansion | downloads: 12
+v1.1.1-Louise.Conglomerate.Shipyards | downloads: 9
+v1.1.1-Bunsen.Burner | downloads: 12
 v1.0.4-Korunak.Defense.Drones | downloads: 6
 v1.1.0-Fundamental.Outfit.Expansion | downloads: 40
 v1.1.0-Louise.Conglomerate.Shipyards | downloads: 54
@@ -23,12 +23,12 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 22
-# TOTAL DOWNLOADS: 536
+# TOTAL DOWNLOADS: 544
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 103
-Fundamental.Outfit.Expansion 88
+Bunsen.Burner 105
+Fundamental.Outfit.Expansion 90
 Korunak.Defense.Drones 108
-Louise.Conglomerate.Shipyards 186
-Solar.Sails 51
+Louise.Conglomerate.Shipyards 188
+Solar.Sails 53
