@@ -32,8 +32,8 @@
 		<td>98</td>
 		<td>100</td>
 		<td>106</td>
-		<td>108</td>
-		<td>+ 2</td>
+		<td>110</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -124,8 +124,8 @@
 		<td>98</td>
 		<td>100</td>
 		<td>106</td>
-		<td>108</td>
-		<td>+ 2</td>
+		<td>110</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
