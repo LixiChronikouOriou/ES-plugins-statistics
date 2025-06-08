@@ -21,8 +21,8 @@
 		<td>107</td>
 		<td>107</td>
 		<td>109</td>
-		<td>111</td>
-		<td>+ 2</td>
+		<td>113</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
@@ -54,8 +54,8 @@
 		<td>190</td>
 		<td>192</td>
 		<td>194</td>
-		<td>197</td>
-		<td>+ 3</td>
+		<td>199</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -91,8 +91,8 @@
 		<td>190</td>
 		<td>192</td>
 		<td>194</td>
-		<td>197</td>
-		<td>+ 3</td>
+		<td>199</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -113,8 +113,8 @@
 		<td>107</td>
 		<td>107</td>
 		<td>109</td>
-		<td>111</td>
-		<td>+ 2</td>
+		<td>113</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
