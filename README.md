@@ -32,8 +32,8 @@
 		<td>119</td>
 		<td>121</td>
 		<td>122</td>
-		<td>131</td>
-		<td>+ 9</td>
+		<td>135</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -54,8 +54,8 @@
 		<td>206</td>
 		<td>208</td>
 		<td>208</td>
-		<td>219</td>
-		<td>+ 11</td>
+		<td>221</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -91,8 +91,8 @@
 		<td>206</td>
 		<td>208</td>
 		<td>208</td>
-		<td>219</td>
-		<td>+ 11</td>
+		<td>221</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -113,8 +113,8 @@
 		<td>119</td>
 		<td>121</td>
 		<td>122</td>
-		<td>131</td>
-		<td>+ 9</td>
+		<td>135</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>Bunsen.Burner</td>
