@@ -43,8 +43,8 @@
 		<td>121</td>
 		<td>123</td>
 		<td>125</td>
-		<td>134</td>
-		<td>+ 9</td>
+		<td>136</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -65,8 +65,8 @@
 		<td>67</td>
 		<td>69</td>
 		<td>71</td>
-		<td>75</td>
-		<td>+ 4</td>
+		<td>77</td>
+		<td>+ 6</td>
 	</tr>
 </table>
 </sub></sup>
@@ -102,8 +102,8 @@
 		<td>121</td>
 		<td>123</td>
 		<td>125</td>
-		<td>134</td>
-		<td>+ 9</td>
+		<td>136</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
@@ -135,8 +135,8 @@
 		<td>67</td>
 		<td>69</td>
 		<td>71</td>
-		<td>75</td>
-		<td>+ 4</td>
+		<td>77</td>
+		<td>+ 6</td>
 	</tr>
 </table>
 </sub></sup>
