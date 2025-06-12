@@ -32,8 +32,8 @@
 		<td>119</td>
 		<td>121</td>
 		<td>122</td>
-		<td>129</td>
-		<td>+ 7</td>
+		<td>131</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -113,8 +113,8 @@
 		<td>119</td>
 		<td>121</td>
 		<td>122</td>
-		<td>129</td>
-		<td>+ 7</td>
+		<td>131</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>Bunsen.Burner</td>
