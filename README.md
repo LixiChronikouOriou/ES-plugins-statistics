@@ -4,36 +4,36 @@
 <table>
 	<tr>
 		<td></td>
-		<td>2025-06-18</td>
 		<td>2025-06-19</td>
 		<td>2025-06-20</td>
 		<td>2025-06-21</td>
 		<td>2025-06-22</td>
 		<td>2025-06-23</td>
 		<td>2025-06-24</td>
+		<td>2025-06-25</td>
 		<td>today +</td>
 	</tr>
 	<tr>
 		<td>Bunsen.Burner</td>
-		<td>143</td>
 		<td>143</td>
 		<td>145</td>
 		<td>145</td>
 		<td>145</td>
 		<td>145</td>
 		<td>147</td>
-		<td>+ 2</td>
+		<td>147</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
-		<td>160</td>
 		<td>160</td>
 		<td>162</td>
 		<td>164</td>
 		<td>166</td>
 		<td>168</td>
 		<td>170</td>
-		<td>+ 2</td>
+		<td>170</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -50,8 +50,8 @@
 		<td>Louise.Conglomerate.Shipyards</td>
 		<td>239</td>
 		<td>239</td>
-		<td>239</td>
 		<td>241</td>
+		<td>243</td>
 		<td>243</td>
 		<td>243</td>
 		<td>243</td>
@@ -60,7 +60,7 @@
 	<tr>
 		<td>Solar.Sails</td>
 		<td>97</td>
-		<td>97</td>
+		<td>99</td>
 		<td>99</td>
 		<td>99</td>
 		<td>99</td>
@@ -74,21 +74,21 @@
 <table>
 	<tr>
 		<td></td>
-		<td>2025-06-18</td>
 		<td>2025-06-19</td>
 		<td>2025-06-20</td>
 		<td>2025-06-21</td>
 		<td>2025-06-22</td>
 		<td>2025-06-23</td>
 		<td>2025-06-24</td>
+		<td>2025-06-25</td>
 		<td>today +</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
 		<td>239</td>
 		<td>239</td>
-		<td>239</td>
 		<td>241</td>
+		<td>243</td>
 		<td>243</td>
 		<td>243</td>
 		<td>243</td>
@@ -97,13 +97,13 @@
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
 		<td>160</td>
-		<td>160</td>
 		<td>162</td>
 		<td>164</td>
 		<td>166</td>
 		<td>168</td>
 		<td>170</td>
-		<td>+ 2</td>
+		<td>170</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -119,18 +119,18 @@
 	<tr>
 		<td>Bunsen.Burner</td>
 		<td>143</td>
-		<td>143</td>
 		<td>145</td>
 		<td>145</td>
 		<td>145</td>
 		<td>145</td>
 		<td>147</td>
-		<td>+ 2</td>
+		<td>147</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
 		<td>97</td>
-		<td>97</td>
+		<td>99</td>
 		<td>99</td>
 		<td>99</td>
 		<td>99</td>
