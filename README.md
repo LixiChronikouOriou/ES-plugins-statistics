@@ -65,8 +65,8 @@
 		<td>101</td>
 		<td>101</td>
 		<td>101</td>
-		<td>103</td>
-		<td>+ 2</td>
+		<td>105</td>
+		<td>+ 4</td>
 	</tr>
 </table>
 </sub></sup>
@@ -135,8 +135,8 @@
 		<td>101</td>
 		<td>101</td>
 		<td>101</td>
-		<td>103</td>
-		<td>+ 2</td>
+		<td>105</td>
+		<td>+ 4</td>
 	</tr>
 </table>
 </sub></sup>
