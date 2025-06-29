@@ -32,8 +32,8 @@
 		<td>172</td>
 		<td>176</td>
 		<td>178</td>
-		<td>180</td>
-		<td>+ 2</td>
+		<td>183</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -102,8 +102,8 @@
 		<td>172</td>
 		<td>176</td>
 		<td>178</td>
-		<td>180</td>
-		<td>+ 2</td>
+		<td>183</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
