@@ -4,21 +4,21 @@
 <table>
 	<tr>
 		<td></td>
-		<td>2025-07-01</td>
 		<td>2025-07-02</td>
 		<td>2025-07-03</td>
 		<td>2025-07-04</td>
 		<td>2025-07-05</td>
 		<td>2025-07-06</td>
 		<td>2025-07-07</td>
+		<td>2025-07-08</td>
 		<td>today +</td>
 	</tr>
 	<tr>
 		<td>Bunsen.Burner</td>
 		<td>159</td>
-		<td>159</td>
 		<td>160</td>
 		<td>160</td>
+		<td>162</td>
 		<td>162</td>
 		<td>162</td>
 		<td>162</td>
@@ -27,10 +27,10 @@
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
 		<td>191</td>
-		<td>191</td>
 		<td>192</td>
 		<td>192</td>
 		<td>194</td>
+		<td>196</td>
 		<td>196</td>
 		<td>196</td>
 		<td></td>
@@ -38,21 +38,21 @@
 	<tr>
 		<td>Korunak.Defense.Drones</td>
 		<td>166</td>
-		<td>166</td>
 		<td>167</td>
 		<td>167</td>
 		<td>169</td>
+		<td>170</td>
 		<td>170</td>
 		<td>170</td>
 		<td></td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
-		<td>261</td>
 		<td>263</td>
 		<td>264</td>
 		<td>264</td>
 		<td>266</td>
+		<td>269</td>
 		<td>269</td>
 		<td>269</td>
 		<td></td>
@@ -60,9 +60,9 @@
 	<tr>
 		<td>Solar.Sails</td>
 		<td>114</td>
-		<td>114</td>
 		<td>115</td>
 		<td>115</td>
+		<td>117</td>
 		<td>117</td>
 		<td>117</td>
 		<td>117</td>
@@ -74,22 +74,22 @@
 <table>
 	<tr>
 		<td></td>
-		<td>2025-07-01</td>
 		<td>2025-07-02</td>
 		<td>2025-07-03</td>
 		<td>2025-07-04</td>
 		<td>2025-07-05</td>
 		<td>2025-07-06</td>
 		<td>2025-07-07</td>
+		<td>2025-07-08</td>
 		<td>today +</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
-		<td>261</td>
 		<td>263</td>
 		<td>264</td>
 		<td>264</td>
 		<td>266</td>
+		<td>269</td>
 		<td>269</td>
 		<td>269</td>
 		<td></td>
@@ -97,10 +97,10 @@
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
 		<td>191</td>
-		<td>191</td>
 		<td>192</td>
 		<td>192</td>
 		<td>194</td>
+		<td>196</td>
 		<td>196</td>
 		<td>196</td>
 		<td></td>
@@ -108,10 +108,10 @@
 	<tr>
 		<td>Korunak.Defense.Drones</td>
 		<td>166</td>
-		<td>166</td>
 		<td>167</td>
 		<td>167</td>
 		<td>169</td>
+		<td>170</td>
 		<td>170</td>
 		<td>170</td>
 		<td></td>
@@ -119,9 +119,9 @@
 	<tr>
 		<td>Bunsen.Burner</td>
 		<td>159</td>
-		<td>159</td>
 		<td>160</td>
 		<td>160</td>
+		<td>162</td>
 		<td>162</td>
 		<td>162</td>
 		<td>162</td>
@@ -130,9 +130,9 @@
 	<tr>
 		<td>Solar.Sails</td>
 		<td>114</td>
-		<td>114</td>
 		<td>115</td>
 		<td>115</td>
+		<td>117</td>
 		<td>117</td>
 		<td>117</td>
 		<td>117</td>
