@@ -36,6 +36,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>Jaws</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td></td>
+	</tr>
+	<tr>
 		<td>Korunak.Defense.Drones</td>
 		<td>169</td>
 		<td>170</td>
@@ -136,6 +147,17 @@
 		<td>117</td>
 		<td>117</td>
 		<td>117</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Jaws</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
 		<td></td>
 	</tr>
 </table>
