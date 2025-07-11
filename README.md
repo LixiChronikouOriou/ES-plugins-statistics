@@ -21,8 +21,8 @@
 		<td>162</td>
 		<td>163</td>
 		<td>163</td>
-		<td>165</td>
-		<td>+ 2</td>
+		<td>166</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
@@ -32,8 +32,8 @@
 		<td>196</td>
 		<td>198</td>
 		<td>198</td>
-		<td>200</td>
-		<td>+ 2</td>
+		<td>201</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -43,8 +43,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>0</td>
-		<td>4</td>
-		<td>+ 4</td>
+		<td>5</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -54,8 +54,8 @@
 		<td>170</td>
 		<td>170</td>
 		<td>170</td>
-		<td>172</td>
-		<td>+ 2</td>
+		<td>173</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -65,8 +65,8 @@
 		<td>269</td>
 		<td>269</td>
 		<td>269</td>
-		<td>271</td>
-		<td>+ 2</td>
+		<td>272</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -76,8 +76,8 @@
 		<td>117</td>
 		<td>117</td>
 		<td>117</td>
-		<td>119</td>
-		<td>+ 2</td>
+		<td>120</td>
+		<td>+ 3</td>
 	</tr>
 </table>
 </sub></sup>
@@ -102,8 +102,8 @@
 		<td>269</td>
 		<td>269</td>
 		<td>269</td>
-		<td>271</td>
-		<td>+ 2</td>
+		<td>272</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
@@ -113,8 +113,8 @@
 		<td>196</td>
 		<td>198</td>
 		<td>198</td>
-		<td>200</td>
-		<td>+ 2</td>
+		<td>201</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -124,8 +124,8 @@
 		<td>170</td>
 		<td>170</td>
 		<td>170</td>
-		<td>172</td>
-		<td>+ 2</td>
+		<td>173</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>Bunsen.Burner</td>
@@ -135,8 +135,8 @@
 		<td>162</td>
 		<td>163</td>
 		<td>163</td>
-		<td>165</td>
-		<td>+ 2</td>
+		<td>166</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -146,8 +146,8 @@
 		<td>117</td>
 		<td>117</td>
 		<td>117</td>
-		<td>119</td>
-		<td>+ 2</td>
+		<td>120</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -157,8 +157,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>0</td>
-		<td>4</td>
-		<td>+ 4</td>
+		<td>5</td>
+		<td>+ 5</td>
 	</tr>
 </table>
 </sub></sup>
