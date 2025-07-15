@@ -32,8 +32,8 @@
 		<td>213</td>
 		<td>217</td>
 		<td>219</td>
-		<td>219</td>
-		<td></td>
+		<td>221</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -113,8 +113,8 @@
 		<td>213</td>
 		<td>217</td>
 		<td>219</td>
-		<td>219</td>
-		<td></td>
+		<td>221</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
