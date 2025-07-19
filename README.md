@@ -76,8 +76,8 @@
 		<td>123</td>
 		<td>123</td>
 		<td>123</td>
-		<td>125</td>
-		<td>+ 2</td>
+		<td>126</td>
+		<td>+ 3</td>
 	</tr>
 </table>
 </sub></sup>
@@ -146,8 +146,8 @@
 		<td>123</td>
 		<td>123</td>
 		<td>123</td>
-		<td>125</td>
-		<td>+ 2</td>
+		<td>126</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
