@@ -21,8 +21,8 @@
 		<td>169</td>
 		<td>171</td>
 		<td>171</td>
-		<td>173</td>
-		<td>+ 2</td>
+		<td>183</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
@@ -32,8 +32,8 @@
 		<td>225</td>
 		<td>230</td>
 		<td>232</td>
-		<td>233</td>
-		<td>+ 1</td>
+		<td>242</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -43,8 +43,8 @@
 		<td>11</td>
 		<td>11</td>
 		<td>11</td>
-		<td>13</td>
-		<td>+ 2</td>
+		<td>22</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -54,8 +54,8 @@
 		<td>174</td>
 		<td>174</td>
 		<td>174</td>
-		<td>176</td>
-		<td>+ 2</td>
+		<td>184</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -65,8 +65,8 @@
 		<td>279</td>
 		<td>281</td>
 		<td>281</td>
-		<td>283</td>
-		<td>+ 2</td>
+		<td>290</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -76,8 +76,8 @@
 		<td>123</td>
 		<td>123</td>
 		<td>123</td>
-		<td>126</td>
-		<td>+ 3</td>
+		<td>138</td>
+		<td>+ 15</td>
 	</tr>
 </table>
 </sub></sup>
@@ -102,8 +102,8 @@
 		<td>279</td>
 		<td>281</td>
 		<td>281</td>
-		<td>283</td>
-		<td>+ 2</td>
+		<td>290</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
@@ -113,8 +113,8 @@
 		<td>225</td>
 		<td>230</td>
 		<td>232</td>
-		<td>233</td>
-		<td>+ 1</td>
+		<td>242</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -124,8 +124,8 @@
 		<td>174</td>
 		<td>174</td>
 		<td>174</td>
-		<td>176</td>
-		<td>+ 2</td>
+		<td>184</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>Bunsen.Burner</td>
@@ -135,8 +135,8 @@
 		<td>169</td>
 		<td>171</td>
 		<td>171</td>
-		<td>173</td>
-		<td>+ 2</td>
+		<td>183</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -146,8 +146,8 @@
 		<td>123</td>
 		<td>123</td>
 		<td>123</td>
-		<td>126</td>
-		<td>+ 3</td>
+		<td>138</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -157,8 +157,8 @@
 		<td>11</td>
 		<td>11</td>
 		<td>11</td>
-		<td>13</td>
-		<td>+ 2</td>
+		<td>22</td>
+		<td>+ 11</td>
 	</tr>
 </table>
 </sub></sup>
