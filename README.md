@@ -21,8 +21,8 @@
 		<td>171</td>
 		<td>171</td>
 		<td>183</td>
-		<td>183</td>
-		<td></td>
+		<td>185</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
@@ -117,6 +117,17 @@
 		<td>+ 5</td>
 	</tr>
 	<tr>
+		<td>Bunsen.Burner</td>
+		<td>167</td>
+		<td>167</td>
+		<td>169</td>
+		<td>171</td>
+		<td>171</td>
+		<td>183</td>
+		<td>185</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>Korunak.Defense.Drones</td>
 		<td>174</td>
 		<td>174</td>
@@ -125,17 +136,6 @@
 		<td>174</td>
 		<td>184</td>
 		<td>184</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>Bunsen.Burner</td>
-		<td>167</td>
-		<td>167</td>
-		<td>169</td>
-		<td>171</td>
-		<td>171</td>
-		<td>183</td>
-		<td>183</td>
 		<td></td>
 	</tr>
 	<tr>
