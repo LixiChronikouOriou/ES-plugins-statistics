@@ -32,8 +32,8 @@
 		<td>232</td>
 		<td>244</td>
 		<td>249</td>
-		<td>251</td>
-		<td>+ 2</td>
+		<td>253</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -113,8 +113,8 @@
 		<td>232</td>
 		<td>244</td>
 		<td>249</td>
-		<td>251</td>
-		<td>+ 2</td>
+		<td>253</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Bunsen.Burner</td>
