@@ -65,8 +65,8 @@
 		<td>292</td>
 		<td>298</td>
 		<td>300</td>
-		<td>302</td>
-		<td>+ 2</td>
+		<td>304</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -102,8 +102,8 @@
 		<td>292</td>
 		<td>298</td>
 		<td>300</td>
-		<td>302</td>
-		<td>+ 2</td>
+		<td>304</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
