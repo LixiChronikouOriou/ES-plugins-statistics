@@ -21,8 +21,8 @@
 		<td>193</td>
 		<td>195</td>
 		<td>195</td>
-		<td>197</td>
-		<td>+ 2</td>
+		<td>199</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
@@ -32,8 +32,8 @@
 		<td>265</td>
 		<td>267</td>
 		<td>269</td>
-		<td>271</td>
-		<td>+ 2</td>
+		<td>273</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -43,8 +43,8 @@
 		<td>32</td>
 		<td>34</td>
 		<td>36</td>
-		<td>36</td>
-		<td></td>
+		<td>38</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -54,8 +54,8 @@
 		<td>194</td>
 		<td>196</td>
 		<td>196</td>
-		<td>196</td>
-		<td></td>
+		<td>198</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -65,8 +65,8 @@
 		<td>298</td>
 		<td>300</td>
 		<td>304</td>
-		<td>306</td>
-		<td>+ 2</td>
+		<td>308</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -76,8 +76,8 @@
 		<td>144</td>
 		<td>146</td>
 		<td>146</td>
-		<td>146</td>
-		<td></td>
+		<td>148</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </sub></sup>
@@ -102,8 +102,8 @@
 		<td>298</td>
 		<td>300</td>
 		<td>304</td>
-		<td>306</td>
-		<td>+ 2</td>
+		<td>308</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
@@ -113,8 +113,8 @@
 		<td>265</td>
 		<td>267</td>
 		<td>269</td>
-		<td>271</td>
-		<td>+ 2</td>
+		<td>273</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Bunsen.Burner</td>
@@ -124,8 +124,8 @@
 		<td>193</td>
 		<td>195</td>
 		<td>195</td>
-		<td>197</td>
-		<td>+ 2</td>
+		<td>199</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -135,8 +135,8 @@
 		<td>194</td>
 		<td>196</td>
 		<td>196</td>
-		<td>196</td>
-		<td></td>
+		<td>198</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -146,8 +146,8 @@
 		<td>144</td>
 		<td>146</td>
 		<td>146</td>
-		<td>146</td>
-		<td></td>
+		<td>148</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -157,8 +157,8 @@
 		<td>32</td>
 		<td>34</td>
 		<td>36</td>
-		<td>36</td>
-		<td></td>
+		<td>38</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </sub></sup>
