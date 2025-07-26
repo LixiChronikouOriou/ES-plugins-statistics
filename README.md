@@ -21,8 +21,8 @@
 		<td>195</td>
 		<td>195</td>
 		<td>198</td>
-		<td>198</td>
-		<td></td>
+		<td>200</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
@@ -124,8 +124,8 @@
 		<td>195</td>
 		<td>195</td>
 		<td>198</td>
-		<td>198</td>
-		<td></td>
+		<td>200</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
