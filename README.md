@@ -32,8 +32,8 @@
 		<td>287</td>
 		<td>289</td>
 		<td>292</td>
-		<td>294</td>
-		<td>+ 2</td>
+		<td>295</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -43,8 +43,8 @@
 		<td>42</td>
 		<td>42</td>
 		<td>42</td>
-		<td>42</td>
-		<td></td>
+		<td>44</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -113,8 +113,8 @@
 		<td>287</td>
 		<td>289</td>
 		<td>292</td>
-		<td>294</td>
-		<td>+ 2</td>
+		<td>295</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>Bunsen.Burner</td>
@@ -157,8 +157,8 @@
 		<td>42</td>
 		<td>42</td>
 		<td>42</td>
-		<td>42</td>
-		<td></td>
+		<td>44</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </sub></sup>
