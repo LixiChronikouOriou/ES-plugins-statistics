@@ -4,19 +4,19 @@
 <table>
 	<tr>
 		<td></td>
-		<td>2025-07-29</td>
 		<td>2025-07-30</td>
 		<td>2025-07-31</td>
 		<td>2025-08-01</td>
 		<td>2025-08-02</td>
 		<td>2025-08-03</td>
 		<td>2025-08-04</td>
+		<td>2025-08-05</td>
 		<td>today +</td>
 	</tr>
 	<tr>
 		<td>Bunsen.Burner</td>
 		<td>202</td>
-		<td>202</td>
+		<td>206</td>
 		<td>206</td>
 		<td>206</td>
 		<td>206</td>
@@ -26,11 +26,11 @@
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
-		<td>279</td>
 		<td>281</td>
 		<td>287</td>
 		<td>289</td>
 		<td>292</td>
+		<td>295</td>
 		<td>295</td>
 		<td>295</td>
 		<td></td>
@@ -41,7 +41,7 @@
 		<td>42</td>
 		<td>42</td>
 		<td>42</td>
-		<td>42</td>
+		<td>44</td>
 		<td>44</td>
 		<td>44</td>
 		<td></td>
@@ -49,7 +49,7 @@
 	<tr>
 		<td>Korunak.Defense.Drones</td>
 		<td>170</td>
-		<td>170</td>
+		<td>174</td>
 		<td>174</td>
 		<td>174</td>
 		<td>174</td>
@@ -60,9 +60,9 @@
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
 		<td>312</td>
-		<td>312</td>
 		<td>316</td>
 		<td>316</td>
+		<td>319</td>
 		<td>319</td>
 		<td>319</td>
 		<td>319</td>
@@ -71,10 +71,10 @@
 	<tr>
 		<td>Solar.Sails</td>
 		<td>147</td>
-		<td>147</td>
 		<td>151</td>
 		<td>151</td>
 		<td>151</td>
+		<td>153</td>
 		<td>153</td>
 		<td>153</td>
 		<td></td>
@@ -85,21 +85,21 @@
 <table>
 	<tr>
 		<td></td>
-		<td>2025-07-29</td>
 		<td>2025-07-30</td>
 		<td>2025-07-31</td>
 		<td>2025-08-01</td>
 		<td>2025-08-02</td>
 		<td>2025-08-03</td>
 		<td>2025-08-04</td>
+		<td>2025-08-05</td>
 		<td>today +</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
 		<td>312</td>
-		<td>312</td>
 		<td>316</td>
 		<td>316</td>
+		<td>319</td>
 		<td>319</td>
 		<td>319</td>
 		<td>319</td>
@@ -107,11 +107,11 @@
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
-		<td>279</td>
 		<td>281</td>
 		<td>287</td>
 		<td>289</td>
 		<td>292</td>
+		<td>295</td>
 		<td>295</td>
 		<td>295</td>
 		<td></td>
@@ -119,7 +119,7 @@
 	<tr>
 		<td>Bunsen.Burner</td>
 		<td>202</td>
-		<td>202</td>
+		<td>206</td>
 		<td>206</td>
 		<td>206</td>
 		<td>206</td>
@@ -130,7 +130,7 @@
 	<tr>
 		<td>Korunak.Defense.Drones</td>
 		<td>170</td>
-		<td>170</td>
+		<td>174</td>
 		<td>174</td>
 		<td>174</td>
 		<td>174</td>
@@ -141,10 +141,10 @@
 	<tr>
 		<td>Solar.Sails</td>
 		<td>147</td>
-		<td>147</td>
 		<td>151</td>
 		<td>151</td>
 		<td>151</td>
+		<td>153</td>
 		<td>153</td>
 		<td>153</td>
 		<td></td>
@@ -155,7 +155,7 @@
 		<td>42</td>
 		<td>42</td>
 		<td>42</td>
-		<td>42</td>
+		<td>44</td>
 		<td>44</td>
 		<td>44</td>
 		<td></td>
