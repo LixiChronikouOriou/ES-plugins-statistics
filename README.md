@@ -43,8 +43,8 @@
 		<td>44</td>
 		<td>44</td>
 		<td>45</td>
-		<td>47</td>
-		<td>+ 2</td>
+		<td>49</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -157,8 +157,8 @@
 		<td>44</td>
 		<td>44</td>
 		<td>45</td>
-		<td>47</td>
-		<td>+ 2</td>
+		<td>49</td>
+		<td>+ 4</td>
 	</tr>
 </table>
 </sub></sup>
