@@ -79,6 +79,17 @@
 		<td>159</td>
 		<td></td>
 	</tr>
+	<tr>
+		<td>Zone.of.Control</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td></td>
+	</tr>
 </table>
 </sub></sup>
 <h6>Plugin download count, sorted by download count</h6><sub><sup><br>
@@ -158,6 +169,17 @@
 		<td>52</td>
 		<td>54</td>
 		<td>54</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Zone.of.Control</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
 		<td></td>
 	</tr>
 </table>
