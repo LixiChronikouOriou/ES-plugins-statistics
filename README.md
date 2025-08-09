@@ -21,8 +21,8 @@
 		<td>209</td>
 		<td>209</td>
 		<td>209</td>
-		<td>209</td>
-		<td></td>
+		<td>210</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
@@ -32,8 +32,8 @@
 		<td>299</td>
 		<td>305</td>
 		<td>307</td>
-		<td>307</td>
-		<td></td>
+		<td>308</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -43,8 +43,8 @@
 		<td>52</td>
 		<td>52</td>
 		<td>54</td>
-		<td>54</td>
-		<td></td>
+		<td>55</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -54,8 +54,8 @@
 		<td>177</td>
 		<td>179</td>
 		<td>179</td>
-		<td>179</td>
-		<td></td>
+		<td>180</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -65,8 +65,8 @@
 		<td>325</td>
 		<td>332</td>
 		<td>334</td>
-		<td>334</td>
-		<td></td>
+		<td>335</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -76,8 +76,8 @@
 		<td>156</td>
 		<td>157</td>
 		<td>159</td>
-		<td>159</td>
-		<td></td>
+		<td>160</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
@@ -87,8 +87,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>0</td>
-		<td>0</td>
-		<td></td>
+		<td>3</td>
+		<td>+ 3</td>
 	</tr>
 </table>
 </sub></sup>
@@ -113,8 +113,8 @@
 		<td>325</td>
 		<td>332</td>
 		<td>334</td>
-		<td>334</td>
-		<td></td>
+		<td>335</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
@@ -124,8 +124,8 @@
 		<td>299</td>
 		<td>305</td>
 		<td>307</td>
-		<td>307</td>
-		<td></td>
+		<td>308</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>Bunsen.Burner</td>
@@ -135,8 +135,8 @@
 		<td>209</td>
 		<td>209</td>
 		<td>209</td>
-		<td>209</td>
-		<td></td>
+		<td>210</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -146,8 +146,8 @@
 		<td>177</td>
 		<td>179</td>
 		<td>179</td>
-		<td>179</td>
-		<td></td>
+		<td>180</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -157,8 +157,8 @@
 		<td>156</td>
 		<td>157</td>
 		<td>159</td>
-		<td>159</td>
-		<td></td>
+		<td>160</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -168,8 +168,8 @@
 		<td>52</td>
 		<td>52</td>
 		<td>54</td>
-		<td>54</td>
-		<td></td>
+		<td>55</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
@@ -179,8 +179,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>0</td>
-		<td>0</td>
-		<td></td>
+		<td>3</td>
+		<td>+ 3</td>
 	</tr>
 </table>
 </sub></sup>
