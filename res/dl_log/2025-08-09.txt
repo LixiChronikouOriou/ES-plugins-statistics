@@ -1,4 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
+v1.0.0-Zone.of.Control | downloads: 0
 v1.2.1-Jaws | downloads: 5
 v1.2.0-Jaws | downloads: 5
 v2.0.2-Solar.Sails | downloads: 27
@@ -34,7 +35,7 @@ v1.0.1-Louise.Conglomerate.Shipyards | downloads: 45
 v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
-# NUMBER OF RELEASES: 34
+# NUMBER OF RELEASES: 35
 # TOTAL DOWNLOADS: 1242
 
 
@@ -45,3 +46,4 @@ Jaws 54
 Korunak.Defense.Drones 179
 Louise.Conglomerate.Shipyards 334
 Solar.Sails 159
+Zone.of.Control 0
