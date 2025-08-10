@@ -43,8 +43,8 @@
 		<td>52</td>
 		<td>54</td>
 		<td>56</td>
-		<td>56</td>
-		<td></td>
+		<td>58</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -87,8 +87,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>6</td>
-		<td>12</td>
-		<td>+ 6</td>
+		<td>14</td>
+		<td>+ 8</td>
 	</tr>
 </table>
 </sub></sup>
@@ -168,8 +168,8 @@
 		<td>52</td>
 		<td>54</td>
 		<td>56</td>
-		<td>56</td>
-		<td></td>
+		<td>58</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
@@ -179,8 +179,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>6</td>
-		<td>12</td>
-		<td>+ 6</td>
+		<td>14</td>
+		<td>+ 8</td>
 	</tr>
 </table>
 </sub></sup>
