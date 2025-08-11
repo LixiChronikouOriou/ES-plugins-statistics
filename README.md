@@ -87,8 +87,8 @@
 		<td>0</td>
 		<td>6</td>
 		<td>14</td>
-		<td>14</td>
-		<td></td>
+		<td>16</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </sub></sup>
@@ -179,8 +179,8 @@
 		<td>0</td>
 		<td>6</td>
 		<td>14</td>
-		<td>14</td>
-		<td></td>
+		<td>16</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </sub></sup>
