@@ -32,8 +32,8 @@
 		<td>309</td>
 		<td>309</td>
 		<td>311</td>
-		<td>311</td>
-		<td></td>
+		<td>313</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -87,8 +87,8 @@
 		<td>6</td>
 		<td>14</td>
 		<td>16</td>
-		<td>16</td>
-		<td></td>
+		<td>18</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </sub></sup>
@@ -124,8 +124,8 @@
 		<td>309</td>
 		<td>309</td>
 		<td>311</td>
-		<td>311</td>
-		<td></td>
+		<td>313</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Bunsen.Burner</td>
@@ -179,8 +179,8 @@
 		<td>6</td>
 		<td>14</td>
 		<td>16</td>
-		<td>16</td>
-		<td></td>
+		<td>18</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </sub></sup>
