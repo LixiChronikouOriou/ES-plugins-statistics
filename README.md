@@ -25,6 +25,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>Factory.Outlets</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td></td>
+	</tr>
+	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
 		<td>305</td>
 		<td>307</td>
@@ -181,6 +192,17 @@
 		<td>20</td>
 		<td>22</td>
 		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>Factory.Outlets</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td></td>
 	</tr>
 </table>
 </sub></sup>
