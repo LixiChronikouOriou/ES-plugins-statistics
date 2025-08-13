@@ -21,8 +21,8 @@
 		<td>211</td>
 		<td>211</td>
 		<td>211</td>
-		<td>213</td>
-		<td>+ 2</td>
+		<td>215</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -43,8 +43,8 @@
 		<td>309</td>
 		<td>311</td>
 		<td>313</td>
-		<td>315</td>
-		<td>+ 2</td>
+		<td>317</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -54,8 +54,8 @@
 		<td>58</td>
 		<td>58</td>
 		<td>58</td>
-		<td>60</td>
-		<td>+ 2</td>
+		<td>62</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -65,8 +65,8 @@
 		<td>183</td>
 		<td>183</td>
 		<td>185</td>
-		<td>187</td>
-		<td>+ 2</td>
+		<td>189</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -76,8 +76,8 @@
 		<td>338</td>
 		<td>338</td>
 		<td>338</td>
-		<td>340</td>
-		<td>+ 2</td>
+		<td>342</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -87,8 +87,8 @@
 		<td>163</td>
 		<td>163</td>
 		<td>163</td>
-		<td>165</td>
-		<td>+ 2</td>
+		<td>167</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
@@ -124,8 +124,8 @@
 		<td>338</td>
 		<td>338</td>
 		<td>338</td>
-		<td>340</td>
-		<td>+ 2</td>
+		<td>342</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
@@ -135,8 +135,8 @@
 		<td>309</td>
 		<td>311</td>
 		<td>313</td>
-		<td>315</td>
-		<td>+ 2</td>
+		<td>317</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Bunsen.Burner</td>
@@ -146,8 +146,8 @@
 		<td>211</td>
 		<td>211</td>
 		<td>211</td>
-		<td>213</td>
-		<td>+ 2</td>
+		<td>215</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -157,8 +157,8 @@
 		<td>183</td>
 		<td>183</td>
 		<td>185</td>
-		<td>187</td>
-		<td>+ 2</td>
+		<td>189</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -168,8 +168,8 @@
 		<td>163</td>
 		<td>163</td>
 		<td>163</td>
-		<td>165</td>
-		<td>+ 2</td>
+		<td>167</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -179,8 +179,8 @@
 		<td>58</td>
 		<td>58</td>
 		<td>58</td>
-		<td>60</td>
-		<td>+ 2</td>
+		<td>62</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
