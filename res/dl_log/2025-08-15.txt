@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.1-Zone.of.Control | downloads: 6
+v1.0.1-Zone.of.Control | downloads: 8
 v1.0.0-Factory.Outlets | downloads: 5
 v1.0.0-Zone.of.Control | downloads: 22
 v1.2.1-Jaws | downloads: 15
@@ -38,7 +38,7 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 37
-# TOTAL DOWNLOADS: 1341
+# TOTAL DOWNLOADS: 1343
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -49,4 +49,4 @@ Jaws 64
 Korunak.Defense.Drones 191
 Louise.Conglomerate.Shipyards 346
 Solar.Sails 169
-Zone.of.Control 28
+Zone.of.Control 30
