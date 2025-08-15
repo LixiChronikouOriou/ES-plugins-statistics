@@ -87,8 +87,8 @@
 		<td>163</td>
 		<td>169</td>
 		<td>169</td>
-		<td>169</td>
-		<td></td>
+		<td>171</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
@@ -168,8 +168,8 @@
 		<td>163</td>
 		<td>169</td>
 		<td>169</td>
-		<td>169</td>
-		<td></td>
+		<td>171</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
