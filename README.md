@@ -76,8 +76,8 @@
 		<td>365</td>
 		<td>367</td>
 		<td>369</td>
-		<td>371</td>
-		<td>+ 2</td>
+		<td>372</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -124,8 +124,8 @@
 		<td>365</td>
 		<td>367</td>
 		<td>369</td>
-		<td>371</td>
-		<td>+ 2</td>
+		<td>372</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
