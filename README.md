@@ -32,8 +32,8 @@
 		<td>20</td>
 		<td>20</td>
 		<td>20</td>
-		<td>20</td>
-		<td></td>
+		<td>22</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
@@ -87,8 +87,8 @@
 		<td>192</td>
 		<td>196</td>
 		<td>196</td>
-		<td>196</td>
-		<td></td>
+		<td>198</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
@@ -168,8 +168,8 @@
 		<td>192</td>
 		<td>196</td>
 		<td>196</td>
-		<td>196</td>
-		<td></td>
+		<td>198</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -201,8 +201,8 @@
 		<td>20</td>
 		<td>20</td>
 		<td>20</td>
-		<td>20</td>
-		<td></td>
+		<td>22</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </sub></sup>
