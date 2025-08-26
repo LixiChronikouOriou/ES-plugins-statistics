@@ -32,8 +32,8 @@
 		<td>20</td>
 		<td>22</td>
 		<td>22</td>
-		<td>24</td>
-		<td>+ 2</td>
+		<td>25</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
@@ -98,8 +98,8 @@
 		<td>52</td>
 		<td>52</td>
 		<td>52</td>
-		<td>54</td>
-		<td>+ 2</td>
+		<td>55</td>
+		<td>+ 3</td>
 	</tr>
 </table>
 </sub></sup>
@@ -190,8 +190,8 @@
 		<td>52</td>
 		<td>52</td>
 		<td>52</td>
-		<td>54</td>
-		<td>+ 2</td>
+		<td>55</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -201,8 +201,8 @@
 		<td>20</td>
 		<td>22</td>
 		<td>22</td>
-		<td>24</td>
-		<td>+ 2</td>
+		<td>25</td>
+		<td>+ 3</td>
 	</tr>
 </table>
 </sub></sup>
