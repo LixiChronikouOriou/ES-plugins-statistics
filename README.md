@@ -21,8 +21,8 @@
 		<td>237</td>
 		<td>237</td>
 		<td>237</td>
-		<td>239</td>
-		<td>+ 2</td>
+		<td>241</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -54,8 +54,8 @@
 		<td>79</td>
 		<td>79</td>
 		<td>79</td>
-		<td>81</td>
-		<td>+ 2</td>
+		<td>83</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -87,8 +87,8 @@
 		<td>196</td>
 		<td>198</td>
 		<td>198</td>
-		<td>200</td>
-		<td>+ 2</td>
+		<td>202</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
@@ -146,8 +146,8 @@
 		<td>237</td>
 		<td>237</td>
 		<td>237</td>
-		<td>239</td>
-		<td>+ 2</td>
+		<td>241</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -168,8 +168,8 @@
 		<td>196</td>
 		<td>198</td>
 		<td>198</td>
-		<td>200</td>
-		<td>+ 2</td>
+		<td>202</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -179,8 +179,8 @@
 		<td>79</td>
 		<td>79</td>
 		<td>79</td>
-		<td>81</td>
-		<td>+ 2</td>
+		<td>83</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
