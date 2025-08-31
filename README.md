@@ -43,8 +43,8 @@
 		<td>375</td>
 		<td>377</td>
 		<td>379</td>
-		<td>385</td>
-		<td>+ 6</td>
+		<td>387</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -135,8 +135,8 @@
 		<td>375</td>
 		<td>377</td>
 		<td>379</td>
-		<td>385</td>
-		<td>+ 6</td>
+		<td>387</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>Bunsen.Burner</td>
