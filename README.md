@@ -43,8 +43,8 @@
 		<td>387</td>
 		<td>399</td>
 		<td>402</td>
-		<td>402</td>
-		<td></td>
+		<td>404</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -117,6 +117,17 @@
 		<td>today +</td>
 	</tr>
 	<tr>
+		<td>Fundamental.Outfit.Expansion</td>
+		<td>375</td>
+		<td>377</td>
+		<td>379</td>
+		<td>387</td>
+		<td>399</td>
+		<td>402</td>
+		<td>404</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
 		<td>390</td>
 		<td>392</td>
@@ -125,17 +136,6 @@
 		<td>401</td>
 		<td>403</td>
 		<td>403</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>Fundamental.Outfit.Expansion</td>
-		<td>375</td>
-		<td>377</td>
-		<td>379</td>
-		<td>387</td>
-		<td>399</td>
-		<td>402</td>
-		<td>402</td>
 		<td></td>
 	</tr>
 	<tr>
