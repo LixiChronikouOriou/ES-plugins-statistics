@@ -21,8 +21,8 @@
 		<td>252</td>
 		<td>254</td>
 		<td>260</td>
-		<td>274</td>
-		<td>+ 14</td>
+		<td>275</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -65,8 +65,8 @@
 		<td>221</td>
 		<td>223</td>
 		<td>230</td>
-		<td>244</td>
-		<td>+ 14</td>
+		<td>245</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -146,8 +146,8 @@
 		<td>252</td>
 		<td>254</td>
 		<td>260</td>
-		<td>274</td>
-		<td>+ 14</td>
+		<td>275</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -157,8 +157,8 @@
 		<td>221</td>
 		<td>223</td>
 		<td>230</td>
-		<td>244</td>
-		<td>+ 14</td>
+		<td>245</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
