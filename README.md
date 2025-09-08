@@ -98,8 +98,8 @@
 		<td>68</td>
 		<td>68</td>
 		<td>74</td>
-		<td>84</td>
-		<td>+ 10</td>
+		<td>86</td>
+		<td>+ 12</td>
 	</tr>
 </table>
 </sub></sup>
@@ -190,8 +190,8 @@
 		<td>68</td>
 		<td>68</td>
 		<td>74</td>
-		<td>84</td>
-		<td>+ 10</td>
+		<td>86</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
