@@ -32,8 +32,8 @@
 		<td>59</td>
 		<td>70</td>
 		<td>81</td>
-		<td>88</td>
-		<td>+ 7</td>
+		<td>90</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
@@ -65,8 +65,8 @@
 		<td>245</td>
 		<td>252</td>
 		<td>264</td>
-		<td>274</td>
-		<td>+ 10</td>
+		<td>276</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -76,8 +76,8 @@
 		<td>428</td>
 		<td>439</td>
 		<td>452</td>
-		<td>471</td>
-		<td>+ 19</td>
+		<td>474</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -135,8 +135,8 @@
 		<td>428</td>
 		<td>439</td>
 		<td>452</td>
-		<td>471</td>
-		<td>+ 19</td>
+		<td>474</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>Bunsen.Burner</td>
@@ -157,8 +157,8 @@
 		<td>245</td>
 		<td>252</td>
 		<td>264</td>
-		<td>274</td>
-		<td>+ 10</td>
+		<td>276</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -201,8 +201,8 @@
 		<td>59</td>
 		<td>70</td>
 		<td>81</td>
-		<td>88</td>
-		<td>+ 7</td>
+		<td>90</td>
+		<td>+ 9</td>
 	</tr>
 </table>
 </sub></sup>
