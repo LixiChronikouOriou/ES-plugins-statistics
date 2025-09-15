@@ -21,8 +21,8 @@
 		<td>316</td>
 		<td>325</td>
 		<td>330</td>
-		<td>332</td>
-		<td>+ 2</td>
+		<td>334</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -32,8 +32,8 @@
 		<td>101</td>
 		<td>113</td>
 		<td>119</td>
-		<td>121</td>
-		<td>+ 2</td>
+		<td>123</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
@@ -43,8 +43,8 @@
 		<td>521</td>
 		<td>541</td>
 		<td>550</td>
-		<td>554</td>
-		<td>+ 4</td>
+		<td>556</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -65,8 +65,8 @@
 		<td>286</td>
 		<td>294</td>
 		<td>299</td>
-		<td>301</td>
-		<td>+ 2</td>
+		<td>303</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -76,8 +76,8 @@
 		<td>487</td>
 		<td>495</td>
 		<td>501</td>
-		<td>503</td>
-		<td>+ 2</td>
+		<td>505</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -87,8 +87,8 @@
 		<td>275</td>
 		<td>283</td>
 		<td>289</td>
-		<td>291</td>
-		<td>+ 2</td>
+		<td>293</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
@@ -98,8 +98,8 @@
 		<td>117</td>
 		<td>126</td>
 		<td>132</td>
-		<td>134</td>
-		<td>+ 2</td>
+		<td>136</td>
+		<td>+ 4</td>
 	</tr>
 </table>
 </sub></sup>
@@ -124,8 +124,8 @@
 		<td>521</td>
 		<td>541</td>
 		<td>550</td>
-		<td>554</td>
-		<td>+ 4</td>
+		<td>556</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -135,8 +135,8 @@
 		<td>487</td>
 		<td>495</td>
 		<td>501</td>
-		<td>503</td>
-		<td>+ 2</td>
+		<td>505</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Bunsen.Burner</td>
@@ -146,8 +146,8 @@
 		<td>316</td>
 		<td>325</td>
 		<td>330</td>
-		<td>332</td>
-		<td>+ 2</td>
+		<td>334</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -157,8 +157,8 @@
 		<td>286</td>
 		<td>294</td>
 		<td>299</td>
-		<td>301</td>
-		<td>+ 2</td>
+		<td>303</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -168,8 +168,8 @@
 		<td>275</td>
 		<td>283</td>
 		<td>289</td>
-		<td>291</td>
-		<td>+ 2</td>
+		<td>293</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -190,8 +190,8 @@
 		<td>117</td>
 		<td>126</td>
 		<td>132</td>
-		<td>134</td>
-		<td>+ 2</td>
+		<td>136</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -201,8 +201,8 @@
 		<td>101</td>
 		<td>113</td>
 		<td>119</td>
-		<td>121</td>
-		<td>+ 2</td>
+		<td>123</td>
+		<td>+ 4</td>
 	</tr>
 </table>
 </sub></sup>
