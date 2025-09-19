@@ -32,8 +32,8 @@
 		<td>138</td>
 		<td>145</td>
 		<td>152</td>
-		<td>156</td>
-		<td>+ 4</td>
+		<td>158</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
@@ -43,8 +43,8 @@
 		<td>576</td>
 		<td>592</td>
 		<td>601</td>
-		<td>618</td>
-		<td>+ 17</td>
+		<td>620</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -54,8 +54,8 @@
 		<td>193</td>
 		<td>203</td>
 		<td>213</td>
-		<td>219</td>
-		<td>+ 6</td>
+		<td>221</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -65,8 +65,8 @@
 		<td>320</td>
 		<td>330</td>
 		<td>337</td>
-		<td>342</td>
-		<td>+ 5</td>
+		<td>344</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -76,8 +76,8 @@
 		<td>518</td>
 		<td>535</td>
 		<td>542</td>
-		<td>548</td>
-		<td>+ 6</td>
+		<td>550</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -87,8 +87,8 @@
 		<td>308</td>
 		<td>318</td>
 		<td>322</td>
-		<td>326</td>
-		<td>+ 4</td>
+		<td>328</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
@@ -124,8 +124,8 @@
 		<td>576</td>
 		<td>592</td>
 		<td>601</td>
-		<td>618</td>
-		<td>+ 17</td>
+		<td>620</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -135,8 +135,8 @@
 		<td>518</td>
 		<td>535</td>
 		<td>542</td>
-		<td>548</td>
-		<td>+ 6</td>
+		<td>550</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>Bunsen.Burner</td>
@@ -157,8 +157,8 @@
 		<td>320</td>
 		<td>330</td>
 		<td>337</td>
-		<td>342</td>
-		<td>+ 5</td>
+		<td>344</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -168,8 +168,8 @@
 		<td>308</td>
 		<td>318</td>
 		<td>322</td>
-		<td>326</td>
-		<td>+ 4</td>
+		<td>328</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -179,8 +179,8 @@
 		<td>193</td>
 		<td>203</td>
 		<td>213</td>
-		<td>219</td>
-		<td>+ 6</td>
+		<td>221</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
@@ -201,8 +201,8 @@
 		<td>138</td>
 		<td>145</td>
 		<td>152</td>
-		<td>156</td>
-		<td>+ 4</td>
+		<td>158</td>
+		<td>+ 6</td>
 	</tr>
 </table>
 </sub></sup>
