@@ -54,8 +54,8 @@
 		<td>203</td>
 		<td>213</td>
 		<td>221</td>
-		<td>222</td>
-		<td>+ 1</td>
+		<td>223</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -179,8 +179,8 @@
 		<td>203</td>
 		<td>213</td>
 		<td>221</td>
-		<td>222</td>
-		<td>+ 1</td>
+		<td>223</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
