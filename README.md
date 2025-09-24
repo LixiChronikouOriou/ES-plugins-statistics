@@ -43,8 +43,8 @@
 		<td>642</td>
 		<td>649</td>
 		<td>660</td>
-		<td>670</td>
-		<td>+ 10</td>
+		<td>672</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -87,8 +87,8 @@
 		<td>343</td>
 		<td>348</td>
 		<td>355</td>
-		<td>363</td>
-		<td>+ 8</td>
+		<td>365</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
@@ -124,8 +124,8 @@
 		<td>642</td>
 		<td>649</td>
 		<td>660</td>
-		<td>670</td>
-		<td>+ 10</td>
+		<td>672</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -168,8 +168,8 @@
 		<td>343</td>
 		<td>348</td>
 		<td>355</td>
-		<td>363</td>
-		<td>+ 8</td>
+		<td>365</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
