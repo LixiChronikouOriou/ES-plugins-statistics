@@ -43,8 +43,8 @@
 		<td>679</td>
 		<td>694</td>
 		<td>702</td>
-		<td>709</td>
-		<td>+ 7</td>
+		<td>711</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -54,8 +54,8 @@
 		<td>259</td>
 		<td>265</td>
 		<td>269</td>
-		<td>272</td>
-		<td>+ 3</td>
+		<td>274</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -124,8 +124,8 @@
 		<td>679</td>
 		<td>694</td>
 		<td>702</td>
-		<td>709</td>
-		<td>+ 7</td>
+		<td>711</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -179,8 +179,8 @@
 		<td>259</td>
 		<td>265</td>
 		<td>269</td>
-		<td>272</td>
-		<td>+ 3</td>
+		<td>274</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
