@@ -98,8 +98,8 @@
 		<td>206</td>
 		<td>212</td>
 		<td>216</td>
-		<td>218</td>
-		<td>+ 2</td>
+		<td>219</td>
+		<td>+ 3</td>
 	</tr>
 </table>
 </sub></sup>
@@ -183,6 +183,17 @@
 		<td>+ 3</td>
 	</tr>
 	<tr>
+		<td>Zone.of.Control</td>
+		<td>186</td>
+		<td>193</td>
+		<td>202</td>
+		<td>206</td>
+		<td>212</td>
+		<td>216</td>
+		<td>219</td>
+		<td>+ 3</td>
+	</tr>
+	<tr>
 		<td>Factory.Outlets</td>
 		<td>180</td>
 		<td>189</td>
@@ -192,17 +203,6 @@
 		<td>216</td>
 		<td>219</td>
 		<td>+ 3</td>
-	</tr>
-	<tr>
-		<td>Zone.of.Control</td>
-		<td>186</td>
-		<td>193</td>
-		<td>202</td>
-		<td>206</td>
-		<td>212</td>
-		<td>216</td>
-		<td>218</td>
-		<td>+ 2</td>
 	</tr>
 </table>
 </sub></sup>
