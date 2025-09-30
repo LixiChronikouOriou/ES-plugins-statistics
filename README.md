@@ -32,8 +32,8 @@
 		<td>216</td>
 		<td>224</td>
 		<td>233</td>
-		<td>237</td>
-		<td>+ 4</td>
+		<td>238</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
@@ -201,8 +201,8 @@
 		<td>216</td>
 		<td>224</td>
 		<td>233</td>
-		<td>237</td>
-		<td>+ 4</td>
+		<td>238</td>
+		<td>+ 5</td>
 	</tr>
 </table>
 </sub></sup>
