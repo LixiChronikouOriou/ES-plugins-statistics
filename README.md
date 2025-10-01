@@ -43,8 +43,8 @@
 		<td>717</td>
 		<td>728</td>
 		<td>735</td>
-		<td>737</td>
-		<td>+ 2</td>
+		<td>739</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -124,8 +124,8 @@
 		<td>717</td>
 		<td>728</td>
 		<td>735</td>
-		<td>737</td>
-		<td>+ 2</td>
+		<td>739</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
