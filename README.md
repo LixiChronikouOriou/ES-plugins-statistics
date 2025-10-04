@@ -65,8 +65,8 @@
 		<td>423</td>
 		<td>429</td>
 		<td>433</td>
-		<td>435</td>
-		<td>+ 2</td>
+		<td>436</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -87,8 +87,8 @@
 		<td>414</td>
 		<td>421</td>
 		<td>425</td>
-		<td>427</td>
-		<td>+ 2</td>
+		<td>428</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
@@ -157,8 +157,8 @@
 		<td>423</td>
 		<td>429</td>
 		<td>433</td>
-		<td>435</td>
-		<td>+ 2</td>
+		<td>436</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -168,8 +168,8 @@
 		<td>414</td>
 		<td>421</td>
 		<td>425</td>
-		<td>427</td>
-		<td>+ 2</td>
+		<td>428</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
