@@ -21,8 +21,8 @@
 		<td>463</td>
 		<td>469</td>
 		<td>476</td>
-		<td>480</td>
-		<td>+ 4</td>
+		<td>481</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -146,8 +146,8 @@
 		<td>463</td>
 		<td>469</td>
 		<td>476</td>
-		<td>480</td>
-		<td>+ 4</td>
+		<td>481</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
