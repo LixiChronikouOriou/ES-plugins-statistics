@@ -65,8 +65,8 @@
 		<td>449</td>
 		<td>457</td>
 		<td>469</td>
-		<td>476</td>
-		<td>+ 7</td>
+		<td>477</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -157,8 +157,8 @@
 		<td>449</td>
 		<td>457</td>
 		<td>469</td>
-		<td>476</td>
-		<td>+ 7</td>
+		<td>477</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
