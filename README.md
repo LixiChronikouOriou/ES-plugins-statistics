@@ -54,8 +54,8 @@
 		<td>390</td>
 		<td>400</td>
 		<td>410</td>
-		<td>413</td>
-		<td>+ 3</td>
+		<td>415</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -76,8 +76,8 @@
 		<td>742</td>
 		<td>751</td>
 		<td>759</td>
-		<td>761</td>
-		<td>+ 2</td>
+		<td>763</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -135,8 +135,8 @@
 		<td>742</td>
 		<td>751</td>
 		<td>759</td>
-		<td>761</td>
-		<td>+ 2</td>
+		<td>763</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Bunsen.Burner</td>
@@ -179,8 +179,8 @@
 		<td>390</td>
 		<td>400</td>
 		<td>410</td>
-		<td>413</td>
-		<td>+ 3</td>
+		<td>415</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
