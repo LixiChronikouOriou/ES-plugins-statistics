@@ -65,8 +65,8 @@
 		<td>503</td>
 		<td>511</td>
 		<td>515</td>
-		<td>517</td>
-		<td>+ 2</td>
+		<td>519</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -87,8 +87,8 @@
 		<td>496</td>
 		<td>503</td>
 		<td>511</td>
-		<td>513</td>
-		<td>+ 2</td>
+		<td>516</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
@@ -157,8 +157,8 @@
 		<td>503</td>
 		<td>511</td>
 		<td>515</td>
-		<td>517</td>
-		<td>+ 2</td>
+		<td>519</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -168,8 +168,8 @@
 		<td>496</td>
 		<td>503</td>
 		<td>511</td>
-		<td>513</td>
-		<td>+ 2</td>
+		<td>516</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
