@@ -21,8 +21,8 @@
 		<td>560</td>
 		<td>568</td>
 		<td>578</td>
-		<td>581</td>
-		<td>+ 3</td>
+		<td>583</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -43,8 +43,8 @@
 		<td>907</td>
 		<td>915</td>
 		<td>931</td>
-		<td>937</td>
-		<td>+ 6</td>
+		<td>939</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -124,8 +124,8 @@
 		<td>907</td>
 		<td>915</td>
 		<td>931</td>
-		<td>937</td>
-		<td>+ 6</td>
+		<td>939</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -146,8 +146,8 @@
 		<td>560</td>
 		<td>568</td>
 		<td>578</td>
-		<td>581</td>
-		<td>+ 3</td>
+		<td>583</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
