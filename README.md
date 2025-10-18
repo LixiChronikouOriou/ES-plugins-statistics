@@ -76,8 +76,8 @@
 		<td>773</td>
 		<td>783</td>
 		<td>794</td>
-		<td>809</td>
-		<td>+ 15</td>
+		<td>811</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -135,8 +135,8 @@
 		<td>773</td>
 		<td>783</td>
 		<td>794</td>
-		<td>809</td>
-		<td>+ 15</td>
+		<td>811</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>Bunsen.Burner</td>
