@@ -4,102 +4,102 @@
 <table>
 	<tr>
 		<td></td>
-		<td>2025-10-12</td>
 		<td>2025-10-13</td>
 		<td>2025-10-14</td>
 		<td>2025-10-15</td>
 		<td>2025-10-16</td>
 		<td>2025-10-17</td>
 		<td>2025-10-18</td>
+		<td>2025-10-19</td>
 		<td>today +</td>
 	</tr>
 	<tr>
 		<td>Bunsen.Burner</td>
-		<td>538</td>
 		<td>545</td>
 		<td>549</td>
 		<td>560</td>
 		<td>568</td>
 		<td>578</td>
 		<td>593</td>
-		<td>+ 15</td>
+		<td>593</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
-		<td>334</td>
 		<td>344</td>
 		<td>350</td>
 		<td>359</td>
 		<td>369</td>
 		<td>380</td>
 		<td>394</td>
-		<td>+ 14</td>
+		<td>394</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
-		<td>876</td>
 		<td>887</td>
 		<td>897</td>
 		<td>907</td>
 		<td>915</td>
 		<td>931</td>
 		<td>949</td>
-		<td>+ 18</td>
+		<td>951</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
-		<td>400</td>
 		<td>410</td>
 		<td>417</td>
 		<td>424</td>
 		<td>433</td>
 		<td>443</td>
 		<td>458</td>
-		<td>+ 15</td>
+		<td>458</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
-		<td>503</td>
 		<td>511</td>
 		<td>515</td>
 		<td>523</td>
 		<td>532</td>
 		<td>542</td>
 		<td>555</td>
-		<td>+ 13</td>
+		<td>555</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
-		<td>751</td>
 		<td>759</td>
 		<td>765</td>
 		<td>773</td>
 		<td>783</td>
 		<td>794</td>
 		<td>812</td>
-		<td>+ 18</td>
+		<td>812</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
-		<td>496</td>
 		<td>503</td>
 		<td>511</td>
 		<td>520</td>
 		<td>530</td>
 		<td>539</td>
 		<td>552</td>
-		<td>+ 13</td>
+		<td>552</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
-		<td>331</td>
 		<td>339</td>
 		<td>345</td>
 		<td>353</td>
 		<td>361</td>
 		<td>372</td>
 		<td>382</td>
-		<td>+ 10</td>
+		<td>382</td>
+		<td></td>
 	</tr>
 </table>
 </sub></sup>
@@ -107,102 +107,102 @@
 <table>
 	<tr>
 		<td></td>
-		<td>2025-10-12</td>
 		<td>2025-10-13</td>
 		<td>2025-10-14</td>
 		<td>2025-10-15</td>
 		<td>2025-10-16</td>
 		<td>2025-10-17</td>
 		<td>2025-10-18</td>
+		<td>2025-10-19</td>
 		<td>today +</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
-		<td>876</td>
 		<td>887</td>
 		<td>897</td>
 		<td>907</td>
 		<td>915</td>
 		<td>931</td>
 		<td>949</td>
-		<td>+ 18</td>
+		<td>951</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
-		<td>751</td>
 		<td>759</td>
 		<td>765</td>
 		<td>773</td>
 		<td>783</td>
 		<td>794</td>
 		<td>812</td>
-		<td>+ 18</td>
+		<td>812</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>Bunsen.Burner</td>
-		<td>538</td>
 		<td>545</td>
 		<td>549</td>
 		<td>560</td>
 		<td>568</td>
 		<td>578</td>
 		<td>593</td>
-		<td>+ 15</td>
+		<td>593</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
-		<td>503</td>
 		<td>511</td>
 		<td>515</td>
 		<td>523</td>
 		<td>532</td>
 		<td>542</td>
 		<td>555</td>
-		<td>+ 13</td>
+		<td>555</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
-		<td>496</td>
 		<td>503</td>
 		<td>511</td>
 		<td>520</td>
 		<td>530</td>
 		<td>539</td>
 		<td>552</td>
-		<td>+ 13</td>
+		<td>552</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
-		<td>400</td>
 		<td>410</td>
 		<td>417</td>
 		<td>424</td>
 		<td>433</td>
 		<td>443</td>
 		<td>458</td>
-		<td>+ 15</td>
+		<td>458</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
-		<td>334</td>
 		<td>344</td>
 		<td>350</td>
 		<td>359</td>
 		<td>369</td>
 		<td>380</td>
 		<td>394</td>
-		<td>+ 14</td>
+		<td>394</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
-		<td>331</td>
 		<td>339</td>
 		<td>345</td>
 		<td>353</td>
 		<td>361</td>
 		<td>372</td>
 		<td>382</td>
-		<td>+ 10</td>
+		<td>382</td>
+		<td></td>
 	</tr>
 </table>
 </sub></sup>
