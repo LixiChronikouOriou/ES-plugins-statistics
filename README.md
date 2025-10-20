@@ -98,8 +98,8 @@
 		<td>372</td>
 		<td>382</td>
 		<td>392</td>
-		<td>396</td>
-		<td>+ 4</td>
+		<td>397</td>
+		<td>+ 5</td>
 	</tr>
 </table>
 </sub></sup>
@@ -201,8 +201,8 @@
 		<td>372</td>
 		<td>382</td>
 		<td>392</td>
-		<td>396</td>
-		<td>+ 4</td>
+		<td>397</td>
+		<td>+ 5</td>
 	</tr>
 </table>
 </sub></sup>
