@@ -32,8 +32,8 @@
 		<td>394</td>
 		<td>402</td>
 		<td>408</td>
-		<td>413</td>
-		<td>+ 5</td>
+		<td>415</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
@@ -190,8 +190,8 @@
 		<td>394</td>
 		<td>402</td>
 		<td>408</td>
-		<td>413</td>
-		<td>+ 5</td>
+		<td>415</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
