@@ -1,4 +1,4 @@
-<h6>Plugin download count for https://github.com/LixiChronikouOriou/ES-plugins</h6><br>
+<h6>Plugin download count for https://github.com/Nova1422/plugins</h6><br>
 <br>
 <h6>Plugin download count, sorted by name</h6><sub><sup><br>
 <table>
@@ -14,92 +14,147 @@
 		<td>today +</td>
 	</tr>
 	<tr>
-		<td>Bunsen.Burner</td>
-		<td>601</td>
-		<td>608</td>
-		<td>613</td>
-		<td>619</td>
-		<td>629</td>
-		<td>659</td>
-		<td>697</td>
-		<td>+ 38</td>
+		<td>1requiredcrew</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>133</td>
+		<td>+ 133</td>
 	</tr>
 	<tr>
-		<td>Factory.Outlets</td>
-		<td>402</td>
-		<td>408</td>
-		<td>417</td>
-		<td>423</td>
-		<td>435</td>
-		<td>465</td>
-		<td>506</td>
-		<td>+ 41</td>
-	</tr>
-	<tr>
-		<td>Fundamental.Outfit.Expansion</td>
-		<td>958</td>
-		<td>972</td>
-		<td>979</td>
-		<td>987</td>
-		<td>1002</td>
-		<td>1035</td>
-		<td>1081</td>
-		<td>+ 46</td>
-	</tr>
-	<tr>
-		<td>Jaws</td>
-		<td>468</td>
-		<td>475</td>
-		<td>480</td>
-		<td>486</td>
-		<td>498</td>
-		<td>528</td>
-		<td>564</td>
-		<td>+ 36</td>
-	</tr>
-	<tr>
-		<td>Korunak.Defense.Drones</td>
-		<td>562</td>
-		<td>569</td>
-		<td>576</td>
-		<td>582</td>
-		<td>594</td>
-		<td>624</td>
-		<td>662</td>
-		<td>+ 38</td>
-	</tr>
-	<tr>
-		<td>Louise.Conglomerate.Shipyards</td>
-		<td>819</td>
-		<td>826</td>
-		<td>833</td>
-		<td>839</td>
-		<td>855</td>
-		<td>879</td>
-		<td>916</td>
-		<td>+ 37</td>
-	</tr>
-	<tr>
-		<td>Solar.Sails</td>
-		<td>561</td>
-		<td>569</td>
-		<td>574</td>
-		<td>580</td>
-		<td>592</td>
-		<td>615</td>
-		<td>654</td>
+		<td>aberrant.kahet.outfitter</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>39</td>
 		<td>+ 39</td>
 	</tr>
 	<tr>
-		<td>Zone.of.Control</td>
-		<td>392</td>
-		<td>401</td>
-		<td>406</td>
-		<td>412</td>
-		<td>424</td>
-		<td>447</td>
-		<td>486</td>
-		<td>+ 39</td>
+		<td>bunrodeaoutfitter</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>47</td>
+		<td>+ 47</td>
+	</tr>
+	<tr>
+		<td>capture.archons</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>196</td>
+		<td>+ 196</td>
+	</tr>
+	<tr>
+		<td>capturingpower</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>139</td>
+		<td>+ 139</td>
+	</tr>
+	<tr>
+		<td>jumpdrive.extended</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>207</td>
+		<td>+ 207</td>
+	</tr>
+	<tr>
+		<td>pugoutfitter</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>6</td>
+		<td>+ 6</td>
+	</tr>
+	<tr>
+		<td>purchase.bactrian</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>138</td>
+		<td>+ 138</td>
+	</tr>
+	<tr>
+		<td>purchaseable.cloakingdevice</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>142</td>
+		<td>+ 142</td>
+	</tr>
+	<tr>
+		<td>quargoutfitter</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>24</td>
+		<td>+ 24</td>
+	</tr>
+	<tr>
+		<td>tributequarg</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>106</td>
+		<td>+ 106</td>
+	</tr>
+	<tr>
+		<td>unlimited.dfc</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>150</td>
+		<td>+ 150</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>1327</td>
+		<td>1327</td>
 	</tr>
 </table>
 </sub></sup>
@@ -117,92 +172,218 @@
 		<td>today +</td>
 	</tr>
 	<tr>
-		<td>Fundamental.Outfit.Expansion</td>
-		<td>958</td>
-		<td>972</td>
-		<td>979</td>
-		<td>987</td>
-		<td>1002</td>
-		<td>1035</td>
-		<td>1081</td>
-		<td>+ 46</td>
+		<td>jumpdrive.extended</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>207</td>
+		<td>+ 207</td>
 	</tr>
 	<tr>
-		<td>Louise.Conglomerate.Shipyards</td>
-		<td>819</td>
-		<td>826</td>
-		<td>833</td>
-		<td>839</td>
-		<td>855</td>
-		<td>879</td>
-		<td>916</td>
-		<td>+ 37</td>
+		<td>capture.archons</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>196</td>
+		<td>+ 196</td>
 	</tr>
 	<tr>
-		<td>Bunsen.Burner</td>
-		<td>601</td>
-		<td>608</td>
-		<td>613</td>
-		<td>619</td>
-		<td>629</td>
-		<td>659</td>
-		<td>697</td>
-		<td>+ 38</td>
+		<td>unlimited.dfc</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>150</td>
+		<td>+ 150</td>
 	</tr>
 	<tr>
-		<td>Korunak.Defense.Drones</td>
-		<td>562</td>
-		<td>569</td>
-		<td>576</td>
-		<td>582</td>
-		<td>594</td>
-		<td>624</td>
-		<td>662</td>
-		<td>+ 38</td>
+		<td>purchaseable.cloakingdevice</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>142</td>
+		<td>+ 142</td>
 	</tr>
 	<tr>
-		<td>Solar.Sails</td>
-		<td>561</td>
-		<td>569</td>
-		<td>574</td>
-		<td>580</td>
-		<td>592</td>
-		<td>615</td>
-		<td>654</td>
+		<td>capturingpower</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>139</td>
+		<td>+ 139</td>
+	</tr>
+	<tr>
+		<td>purchase.bactrian</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>138</td>
+		<td>+ 138</td>
+	</tr>
+	<tr>
+		<td>1requiredcrew</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>133</td>
+		<td>+ 133</td>
+	</tr>
+	<tr>
+		<td>tributequarg</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>106</td>
+		<td>+ 106</td>
+	</tr>
+	<tr>
+		<td>bunrodeaoutfitter</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>47</td>
+		<td>+ 47</td>
+	</tr>
+	<tr>
+		<td>aberrant.kahet.outfitter</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>39</td>
 		<td>+ 39</td>
 	</tr>
 	<tr>
-		<td>Jaws</td>
-		<td>468</td>
-		<td>475</td>
-		<td>480</td>
-		<td>486</td>
-		<td>498</td>
-		<td>528</td>
-		<td>564</td>
-		<td>+ 36</td>
+		<td>quargoutfitter</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>24</td>
+		<td>+ 24</td>
 	</tr>
 	<tr>
-		<td>Factory.Outlets</td>
-		<td>402</td>
-		<td>408</td>
-		<td>417</td>
-		<td>423</td>
-		<td>435</td>
-		<td>465</td>
-		<td>506</td>
-		<td>+ 41</td>
+		<td>pugoutfitter</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>6</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
-		<td>Zone.of.Control</td>
-		<td>392</td>
-		<td>401</td>
-		<td>406</td>
-		<td>412</td>
-		<td>424</td>
-		<td>447</td>
-		<td>486</td>
-		<td>+ 39</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>1327</td>
+		<td>1327</td>
+	</tr>
+</table>
+</sub></sup>
+<h6>Other statistics</h6><sub><sup><br>
+<table>
+	<tr>
+		<td> </td>
+		<td>2025-10-18</td>
+		<td>2025-10-17</td>
+		<td>2025-10-16</td>
+		<td>2025-10-15</td>
+		<td>2025-10-14</td>
+		<td>2025-10-13</td>
+		<td>2025-10-12</td>
+		<td>2025-10-11</td>
+		<td>2025-10-10</td>
+	</tr>
+	<tr>
+		<td>page views</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+	</tr>
+	<tr>
+		<td>unique visitors</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+	</tr>
+</table>
+<br>
+<table>
+	<tr>
+		<td>statistics start</td>
+		<td>all page views</td>
+		<td>all unique visitors</td>
+		<td>highest page view</td>
+		<td>highest unique visitors</td>
+	</tr>
+	<tr>
+		<td>2025-10-24</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+	</tr>
+	<tr>
+		<td>days since start</td>
+		<td>average daily page views</td>
+		<td>average daily visitors</td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>1</td>
+		<td>0.00</td>
+		<td>0.00</td>
+		<td></td>
+		<td></td>
 	</tr>
 </table>
 </sub></sup>
