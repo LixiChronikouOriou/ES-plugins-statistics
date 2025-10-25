@@ -146,7 +146,7 @@ def run():
 		if line.startswith('repo :'):
 			repo = line[7:].strip()
 	username = repo.split('/')[0]
-	token =  os.environ["TOKEN"]
+	token =  os.environ["GITHUB_TOKEN"]
 	# test if token is there
 	print("Token?: ", bool(token))
 	print("Lenght: ", len(token) if token else 0)
