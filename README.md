@@ -21,8 +21,8 @@
 		<td>927</td>
 		<td>956</td>
 		<td>982</td>
-		<td>999</td>
-		<td>+ 17</td>
+		<td>1000</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -32,8 +32,8 @@
 		<td>746</td>
 		<td>777</td>
 		<td>804</td>
-		<td>821</td>
-		<td>+ 17</td>
+		<td>822</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
@@ -43,8 +43,8 @@
 		<td>1351</td>
 		<td>1385</td>
 		<td>1418</td>
-		<td>1439</td>
-		<td>+ 21</td>
+		<td>1440</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -54,8 +54,8 @@
 		<td>800</td>
 		<td>831</td>
 		<td>857</td>
-		<td>874</td>
-		<td>+ 17</td>
+		<td>875</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -65,8 +65,8 @@
 		<td>893</td>
 		<td>922</td>
 		<td>948</td>
-		<td>965</td>
-		<td>+ 17</td>
+		<td>966</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -76,8 +76,8 @@
 		<td>1162</td>
 		<td>1190</td>
 		<td>1219</td>
-		<td>1236</td>
-		<td>+ 17</td>
+		<td>1237</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -87,8 +87,8 @@
 		<td>880</td>
 		<td>913</td>
 		<td>939</td>
-		<td>956</td>
-		<td>+ 17</td>
+		<td>957</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
@@ -98,8 +98,8 @@
 		<td>708</td>
 		<td>743</td>
 		<td>769</td>
-		<td>788</td>
-		<td>+ 19</td>
+		<td>789</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -109,8 +109,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>8078</td>
-		<td>142</td>
+		<td>8086</td>
+		<td>150</td>
 	</tr>
 </table>
 </sub></sup>
@@ -135,8 +135,8 @@
 		<td>1351</td>
 		<td>1385</td>
 		<td>1418</td>
-		<td>1439</td>
-		<td>+ 21</td>
+		<td>1440</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -146,8 +146,8 @@
 		<td>1162</td>
 		<td>1190</td>
 		<td>1219</td>
-		<td>1236</td>
-		<td>+ 17</td>
+		<td>1237</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>Bunsen.Burner</td>
@@ -157,8 +157,8 @@
 		<td>927</td>
 		<td>956</td>
 		<td>982</td>
-		<td>999</td>
-		<td>+ 17</td>
+		<td>1000</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -168,8 +168,8 @@
 		<td>893</td>
 		<td>922</td>
 		<td>948</td>
-		<td>965</td>
-		<td>+ 17</td>
+		<td>966</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -179,8 +179,8 @@
 		<td>880</td>
 		<td>913</td>
 		<td>939</td>
-		<td>956</td>
-		<td>+ 17</td>
+		<td>957</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -190,8 +190,8 @@
 		<td>800</td>
 		<td>831</td>
 		<td>857</td>
-		<td>874</td>
-		<td>+ 17</td>
+		<td>875</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -201,8 +201,8 @@
 		<td>746</td>
 		<td>777</td>
 		<td>804</td>
-		<td>821</td>
-		<td>+ 17</td>
+		<td>822</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
@@ -212,8 +212,8 @@
 		<td>708</td>
 		<td>743</td>
 		<td>769</td>
-		<td>788</td>
-		<td>+ 19</td>
+		<td>789</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -223,8 +223,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>8078</td>
-		<td>142</td>
+		<td>8086</td>
+		<td>150</td>
 	</tr>
 </table>
 </sub></sup>
@@ -232,7 +232,6 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2025-10-26</td>
 		<td>2025-10-27</td>
 		<td>2025-10-28</td>
 		<td>2025-10-29</td>
@@ -241,10 +240,10 @@
 		<td>2025-11-01</td>
 		<td>2025-11-02</td>
 		<td>2025-11-03</td>
+		<td>2025-11-04</td>
 	</tr>
 	<tr>
 		<td>page views</td>
-		<td>38</td>
 		<td>11</td>
 		<td>16</td>
 		<td>33</td>
@@ -253,10 +252,10 @@
 		<td>43</td>
 		<td>28</td>
 		<td>24</td>
+		<td>1</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
-		<td>10</td>
 		<td>9</td>
 		<td>12</td>
 		<td>8</td>
@@ -265,6 +264,7 @@
 		<td>13</td>
 		<td>10</td>
 		<td>13</td>
+		<td>1</td>
 	</tr>
 </table>
 <br>
@@ -278,8 +278,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-13</td>
-		<td>508</td>
-		<td>171</td>
+		<td>509</td>
+		<td>172</td>
 		<td>60</td>
 		<td>13</td>
 	</tr>
@@ -292,8 +292,8 @@
 	</tr>
 	<tr>
 		<td>22</td>
-		<td>23.09</td>
-		<td>7.77</td>
+		<td>23.14</td>
+		<td>7.82</td>
 		<td></td>
 		<td></td>
 	</tr>
