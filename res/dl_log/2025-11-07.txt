@@ -1,13 +1,13 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.6.0-Fundamental.Outfit.Expansion | downloads: 1062
-v1.2.3-Jaws | downloads: 848
-v1.1.0-Zone.of.Control | downloads: 798
-v1.1.0-Factory.Outlets | downloads: 859
+v1.6.0-Fundamental.Outfit.Expansion | downloads: 1063
+v1.2.3-Jaws | downloads: 849
+v1.1.0-Zone.of.Control | downloads: 799
+v1.1.0-Factory.Outlets | downloads: 861
 v1.5.1-Fundamental.Outfit.Expansion | downloads: 86
 v1.5.0-Fundamental.Outfit.Expansion | downloads: 28
-v1.2.1-Louise.Conglomerate.Shipyards | downloads: 938
-v2.1.0-Solar.Sails | downloads: 856
-v1.3.0-Bunsen.Burner | downloads: 852
+v1.2.1-Louise.Conglomerate.Shipyards | downloads: 939
+v2.1.0-Solar.Sails | downloads: 857
+v1.3.0-Bunsen.Burner | downloads: 853
 v1.2.2-Jaws | downloads: 34
 v1.0.1-Zone.of.Control | downloads: 46
 v1.0.0-Factory.Outlets | downloads: 36
@@ -18,7 +18,7 @@ v2.0.2-Solar.Sails | downloads: 46
 v1.4.0-Fundamental.Outfit.Expansion | downloads: 121
 v1.2.0-Louise.Conglomerate.Shipyards | downloads: 93
 v1.2.0-Bunsen.Burner | downloads: 49
-v1.1.0-Korunak.Defense.Drones | downloads: 897
+v1.1.0-Korunak.Defense.Drones | downloads: 898
 v1.1.0-Jaws | downloads: 31
 v1.3.0-Fundamental.Outfit.Expansion | downloads: 32
 v1.0.0-Jaws | downloads: 13
@@ -48,15 +48,15 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 47
-# TOTAL DOWNLOADS: 8706
+# TOTAL DOWNLOADS: 8715
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 1073
-Factory.Outlets 895
-Fundamental.Outfit.Expansion 1532
-Jaws 950
-Korunak.Defense.Drones 1041
-Louise.Conglomerate.Shipyards 1315
-Solar.Sails 1034
-Zone.of.Control 866
+Bunsen.Burner 1074
+Factory.Outlets 897
+Fundamental.Outfit.Expansion 1533
+Jaws 951
+Korunak.Defense.Drones 1042
+Louise.Conglomerate.Shipyards 1316
+Solar.Sails 1035
+Zone.of.Control 867
