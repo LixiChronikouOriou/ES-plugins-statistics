@@ -1,18 +1,18 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.3.0-Factory.Outlets | downloads: 4
-v2.1.2-Solar.Sails | downloads: 235
+v1.3.0-Factory.Outlets | downloads: 7
+v2.1.2-Solar.Sails | downloads: 236
 v1.2.0-Factory.Outlets | downloads: 408
 v2.1.1-Solar.Sails | downloads: 199
 v1.1.1-Factory.Outlets | downloads: 44
-v1.6.0-Fundamental.Outfit.Expansion | downloads: 1606
-v1.2.3-Jaws | downloads: 1340
-v1.1.0-Zone.of.Control | downloads: 1288
+v1.6.0-Fundamental.Outfit.Expansion | downloads: 1607
+v1.2.3-Jaws | downloads: 1341
+v1.1.0-Zone.of.Control | downloads: 1289
 v1.1.0-Factory.Outlets | downloads: 941
 v1.5.1-Fundamental.Outfit.Expansion | downloads: 86
 v1.5.0-Fundamental.Outfit.Expansion | downloads: 28
-v1.2.1-Louise.Conglomerate.Shipyards | downloads: 1435
+v1.2.1-Louise.Conglomerate.Shipyards | downloads: 1436
 v2.1.0-Solar.Sails | downloads: 920
-v1.3.0-Bunsen.Burner | downloads: 1333
+v1.3.0-Bunsen.Burner | downloads: 1334
 v1.2.2-Jaws | downloads: 34
 v1.0.1-Zone.of.Control | downloads: 46
 v1.0.0-Factory.Outlets | downloads: 36
@@ -23,7 +23,7 @@ v2.0.2-Solar.Sails | downloads: 46
 v1.4.0-Fundamental.Outfit.Expansion | downloads: 121
 v1.2.0-Louise.Conglomerate.Shipyards | downloads: 93
 v1.2.0-Bunsen.Burner | downloads: 49
-v1.1.0-Korunak.Defense.Drones | downloads: 1400
+v1.1.0-Korunak.Defense.Drones | downloads: 1401
 v1.1.0-Jaws | downloads: 31
 v1.3.0-Fundamental.Outfit.Expansion | downloads: 32
 v1.0.0-Jaws | downloads: 13
@@ -53,15 +53,15 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 52
-# TOTAL DOWNLOADS: 12749
+# TOTAL DOWNLOADS: 12759
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 1554
-Factory.Outlets 1433
-Fundamental.Outfit.Expansion 2076
-Jaws 1442
-Korunak.Defense.Drones 1544
-Louise.Conglomerate.Shipyards 1812
-Solar.Sails 1532
-Zone.of.Control 1356
+Bunsen.Burner 1555
+Factory.Outlets 1436
+Fundamental.Outfit.Expansion 2077
+Jaws 1443
+Korunak.Defense.Drones 1545
+Louise.Conglomerate.Shipyards 1813
+Solar.Sails 1533
+Zone.of.Control 1357
