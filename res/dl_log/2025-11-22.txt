@@ -1,18 +1,18 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.3.0-Factory.Outlets | downloads: 16
-v2.1.2-Solar.Sails | downloads: 245
+v1.3.0-Factory.Outlets | downloads: 17
+v2.1.2-Solar.Sails | downloads: 246
 v1.2.0-Factory.Outlets | downloads: 408
 v2.1.1-Solar.Sails | downloads: 199
 v1.1.1-Factory.Outlets | downloads: 44
-v1.6.0-Fundamental.Outfit.Expansion | downloads: 1616
-v1.2.3-Jaws | downloads: 1350
-v1.1.0-Zone.of.Control | downloads: 1298
+v1.6.0-Fundamental.Outfit.Expansion | downloads: 1617
+v1.2.3-Jaws | downloads: 1351
+v1.1.0-Zone.of.Control | downloads: 1299
 v1.1.0-Factory.Outlets | downloads: 941
 v1.5.1-Fundamental.Outfit.Expansion | downloads: 86
 v1.5.0-Fundamental.Outfit.Expansion | downloads: 28
-v1.2.1-Louise.Conglomerate.Shipyards | downloads: 1445
+v1.2.1-Louise.Conglomerate.Shipyards | downloads: 1446
 v2.1.0-Solar.Sails | downloads: 920
-v1.3.0-Bunsen.Burner | downloads: 1343
+v1.3.0-Bunsen.Burner | downloads: 1344
 v1.2.2-Jaws | downloads: 34
 v1.0.1-Zone.of.Control | downloads: 46
 v1.0.0-Factory.Outlets | downloads: 36
@@ -23,7 +23,7 @@ v2.0.2-Solar.Sails | downloads: 46
 v1.4.0-Fundamental.Outfit.Expansion | downloads: 121
 v1.2.0-Louise.Conglomerate.Shipyards | downloads: 93
 v1.2.0-Bunsen.Burner | downloads: 49
-v1.1.0-Korunak.Defense.Drones | downloads: 1410
+v1.1.0-Korunak.Defense.Drones | downloads: 1411
 v1.1.0-Jaws | downloads: 31
 v1.3.0-Fundamental.Outfit.Expansion | downloads: 32
 v1.0.0-Jaws | downloads: 13
@@ -53,15 +53,15 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 52
-# TOTAL DOWNLOADS: 12831
+# TOTAL DOWNLOADS: 12839
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 1564
-Factory.Outlets 1445
-Fundamental.Outfit.Expansion 2086
-Jaws 1452
-Korunak.Defense.Drones 1554
-Louise.Conglomerate.Shipyards 1822
-Solar.Sails 1542
-Zone.of.Control 1366
+Bunsen.Burner 1565
+Factory.Outlets 1446
+Fundamental.Outfit.Expansion 2087
+Jaws 1453
+Korunak.Defense.Drones 1555
+Louise.Conglomerate.Shipyards 1823
+Solar.Sails 1543
+Zone.of.Control 1367
