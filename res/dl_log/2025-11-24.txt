@@ -1,18 +1,18 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.3.0-Factory.Outlets | downloads: 75
-v2.1.2-Solar.Sails | downloads: 296
+v1.3.0-Factory.Outlets | downloads: 77
+v2.1.2-Solar.Sails | downloads: 298
 v1.2.0-Factory.Outlets | downloads: 408
 v2.1.1-Solar.Sails | downloads: 199
 v1.1.1-Factory.Outlets | downloads: 44
-v1.6.0-Fundamental.Outfit.Expansion | downloads: 1680
-v1.2.3-Jaws | downloads: 1404
-v1.1.0-Zone.of.Control | downloads: 1348
+v1.6.0-Fundamental.Outfit.Expansion | downloads: 1682
+v1.2.3-Jaws | downloads: 1406
+v1.1.0-Zone.of.Control | downloads: 1350
 v1.1.0-Factory.Outlets | downloads: 941
 v1.5.1-Fundamental.Outfit.Expansion | downloads: 86
 v1.5.0-Fundamental.Outfit.Expansion | downloads: 28
-v1.2.1-Louise.Conglomerate.Shipyards | downloads: 1501
+v1.2.1-Louise.Conglomerate.Shipyards | downloads: 1503
 v2.1.0-Solar.Sails | downloads: 920
-v1.3.0-Bunsen.Burner | downloads: 1397
+v1.3.0-Bunsen.Burner | downloads: 1399
 v1.2.2-Jaws | downloads: 34
 v1.0.1-Zone.of.Control | downloads: 46
 v1.0.0-Factory.Outlets | downloads: 36
@@ -23,7 +23,7 @@ v2.0.2-Solar.Sails | downloads: 46
 v1.4.0-Fundamental.Outfit.Expansion | downloads: 121
 v1.2.0-Louise.Conglomerate.Shipyards | downloads: 93
 v1.2.0-Bunsen.Burner | downloads: 49
-v1.1.0-Korunak.Defense.Drones | downloads: 1460
+v1.1.0-Korunak.Defense.Drones | downloads: 1462
 v1.1.0-Jaws | downloads: 31
 v1.3.0-Fundamental.Outfit.Expansion | downloads: 32
 v1.0.0-Jaws | downloads: 13
@@ -53,15 +53,15 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 52
-# TOTAL DOWNLOADS: 13269
+# TOTAL DOWNLOADS: 13285
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 1618
-Factory.Outlets 1504
-Fundamental.Outfit.Expansion 2150
-Jaws 1506
-Korunak.Defense.Drones 1604
-Louise.Conglomerate.Shipyards 1878
-Solar.Sails 1593
-Zone.of.Control 1416
+Bunsen.Burner 1620
+Factory.Outlets 1506
+Fundamental.Outfit.Expansion 2152
+Jaws 1508
+Korunak.Defense.Drones 1606
+Louise.Conglomerate.Shipyards 1880
+Solar.Sails 1595
+Zone.of.Control 1418
