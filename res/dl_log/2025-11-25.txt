@@ -1,18 +1,18 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.3.0-Factory.Outlets | downloads: 100
-v2.1.2-Solar.Sails | downloads: 323
+v1.3.0-Factory.Outlets | downloads: 102
+v2.1.2-Solar.Sails | downloads: 325
 v1.2.0-Factory.Outlets | downloads: 408
 v2.1.1-Solar.Sails | downloads: 199
 v1.1.1-Factory.Outlets | downloads: 44
-v1.6.0-Fundamental.Outfit.Expansion | downloads: 1709
-v1.2.3-Jaws | downloads: 1429
-v1.1.0-Zone.of.Control | downloads: 1373
+v1.6.0-Fundamental.Outfit.Expansion | downloads: 1711
+v1.2.3-Jaws | downloads: 1431
+v1.1.0-Zone.of.Control | downloads: 1375
 v1.1.0-Factory.Outlets | downloads: 941
 v1.5.1-Fundamental.Outfit.Expansion | downloads: 86
 v1.5.0-Fundamental.Outfit.Expansion | downloads: 28
-v1.2.1-Louise.Conglomerate.Shipyards | downloads: 1536
+v1.2.1-Louise.Conglomerate.Shipyards | downloads: 1538
 v2.1.0-Solar.Sails | downloads: 920
-v1.3.0-Bunsen.Burner | downloads: 1422
+v1.3.0-Bunsen.Burner | downloads: 1424
 v1.2.2-Jaws | downloads: 34
 v1.0.1-Zone.of.Control | downloads: 46
 v1.0.0-Factory.Outlets | downloads: 36
@@ -23,7 +23,7 @@ v2.0.2-Solar.Sails | downloads: 46
 v1.4.0-Fundamental.Outfit.Expansion | downloads: 121
 v1.2.0-Louise.Conglomerate.Shipyards | downloads: 93
 v1.2.0-Bunsen.Burner | downloads: 49
-v1.1.0-Korunak.Defense.Drones | downloads: 1488
+v1.1.0-Korunak.Defense.Drones | downloads: 1490
 v1.1.0-Jaws | downloads: 31
 v1.3.0-Fundamental.Outfit.Expansion | downloads: 32
 v1.0.0-Jaws | downloads: 13
@@ -53,15 +53,15 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 52
-# TOTAL DOWNLOADS: 13488
+# TOTAL DOWNLOADS: 13504
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 1643
-Factory.Outlets 1529
-Fundamental.Outfit.Expansion 2179
-Jaws 1531
-Korunak.Defense.Drones 1632
-Louise.Conglomerate.Shipyards 1913
-Solar.Sails 1620
-Zone.of.Control 1441
+Bunsen.Burner 1645
+Factory.Outlets 1531
+Fundamental.Outfit.Expansion 2181
+Jaws 1533
+Korunak.Defense.Drones 1634
+Louise.Conglomerate.Shipyards 1915
+Solar.Sails 1622
+Zone.of.Control 1443
