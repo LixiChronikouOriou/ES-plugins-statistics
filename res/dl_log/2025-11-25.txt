@@ -1,18 +1,18 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.3.0-Factory.Outlets | downloads: 97
-v2.1.2-Solar.Sails | downloads: 320
+v1.3.0-Factory.Outlets | downloads: 98
+v2.1.2-Solar.Sails | downloads: 321
 v1.2.0-Factory.Outlets | downloads: 408
 v2.1.1-Solar.Sails | downloads: 199
 v1.1.1-Factory.Outlets | downloads: 44
-v1.6.0-Fundamental.Outfit.Expansion | downloads: 1704
-v1.2.3-Jaws | downloads: 1426
-v1.1.0-Zone.of.Control | downloads: 1370
+v1.6.0-Fundamental.Outfit.Expansion | downloads: 1705
+v1.2.3-Jaws | downloads: 1427
+v1.1.0-Zone.of.Control | downloads: 1371
 v1.1.0-Factory.Outlets | downloads: 941
 v1.5.1-Fundamental.Outfit.Expansion | downloads: 86
 v1.5.0-Fundamental.Outfit.Expansion | downloads: 28
-v1.2.1-Louise.Conglomerate.Shipyards | downloads: 1533
+v1.2.1-Louise.Conglomerate.Shipyards | downloads: 1534
 v2.1.0-Solar.Sails | downloads: 920
-v1.3.0-Bunsen.Burner | downloads: 1419
+v1.3.0-Bunsen.Burner | downloads: 1420
 v1.2.2-Jaws | downloads: 34
 v1.0.1-Zone.of.Control | downloads: 46
 v1.0.0-Factory.Outlets | downloads: 36
@@ -23,7 +23,7 @@ v2.0.2-Solar.Sails | downloads: 46
 v1.4.0-Fundamental.Outfit.Expansion | downloads: 121
 v1.2.0-Louise.Conglomerate.Shipyards | downloads: 93
 v1.2.0-Bunsen.Burner | downloads: 49
-v1.1.0-Korunak.Defense.Drones | downloads: 1485
+v1.1.0-Korunak.Defense.Drones | downloads: 1486
 v1.1.0-Jaws | downloads: 31
 v1.3.0-Fundamental.Outfit.Expansion | downloads: 32
 v1.0.0-Jaws | downloads: 13
@@ -53,15 +53,15 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 52
-# TOTAL DOWNLOADS: 13462
+# TOTAL DOWNLOADS: 13470
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 1640
-Factory.Outlets 1526
-Fundamental.Outfit.Expansion 2174
-Jaws 1528
-Korunak.Defense.Drones 1629
-Louise.Conglomerate.Shipyards 1910
-Solar.Sails 1617
-Zone.of.Control 1438
+Bunsen.Burner 1641
+Factory.Outlets 1527
+Fundamental.Outfit.Expansion 2175
+Jaws 1529
+Korunak.Defense.Drones 1630
+Louise.Conglomerate.Shipyards 1911
+Solar.Sails 1618
+Zone.of.Control 1439
