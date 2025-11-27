@@ -1,18 +1,18 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.3.0-Factory.Outlets | downloads: 167
-v2.1.2-Solar.Sails | downloads: 388
+v1.3.0-Factory.Outlets | downloads: 168
+v2.1.2-Solar.Sails | downloads: 389
 v1.2.0-Factory.Outlets | downloads: 408
 v2.1.1-Solar.Sails | downloads: 199
 v1.1.1-Factory.Outlets | downloads: 44
-v1.6.0-Fundamental.Outfit.Expansion | downloads: 1793
-v1.2.3-Jaws | downloads: 1496
-v1.1.0-Zone.of.Control | downloads: 1439
+v1.6.0-Fundamental.Outfit.Expansion | downloads: 1794
+v1.2.3-Jaws | downloads: 1497
+v1.1.0-Zone.of.Control | downloads: 1440
 v1.1.0-Factory.Outlets | downloads: 941
 v1.5.1-Fundamental.Outfit.Expansion | downloads: 86
 v1.5.0-Fundamental.Outfit.Expansion | downloads: 28
-v1.2.1-Louise.Conglomerate.Shipyards | downloads: 1609
+v1.2.1-Louise.Conglomerate.Shipyards | downloads: 1610
 v2.1.0-Solar.Sails | downloads: 920
-v1.3.0-Bunsen.Burner | downloads: 1493
+v1.3.0-Bunsen.Burner | downloads: 1494
 v1.2.2-Jaws | downloads: 34
 v1.0.1-Zone.of.Control | downloads: 46
 v1.0.0-Factory.Outlets | downloads: 36
@@ -23,7 +23,7 @@ v2.0.2-Solar.Sails | downloads: 46
 v1.4.0-Fundamental.Outfit.Expansion | downloads: 121
 v1.2.0-Louise.Conglomerate.Shipyards | downloads: 93
 v1.2.0-Bunsen.Burner | downloads: 49
-v1.1.0-Korunak.Defense.Drones | downloads: 1554
+v1.1.0-Korunak.Defense.Drones | downloads: 1555
 v1.1.0-Jaws | downloads: 31
 v1.3.0-Fundamental.Outfit.Expansion | downloads: 32
 v1.0.0-Jaws | downloads: 13
@@ -53,15 +53,15 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 52
-# TOTAL DOWNLOADS: 14047
+# TOTAL DOWNLOADS: 14055
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 1714
-Factory.Outlets 1596
-Fundamental.Outfit.Expansion 2263
-Jaws 1598
-Korunak.Defense.Drones 1698
-Louise.Conglomerate.Shipyards 1986
-Solar.Sails 1685
-Zone.of.Control 1507
+Bunsen.Burner 1715
+Factory.Outlets 1597
+Fundamental.Outfit.Expansion 2264
+Jaws 1599
+Korunak.Defense.Drones 1699
+Louise.Conglomerate.Shipyards 1987
+Solar.Sails 1686
+Zone.of.Control 1508
