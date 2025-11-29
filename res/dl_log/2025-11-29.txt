@@ -1,18 +1,18 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.3.0-Factory.Outlets | downloads: 220
-v2.1.2-Solar.Sails | downloads: 436
+v1.3.0-Factory.Outlets | downloads: 221
+v2.1.2-Solar.Sails | downloads: 437
 v1.2.0-Factory.Outlets | downloads: 408
 v2.1.1-Solar.Sails | downloads: 199
 v1.1.1-Factory.Outlets | downloads: 44
-v1.6.0-Fundamental.Outfit.Expansion | downloads: 1852
-v1.2.3-Jaws | downloads: 1544
-v1.1.0-Zone.of.Control | downloads: 1487
+v1.6.0-Fundamental.Outfit.Expansion | downloads: 1853
+v1.2.3-Jaws | downloads: 1545
+v1.1.0-Zone.of.Control | downloads: 1488
 v1.1.0-Factory.Outlets | downloads: 941
 v1.5.1-Fundamental.Outfit.Expansion | downloads: 86
 v1.5.0-Fundamental.Outfit.Expansion | downloads: 28
-v1.2.1-Louise.Conglomerate.Shipyards | downloads: 1658
+v1.2.1-Louise.Conglomerate.Shipyards | downloads: 1659
 v2.1.0-Solar.Sails | downloads: 920
-v1.3.0-Bunsen.Burner | downloads: 1543
+v1.3.0-Bunsen.Burner | downloads: 1544
 v1.2.2-Jaws | downloads: 34
 v1.0.1-Zone.of.Control | downloads: 46
 v1.0.0-Factory.Outlets | downloads: 36
@@ -23,7 +23,7 @@ v2.0.2-Solar.Sails | downloads: 46
 v1.4.0-Fundamental.Outfit.Expansion | downloads: 121
 v1.2.0-Louise.Conglomerate.Shipyards | downloads: 93
 v1.2.0-Bunsen.Burner | downloads: 49
-v1.1.0-Korunak.Defense.Drones | downloads: 1603
+v1.1.0-Korunak.Defense.Drones | downloads: 1604
 v1.1.0-Jaws | downloads: 31
 v1.3.0-Fundamental.Outfit.Expansion | downloads: 32
 v1.0.0-Jaws | downloads: 13
@@ -53,15 +53,15 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 52
-# TOTAL DOWNLOADS: 14451
+# TOTAL DOWNLOADS: 14459
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 1764
-Factory.Outlets 1649
-Fundamental.Outfit.Expansion 2322
-Jaws 1646
-Korunak.Defense.Drones 1747
-Louise.Conglomerate.Shipyards 2035
-Solar.Sails 1733
-Zone.of.Control 1555
+Bunsen.Burner 1765
+Factory.Outlets 1650
+Fundamental.Outfit.Expansion 2323
+Jaws 1647
+Korunak.Defense.Drones 1748
+Louise.Conglomerate.Shipyards 2036
+Solar.Sails 1734
+Zone.of.Control 1556
