@@ -1,18 +1,18 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.3.0-Factory.Outlets | downloads: 281
-v2.1.2-Solar.Sails | downloads: 492
+v1.3.0-Factory.Outlets | downloads: 283
+v2.1.2-Solar.Sails | downloads: 494
 v1.2.0-Factory.Outlets | downloads: 408
 v2.1.1-Solar.Sails | downloads: 199
 v1.1.1-Factory.Outlets | downloads: 44
-v1.6.0-Fundamental.Outfit.Expansion | downloads: 1913
-v1.2.3-Jaws | downloads: 1595
-v1.1.0-Zone.of.Control | downloads: 1542
+v1.6.0-Fundamental.Outfit.Expansion | downloads: 1915
+v1.2.3-Jaws | downloads: 1597
+v1.1.0-Zone.of.Control | downloads: 1544
 v1.1.0-Factory.Outlets | downloads: 941
 v1.5.1-Fundamental.Outfit.Expansion | downloads: 86
 v1.5.0-Fundamental.Outfit.Expansion | downloads: 28
-v1.2.1-Louise.Conglomerate.Shipyards | downloads: 1718
+v1.2.1-Louise.Conglomerate.Shipyards | downloads: 1720
 v2.1.0-Solar.Sails | downloads: 920
-v1.3.0-Bunsen.Burner | downloads: 1594
+v1.3.0-Bunsen.Burner | downloads: 1596
 v1.2.2-Jaws | downloads: 34
 v1.0.1-Zone.of.Control | downloads: 46
 v1.0.0-Factory.Outlets | downloads: 36
@@ -23,7 +23,7 @@ v2.0.2-Solar.Sails | downloads: 46
 v1.4.0-Fundamental.Outfit.Expansion | downloads: 121
 v1.2.0-Louise.Conglomerate.Shipyards | downloads: 93
 v1.2.0-Bunsen.Burner | downloads: 49
-v1.1.0-Korunak.Defense.Drones | downloads: 1660
+v1.1.0-Korunak.Defense.Drones | downloads: 1662
 v1.1.0-Jaws | downloads: 31
 v1.3.0-Fundamental.Outfit.Expansion | downloads: 32
 v1.0.0-Jaws | downloads: 13
@@ -53,15 +53,15 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 52
-# TOTAL DOWNLOADS: 14903
+# TOTAL DOWNLOADS: 14919
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 1815
-Factory.Outlets 1710
-Fundamental.Outfit.Expansion 2383
-Jaws 1697
-Korunak.Defense.Drones 1804
-Louise.Conglomerate.Shipyards 2095
-Solar.Sails 1789
-Zone.of.Control 1610
+Bunsen.Burner 1817
+Factory.Outlets 1712
+Fundamental.Outfit.Expansion 2385
+Jaws 1699
+Korunak.Defense.Drones 1806
+Louise.Conglomerate.Shipyards 2097
+Solar.Sails 1791
+Zone.of.Control 1612
