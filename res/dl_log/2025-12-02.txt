@@ -1,18 +1,18 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.3.0-Factory.Outlets | downloads: 307
-v2.1.2-Solar.Sails | downloads: 518
+v1.3.0-Factory.Outlets | downloads: 308
+v2.1.2-Solar.Sails | downloads: 519
 v1.2.0-Factory.Outlets | downloads: 408
 v2.1.1-Solar.Sails | downloads: 199
 v1.1.1-Factory.Outlets | downloads: 44
-v1.6.0-Fundamental.Outfit.Expansion | downloads: 1942
-v1.2.3-Jaws | downloads: 1623
-v1.1.0-Zone.of.Control | downloads: 1568
+v1.6.0-Fundamental.Outfit.Expansion | downloads: 1943
+v1.2.3-Jaws | downloads: 1624
+v1.1.0-Zone.of.Control | downloads: 1569
 v1.1.0-Factory.Outlets | downloads: 941
 v1.5.1-Fundamental.Outfit.Expansion | downloads: 86
 v1.5.0-Fundamental.Outfit.Expansion | downloads: 28
-v1.2.1-Louise.Conglomerate.Shipyards | downloads: 1747
+v1.2.1-Louise.Conglomerate.Shipyards | downloads: 1748
 v2.1.0-Solar.Sails | downloads: 920
-v1.3.0-Bunsen.Burner | downloads: 1622
+v1.3.0-Bunsen.Burner | downloads: 1623
 v1.2.2-Jaws | downloads: 34
 v1.0.1-Zone.of.Control | downloads: 46
 v1.0.0-Factory.Outlets | downloads: 36
@@ -23,7 +23,7 @@ v2.0.2-Solar.Sails | downloads: 46
 v1.4.0-Fundamental.Outfit.Expansion | downloads: 121
 v1.2.0-Louise.Conglomerate.Shipyards | downloads: 93
 v1.2.0-Bunsen.Burner | downloads: 49
-v1.1.0-Korunak.Defense.Drones | downloads: 1686
+v1.1.0-Korunak.Defense.Drones | downloads: 1687
 v1.1.0-Jaws | downloads: 31
 v1.3.0-Fundamental.Outfit.Expansion | downloads: 32
 v1.0.0-Jaws | downloads: 13
@@ -53,15 +53,15 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 52
-# TOTAL DOWNLOADS: 15121
+# TOTAL DOWNLOADS: 15129
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 1843
-Factory.Outlets 1736
-Fundamental.Outfit.Expansion 2412
-Jaws 1725
-Korunak.Defense.Drones 1830
-Louise.Conglomerate.Shipyards 2124
-Solar.Sails 1815
-Zone.of.Control 1636
+Bunsen.Burner 1844
+Factory.Outlets 1737
+Fundamental.Outfit.Expansion 2413
+Jaws 1726
+Korunak.Defense.Drones 1831
+Louise.Conglomerate.Shipyards 2125
+Solar.Sails 1816
+Zone.of.Control 1637
