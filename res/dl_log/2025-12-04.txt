@@ -1,18 +1,18 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.3.0-Factory.Outlets | downloads: 388
-v2.1.2-Solar.Sails | downloads: 602
+v1.3.0-Factory.Outlets | downloads: 389
+v2.1.2-Solar.Sails | downloads: 603
 v1.2.0-Factory.Outlets | downloads: 408
 v2.1.1-Solar.Sails | downloads: 199
 v1.1.1-Factory.Outlets | downloads: 44
-v1.6.0-Fundamental.Outfit.Expansion | downloads: 2037
-v1.2.3-Jaws | downloads: 1703
-v1.1.0-Zone.of.Control | downloads: 1646
+v1.6.0-Fundamental.Outfit.Expansion | downloads: 2038
+v1.2.3-Jaws | downloads: 1704
+v1.1.0-Zone.of.Control | downloads: 1647
 v1.1.0-Factory.Outlets | downloads: 941
 v1.5.1-Fundamental.Outfit.Expansion | downloads: 86
 v1.5.0-Fundamental.Outfit.Expansion | downloads: 28
-v1.2.1-Louise.Conglomerate.Shipyards | downloads: 1832
+v1.2.1-Louise.Conglomerate.Shipyards | downloads: 1833
 v2.1.0-Solar.Sails | downloads: 920
-v1.3.0-Bunsen.Burner | downloads: 1702
+v1.3.0-Bunsen.Burner | downloads: 1703
 v1.2.2-Jaws | downloads: 34
 v1.0.1-Zone.of.Control | downloads: 46
 v1.0.0-Factory.Outlets | downloads: 36
@@ -23,7 +23,7 @@ v2.0.2-Solar.Sails | downloads: 46
 v1.4.0-Fundamental.Outfit.Expansion | downloads: 121
 v1.2.0-Louise.Conglomerate.Shipyards | downloads: 93
 v1.2.0-Bunsen.Burner | downloads: 49
-v1.1.0-Korunak.Defense.Drones | downloads: 1772
+v1.1.0-Korunak.Defense.Drones | downloads: 1773
 v1.1.0-Jaws | downloads: 31
 v1.3.0-Fundamental.Outfit.Expansion | downloads: 32
 v1.0.0-Jaws | downloads: 13
@@ -53,15 +53,15 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 52
-# TOTAL DOWNLOADS: 15790
+# TOTAL DOWNLOADS: 15798
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 1923
-Factory.Outlets 1817
-Fundamental.Outfit.Expansion 2507
-Jaws 1805
-Korunak.Defense.Drones 1916
-Louise.Conglomerate.Shipyards 2209
-Solar.Sails 1899
-Zone.of.Control 1714
+Bunsen.Burner 1924
+Factory.Outlets 1818
+Fundamental.Outfit.Expansion 2508
+Jaws 1806
+Korunak.Defense.Drones 1917
+Louise.Conglomerate.Shipyards 2210
+Solar.Sails 1900
+Zone.of.Control 1715
