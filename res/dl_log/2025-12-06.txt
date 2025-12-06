@@ -1,18 +1,18 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.3.0-Factory.Outlets | downloads: 431
-v2.1.2-Solar.Sails | downloads: 640
+v1.3.0-Factory.Outlets | downloads: 432
+v2.1.2-Solar.Sails | downloads: 641
 v1.2.0-Factory.Outlets | downloads: 408
 v2.1.1-Solar.Sails | downloads: 199
 v1.1.1-Factory.Outlets | downloads: 44
-v1.6.0-Fundamental.Outfit.Expansion | downloads: 2083
-v1.2.3-Jaws | downloads: 1743
-v1.1.0-Zone.of.Control | downloads: 1684
+v1.6.0-Fundamental.Outfit.Expansion | downloads: 2084
+v1.2.3-Jaws | downloads: 1744
+v1.1.0-Zone.of.Control | downloads: 1685
 v1.1.0-Factory.Outlets | downloads: 941
 v1.5.1-Fundamental.Outfit.Expansion | downloads: 86
 v1.5.0-Fundamental.Outfit.Expansion | downloads: 28
-v1.2.1-Louise.Conglomerate.Shipyards | downloads: 1870
+v1.2.1-Louise.Conglomerate.Shipyards | downloads: 1871
 v2.1.0-Solar.Sails | downloads: 920
-v1.3.0-Bunsen.Burner | downloads: 1739
+v1.3.0-Bunsen.Burner | downloads: 1740
 v1.2.2-Jaws | downloads: 34
 v1.0.1-Zone.of.Control | downloads: 46
 v1.0.0-Factory.Outlets | downloads: 36
@@ -23,7 +23,7 @@ v2.0.2-Solar.Sails | downloads: 46
 v1.4.0-Fundamental.Outfit.Expansion | downloads: 121
 v1.2.0-Louise.Conglomerate.Shipyards | downloads: 93
 v1.2.0-Bunsen.Burner | downloads: 49
-v1.1.0-Korunak.Defense.Drones | downloads: 1810
+v1.1.0-Korunak.Defense.Drones | downloads: 1811
 v1.1.0-Jaws | downloads: 31
 v1.3.0-Fundamental.Outfit.Expansion | downloads: 32
 v1.0.0-Jaws | downloads: 13
@@ -53,15 +53,15 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 52
-# TOTAL DOWNLOADS: 16108
+# TOTAL DOWNLOADS: 16116
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 1960
-Factory.Outlets 1860
-Fundamental.Outfit.Expansion 2553
-Jaws 1845
-Korunak.Defense.Drones 1954
-Louise.Conglomerate.Shipyards 2247
-Solar.Sails 1937
-Zone.of.Control 1752
+Bunsen.Burner 1961
+Factory.Outlets 1861
+Fundamental.Outfit.Expansion 2554
+Jaws 1846
+Korunak.Defense.Drones 1955
+Louise.Conglomerate.Shipyards 2248
+Solar.Sails 1938
+Zone.of.Control 1753
