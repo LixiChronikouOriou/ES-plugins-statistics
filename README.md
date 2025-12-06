@@ -21,8 +21,8 @@
 		<td>1897</td>
 		<td>1925</td>
 		<td>1950</td>
-		<td>1972</td>
-		<td>+ 22</td>
+		<td>1973</td>
+		<td>+ 23</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -87,8 +87,8 @@
 		<td>1873</td>
 		<td>1901</td>
 		<td>1927</td>
-		<td>1948</td>
-		<td>+ 21</td>
+		<td>1949</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
@@ -109,8 +109,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16199</td>
-		<td>179</td>
+		<td>16201</td>
+		<td>181</td>
 	</tr>
 </table>
 </sub></sup>
@@ -157,8 +157,8 @@
 		<td>1897</td>
 		<td>1925</td>
 		<td>1950</td>
-		<td>1972</td>
-		<td>+ 22</td>
+		<td>1973</td>
+		<td>+ 23</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -179,8 +179,8 @@
 		<td>1873</td>
 		<td>1901</td>
 		<td>1927</td>
-		<td>1948</td>
-		<td>+ 21</td>
+		<td>1949</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -223,8 +223,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16199</td>
-		<td>179</td>
+		<td>16201</td>
+		<td>181</td>
 	</tr>
 </table>
 </sub></sup>
