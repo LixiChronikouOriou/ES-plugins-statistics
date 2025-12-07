@@ -21,8 +21,8 @@
 		<td>1925</td>
 		<td>1950</td>
 		<td>1976</td>
-		<td>1981</td>
-		<td>+ 5</td>
+		<td>1982</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -109,8 +109,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16230</td>
-		<td>26</td>
+		<td>16231</td>
+		<td>27</td>
 	</tr>
 </table>
 </sub></sup>
@@ -157,8 +157,8 @@
 		<td>1925</td>
 		<td>1950</td>
 		<td>1976</td>
-		<td>1981</td>
-		<td>+ 5</td>
+		<td>1982</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -223,8 +223,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16230</td>
-		<td>26</td>
+		<td>16231</td>
+		<td>27</td>
 	</tr>
 </table>
 </sub></sup>
