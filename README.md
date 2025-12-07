@@ -21,8 +21,8 @@
 		<td>1925</td>
 		<td>1950</td>
 		<td>1976</td>
-		<td>1990</td>
-		<td>+ 14</td>
+		<td>1991</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -32,8 +32,8 @@
 		<td>1819</td>
 		<td>1847</td>
 		<td>1871</td>
-		<td>1874</td>
-		<td>+ 3</td>
+		<td>1876</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
@@ -109,8 +109,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16246</td>
-		<td>42</td>
+		<td>16249</td>
+		<td>45</td>
 	</tr>
 </table>
 </sub></sup>
@@ -157,8 +157,8 @@
 		<td>1925</td>
 		<td>1950</td>
 		<td>1976</td>
-		<td>1990</td>
-		<td>+ 14</td>
+		<td>1991</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -190,8 +190,8 @@
 		<td>1819</td>
 		<td>1847</td>
 		<td>1871</td>
-		<td>1874</td>
-		<td>+ 3</td>
+		<td>1876</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -223,8 +223,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16246</td>
-		<td>42</td>
+		<td>16249</td>
+		<td>45</td>
 	</tr>
 </table>
 </sub></sup>
