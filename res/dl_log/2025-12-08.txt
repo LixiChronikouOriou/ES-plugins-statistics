@@ -1,18 +1,18 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.3.0-Factory.Outlets | downloads: 484
-v2.1.2-Solar.Sails | downloads: 692
+v1.3.0-Factory.Outlets | downloads: 485
+v2.1.2-Solar.Sails | downloads: 694
 v1.2.0-Factory.Outlets | downloads: 408
 v2.1.1-Solar.Sails | downloads: 199
 v1.1.1-Factory.Outlets | downloads: 44
-v1.6.0-Fundamental.Outfit.Expansion | downloads: 2146
-v1.2.3-Jaws | downloads: 1794
-v1.1.0-Zone.of.Control | downloads: 1737
+v1.6.0-Fundamental.Outfit.Expansion | downloads: 2147
+v1.2.3-Jaws | downloads: 1795
+v1.1.0-Zone.of.Control | downloads: 1738
 v1.1.0-Factory.Outlets | downloads: 941
 v1.5.1-Fundamental.Outfit.Expansion | downloads: 86
 v1.5.0-Fundamental.Outfit.Expansion | downloads: 28
-v1.2.1-Louise.Conglomerate.Shipyards | downloads: 1925
+v1.2.1-Louise.Conglomerate.Shipyards | downloads: 1926
 v2.1.0-Solar.Sails | downloads: 920
-v1.3.0-Bunsen.Burner | downloads: 1808
+v1.3.0-Bunsen.Burner | downloads: 1809
 v1.2.2-Jaws | downloads: 34
 v1.0.1-Zone.of.Control | downloads: 46
 v1.0.0-Factory.Outlets | downloads: 36
@@ -23,7 +23,7 @@ v2.0.2-Solar.Sails | downloads: 46
 v1.4.0-Fundamental.Outfit.Expansion | downloads: 121
 v1.2.0-Louise.Conglomerate.Shipyards | downloads: 93
 v1.2.0-Bunsen.Burner | downloads: 49
-v1.1.0-Korunak.Defense.Drones | downloads: 1864
+v1.1.0-Korunak.Defense.Drones | downloads: 1867
 v1.1.0-Jaws | downloads: 31
 v1.3.0-Fundamental.Outfit.Expansion | downloads: 32
 v1.0.0-Jaws | downloads: 13
@@ -53,15 +53,15 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 52
-# TOTAL DOWNLOADS: 16558
+# TOTAL DOWNLOADS: 16569
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 2029
-Factory.Outlets 1913
-Fundamental.Outfit.Expansion 2616
-Jaws 1896
-Korunak.Defense.Drones 2008
-Louise.Conglomerate.Shipyards 2302
-Solar.Sails 1989
-Zone.of.Control 1805
+Bunsen.Burner 2030
+Factory.Outlets 1914
+Fundamental.Outfit.Expansion 2617
+Jaws 1897
+Korunak.Defense.Drones 2011
+Louise.Conglomerate.Shipyards 2303
+Solar.Sails 1991
+Zone.of.Control 1806
