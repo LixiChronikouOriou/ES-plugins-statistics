@@ -1,18 +1,18 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.3.0-Factory.Outlets | downloads: 468
-v2.1.2-Solar.Sails | downloads: 676
+v1.3.0-Factory.Outlets | downloads: 469
+v2.1.2-Solar.Sails | downloads: 677
 v1.2.0-Factory.Outlets | downloads: 408
 v2.1.1-Solar.Sails | downloads: 199
 v1.1.1-Factory.Outlets | downloads: 44
-v1.6.0-Fundamental.Outfit.Expansion | downloads: 2129
-v1.2.3-Jaws | downloads: 1778
-v1.1.0-Zone.of.Control | downloads: 1721
+v1.6.0-Fundamental.Outfit.Expansion | downloads: 2130
+v1.2.3-Jaws | downloads: 1779
+v1.1.0-Zone.of.Control | downloads: 1722
 v1.1.0-Factory.Outlets | downloads: 941
 v1.5.1-Fundamental.Outfit.Expansion | downloads: 86
 v1.5.0-Fundamental.Outfit.Expansion | downloads: 28
-v1.2.1-Louise.Conglomerate.Shipyards | downloads: 1910
+v1.2.1-Louise.Conglomerate.Shipyards | downloads: 1911
 v2.1.0-Solar.Sails | downloads: 920
-v1.3.0-Bunsen.Burner | downloads: 1792
+v1.3.0-Bunsen.Burner | downloads: 1793
 v1.2.2-Jaws | downloads: 34
 v1.0.1-Zone.of.Control | downloads: 46
 v1.0.0-Factory.Outlets | downloads: 36
@@ -23,7 +23,7 @@ v2.0.2-Solar.Sails | downloads: 46
 v1.4.0-Fundamental.Outfit.Expansion | downloads: 121
 v1.2.0-Louise.Conglomerate.Shipyards | downloads: 93
 v1.2.0-Bunsen.Burner | downloads: 49
-v1.1.0-Korunak.Defense.Drones | downloads: 1848
+v1.1.0-Korunak.Defense.Drones | downloads: 1849
 v1.1.0-Jaws | downloads: 31
 v1.3.0-Fundamental.Outfit.Expansion | downloads: 32
 v1.0.0-Jaws | downloads: 13
@@ -53,15 +53,15 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 52
-# TOTAL DOWNLOADS: 16430
+# TOTAL DOWNLOADS: 16438
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 2013
-Factory.Outlets 1897
-Fundamental.Outfit.Expansion 2599
-Jaws 1880
-Korunak.Defense.Drones 1992
-Louise.Conglomerate.Shipyards 2287
-Solar.Sails 1973
-Zone.of.Control 1789
+Bunsen.Burner 2014
+Factory.Outlets 1898
+Fundamental.Outfit.Expansion 2600
+Jaws 1881
+Korunak.Defense.Drones 1993
+Louise.Conglomerate.Shipyards 2288
+Solar.Sails 1974
+Zone.of.Control 1790
