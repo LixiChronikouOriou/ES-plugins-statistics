@@ -1,19 +1,19 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.7.0-Fundamental.Outfit.Expansion | downloads: 61
-v1.3.0-Factory.Outlets | downloads: 536
-v2.1.2-Solar.Sails | downloads: 748
+v1.7.0-Fundamental.Outfit.Expansion | downloads: 62
+v1.3.0-Factory.Outlets | downloads: 537
+v2.1.2-Solar.Sails | downloads: 749
 v1.2.0-Factory.Outlets | downloads: 408
 v2.1.1-Solar.Sails | downloads: 199
 v1.1.1-Factory.Outlets | downloads: 44
 v1.6.0-Fundamental.Outfit.Expansion | downloads: 2164
-v1.2.3-Jaws | downloads: 1853
-v1.1.0-Zone.of.Control | downloads: 1793
+v1.2.3-Jaws | downloads: 1854
+v1.1.0-Zone.of.Control | downloads: 1794
 v1.1.0-Factory.Outlets | downloads: 941
 v1.5.1-Fundamental.Outfit.Expansion | downloads: 86
 v1.5.0-Fundamental.Outfit.Expansion | downloads: 28
-v1.2.1-Louise.Conglomerate.Shipyards | downloads: 1986
+v1.2.1-Louise.Conglomerate.Shipyards | downloads: 1987
 v2.1.0-Solar.Sails | downloads: 920
-v1.3.0-Bunsen.Burner | downloads: 1860
+v1.3.0-Bunsen.Burner | downloads: 1861
 v1.2.2-Jaws | downloads: 34
 v1.0.1-Zone.of.Control | downloads: 46
 v1.0.0-Factory.Outlets | downloads: 36
@@ -24,7 +24,7 @@ v2.0.2-Solar.Sails | downloads: 46
 v1.4.0-Fundamental.Outfit.Expansion | downloads: 121
 v1.2.0-Louise.Conglomerate.Shipyards | downloads: 93
 v1.2.0-Bunsen.Burner | downloads: 49
-v1.1.0-Korunak.Defense.Drones | downloads: 1918
+v1.1.0-Korunak.Defense.Drones | downloads: 1919
 v1.1.0-Jaws | downloads: 31
 v1.3.0-Fundamental.Outfit.Expansion | downloads: 32
 v1.0.0-Jaws | downloads: 13
@@ -54,15 +54,15 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 53
-# TOTAL DOWNLOADS: 17027
+# TOTAL DOWNLOADS: 17035
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 2081
-Factory.Outlets 1965
-Fundamental.Outfit.Expansion 2695
-Jaws 1955
-Korunak.Defense.Drones 2062
-Louise.Conglomerate.Shipyards 2363
-Solar.Sails 2045
-Zone.of.Control 1861
+Bunsen.Burner 2082
+Factory.Outlets 1966
+Fundamental.Outfit.Expansion 2696
+Jaws 1956
+Korunak.Defense.Drones 2063
+Louise.Conglomerate.Shipyards 2364
+Solar.Sails 2046
+Zone.of.Control 1862
