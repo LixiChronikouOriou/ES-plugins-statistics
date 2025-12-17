@@ -32,8 +32,8 @@
 		<td>2078</td>
 		<td>2104</td>
 		<td>2132</td>
-		<td>2147</td>
-		<td>+ 15</td>
+		<td>2149</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
@@ -65,8 +65,8 @@
 		<td>2170</td>
 		<td>2198</td>
 		<td>2221</td>
-		<td>2236</td>
-		<td>+ 15</td>
+		<td>2238</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -76,8 +76,8 @@
 		<td>2472</td>
 		<td>2502</td>
 		<td>2530</td>
-		<td>2545</td>
-		<td>+ 15</td>
+		<td>2547</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -98,8 +98,8 @@
 		<td>1967</td>
 		<td>1992</td>
 		<td>2015</td>
-		<td>2030</td>
-		<td>+ 15</td>
+		<td>2032</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -109,8 +109,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18490</td>
-		<td>120</td>
+		<td>18498</td>
+		<td>128</td>
 	</tr>
 </table>
 </sub></sup>
@@ -146,8 +146,8 @@
 		<td>2472</td>
 		<td>2502</td>
 		<td>2530</td>
-		<td>2545</td>
-		<td>+ 15</td>
+		<td>2547</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>Bunsen.Burner</td>
@@ -168,8 +168,8 @@
 		<td>2170</td>
 		<td>2198</td>
 		<td>2221</td>
-		<td>2236</td>
-		<td>+ 15</td>
+		<td>2238</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -190,8 +190,8 @@
 		<td>2078</td>
 		<td>2104</td>
 		<td>2132</td>
-		<td>2147</td>
-		<td>+ 15</td>
+		<td>2149</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -212,8 +212,8 @@
 		<td>1967</td>
 		<td>1992</td>
 		<td>2015</td>
-		<td>2030</td>
-		<td>+ 15</td>
+		<td>2032</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -223,8 +223,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18490</td>
-		<td>120</td>
+		<td>18498</td>
+		<td>128</td>
 	</tr>
 </table>
 </sub></sup>
