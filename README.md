@@ -21,8 +21,8 @@
 		<td>2242</td>
 		<td>2267</td>
 		<td>2293</td>
-		<td>2294</td>
-		<td>+ 1</td>
+		<td>2296</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -32,8 +32,8 @@
 		<td>2132</td>
 		<td>2159</td>
 		<td>2187</td>
-		<td>2188</td>
-		<td>+ 1</td>
+		<td>2190</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
@@ -43,8 +43,8 @@
 		<td>2903</td>
 		<td>2932</td>
 		<td>2962</td>
-		<td>2963</td>
-		<td>+ 1</td>
+		<td>2969</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -54,8 +54,8 @@
 		<td>2119</td>
 		<td>2146</td>
 		<td>2173</td>
-		<td>2174</td>
-		<td>+ 1</td>
+		<td>2179</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -65,8 +65,8 @@
 		<td>2221</td>
 		<td>2250</td>
 		<td>2278</td>
-		<td>2279</td>
-		<td>+ 1</td>
+		<td>2283</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -76,8 +76,8 @@
 		<td>2530</td>
 		<td>2557</td>
 		<td>2587</td>
-		<td>2588</td>
-		<td>+ 1</td>
+		<td>2592</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -87,8 +87,8 @@
 		<td>2208</td>
 		<td>2233</td>
 		<td>2259</td>
-		<td>2260</td>
-		<td>+ 1</td>
+		<td>2262</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
@@ -98,8 +98,8 @@
 		<td>2015</td>
 		<td>2042</td>
 		<td>2071</td>
-		<td>2072</td>
-		<td>+ 1</td>
+		<td>2076</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -109,8 +109,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18818</td>
-		<td>8</td>
+		<td>18847</td>
+		<td>37</td>
 	</tr>
 </table>
 </sub></sup>
@@ -135,8 +135,8 @@
 		<td>2903</td>
 		<td>2932</td>
 		<td>2962</td>
-		<td>2963</td>
-		<td>+ 1</td>
+		<td>2969</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -146,8 +146,8 @@
 		<td>2530</td>
 		<td>2557</td>
 		<td>2587</td>
-		<td>2588</td>
-		<td>+ 1</td>
+		<td>2592</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>Bunsen.Burner</td>
@@ -157,8 +157,8 @@
 		<td>2242</td>
 		<td>2267</td>
 		<td>2293</td>
-		<td>2294</td>
-		<td>+ 1</td>
+		<td>2296</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -168,8 +168,8 @@
 		<td>2221</td>
 		<td>2250</td>
 		<td>2278</td>
-		<td>2279</td>
-		<td>+ 1</td>
+		<td>2283</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -179,8 +179,8 @@
 		<td>2208</td>
 		<td>2233</td>
 		<td>2259</td>
-		<td>2260</td>
-		<td>+ 1</td>
+		<td>2262</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -190,8 +190,8 @@
 		<td>2132</td>
 		<td>2159</td>
 		<td>2187</td>
-		<td>2188</td>
-		<td>+ 1</td>
+		<td>2190</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -201,8 +201,8 @@
 		<td>2119</td>
 		<td>2146</td>
 		<td>2173</td>
-		<td>2174</td>
-		<td>+ 1</td>
+		<td>2179</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
@@ -212,8 +212,8 @@
 		<td>2015</td>
 		<td>2042</td>
 		<td>2071</td>
-		<td>2072</td>
-		<td>+ 1</td>
+		<td>2076</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -223,8 +223,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18818</td>
-		<td>8</td>
+		<td>18847</td>
+		<td>37</td>
 	</tr>
 </table>
 </sub></sup>
@@ -232,7 +232,6 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2025-12-10</td>
 		<td>2025-12-11</td>
 		<td>2025-12-12</td>
 		<td>2025-12-13</td>
@@ -241,10 +240,10 @@
 		<td>2025-12-16</td>
 		<td>2025-12-17</td>
 		<td>2025-12-18</td>
+		<td>2025-12-19</td>
 	</tr>
 	<tr>
 		<td>page views</td>
-		<td>8</td>
 		<td>20</td>
 		<td>21</td>
 		<td>19</td>
@@ -253,10 +252,10 @@
 		<td>50</td>
 		<td>14</td>
 		<td>3</td>
+		<td>1</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
-		<td>7</td>
 		<td>9</td>
 		<td>6</td>
 		<td>7</td>
@@ -265,6 +264,7 @@
 		<td>8</td>
 		<td>6</td>
 		<td>2</td>
+		<td>1</td>
 	</tr>
 </table>
 <br>
@@ -278,8 +278,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-13</td>
-		<td>1568</td>
-		<td>497</td>
+		<td>1569</td>
+		<td>498</td>
 		<td>105</td>
 		<td>20</td>
 	</tr>
@@ -292,8 +292,8 @@
 	</tr>
 	<tr>
 		<td>67</td>
-		<td>23.40</td>
-		<td>7.42</td>
+		<td>23.42</td>
+		<td>7.43</td>
 		<td></td>
 		<td></td>
 	</tr>
