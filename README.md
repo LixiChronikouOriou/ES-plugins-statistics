@@ -21,8 +21,8 @@
 		<td>2293</td>
 		<td>2320</td>
 		<td>2346</td>
-		<td>2363</td>
-		<td>+ 17</td>
+		<td>2364</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -32,8 +32,8 @@
 		<td>2187</td>
 		<td>2216</td>
 		<td>2243</td>
-		<td>2260</td>
-		<td>+ 17</td>
+		<td>2261</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
@@ -43,8 +43,8 @@
 		<td>2962</td>
 		<td>2996</td>
 		<td>3025</td>
-		<td>3044</td>
-		<td>+ 19</td>
+		<td>3045</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -54,8 +54,8 @@
 		<td>2173</td>
 		<td>2205</td>
 		<td>2231</td>
-		<td>2248</td>
-		<td>+ 17</td>
+		<td>2249</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -65,8 +65,8 @@
 		<td>2278</td>
 		<td>2307</td>
 		<td>2333</td>
-		<td>2350</td>
-		<td>+ 17</td>
+		<td>2351</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -76,8 +76,8 @@
 		<td>2587</td>
 		<td>2619</td>
 		<td>2648</td>
-		<td>2667</td>
-		<td>+ 19</td>
+		<td>2668</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -87,8 +87,8 @@
 		<td>2259</td>
 		<td>2286</td>
 		<td>2312</td>
-		<td>2329</td>
-		<td>+ 17</td>
+		<td>2330</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
@@ -98,8 +98,8 @@
 		<td>2071</td>
 		<td>2101</td>
 		<td>2127</td>
-		<td>2144</td>
-		<td>+ 17</td>
+		<td>2145</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -109,8 +109,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19405</td>
-		<td>140</td>
+		<td>19413</td>
+		<td>148</td>
 	</tr>
 </table>
 </sub></sup>
@@ -135,8 +135,8 @@
 		<td>2962</td>
 		<td>2996</td>
 		<td>3025</td>
-		<td>3044</td>
-		<td>+ 19</td>
+		<td>3045</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -146,8 +146,8 @@
 		<td>2587</td>
 		<td>2619</td>
 		<td>2648</td>
-		<td>2667</td>
-		<td>+ 19</td>
+		<td>2668</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>Bunsen.Burner</td>
@@ -157,8 +157,8 @@
 		<td>2293</td>
 		<td>2320</td>
 		<td>2346</td>
-		<td>2363</td>
-		<td>+ 17</td>
+		<td>2364</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -168,8 +168,8 @@
 		<td>2278</td>
 		<td>2307</td>
 		<td>2333</td>
-		<td>2350</td>
-		<td>+ 17</td>
+		<td>2351</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -179,8 +179,8 @@
 		<td>2259</td>
 		<td>2286</td>
 		<td>2312</td>
-		<td>2329</td>
-		<td>+ 17</td>
+		<td>2330</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -190,8 +190,8 @@
 		<td>2187</td>
 		<td>2216</td>
 		<td>2243</td>
-		<td>2260</td>
-		<td>+ 17</td>
+		<td>2261</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -201,8 +201,8 @@
 		<td>2173</td>
 		<td>2205</td>
 		<td>2231</td>
-		<td>2248</td>
-		<td>+ 17</td>
+		<td>2249</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
@@ -212,8 +212,8 @@
 		<td>2071</td>
 		<td>2101</td>
 		<td>2127</td>
-		<td>2144</td>
-		<td>+ 17</td>
+		<td>2145</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -223,8 +223,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19405</td>
-		<td>140</td>
+		<td>19413</td>
+		<td>148</td>
 	</tr>
 </table>
 </sub></sup>
@@ -232,7 +232,6 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2025-12-12</td>
 		<td>2025-12-13</td>
 		<td>2025-12-14</td>
 		<td>2025-12-15</td>
@@ -241,10 +240,10 @@
 		<td>2025-12-18</td>
 		<td>2025-12-19</td>
 		<td>2025-12-20</td>
+		<td>2025-12-21</td>
 	</tr>
 	<tr>
 		<td>page views</td>
-		<td>21</td>
 		<td>19</td>
 		<td>12</td>
 		<td>13</td>
@@ -253,10 +252,10 @@
 		<td>3</td>
 		<td>3</td>
 		<td>10</td>
+		<td>2</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
-		<td>6</td>
 		<td>7</td>
 		<td>10</td>
 		<td>4</td>
@@ -265,6 +264,7 @@
 		<td>2</td>
 		<td>3</td>
 		<td>3</td>
+		<td>1</td>
 	</tr>
 </table>
 <br>
@@ -278,8 +278,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-13</td>
-		<td>1581</td>
-		<td>503</td>
+		<td>1583</td>
+		<td>504</td>
 		<td>105</td>
 		<td>20</td>
 	</tr>
@@ -292,8 +292,8 @@
 	</tr>
 	<tr>
 		<td>69</td>
-		<td>22.91</td>
-		<td>7.29</td>
+		<td>22.94</td>
+		<td>7.30</td>
 		<td></td>
 		<td></td>
 	</tr>
