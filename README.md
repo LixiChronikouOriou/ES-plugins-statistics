@@ -232,7 +232,6 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2025-12-17</td>
 		<td>2025-12-18</td>
 		<td>2025-12-19</td>
 		<td>2025-12-20</td>
@@ -241,10 +240,10 @@
 		<td>2025-12-23</td>
 		<td>2025-12-24</td>
 		<td>2025-12-25</td>
+		<td>2025-12-26</td>
 	</tr>
 	<tr>
 		<td>page views</td>
-		<td>14</td>
 		<td>3</td>
 		<td>3</td>
 		<td>10</td>
@@ -253,10 +252,10 @@
 		<td>9</td>
 		<td>12</td>
 		<td>4</td>
+		<td>1</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
-		<td>6</td>
 		<td>2</td>
 		<td>3</td>
 		<td>3</td>
@@ -265,6 +264,7 @@
 		<td>6</td>
 		<td>4</td>
 		<td>3</td>
+		<td>1</td>
 	</tr>
 </table>
 <br>
@@ -278,8 +278,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-13</td>
-		<td>1677</td>
-		<td>524</td>
+		<td>1678</td>
+		<td>525</td>
 		<td>105</td>
 		<td>20</td>
 	</tr>
@@ -292,8 +292,8 @@
 	</tr>
 	<tr>
 		<td>74</td>
-		<td>22.66</td>
-		<td>7.08</td>
+		<td>22.68</td>
+		<td>7.09</td>
 		<td></td>
 		<td></td>
 	</tr>
