@@ -87,8 +87,8 @@
 		<td>2535</td>
 		<td>2558</td>
 		<td>2585</td>
-		<td>2589</td>
-		<td>+ 4</td>
+		<td>2591</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
@@ -109,8 +109,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21514</td>
-		<td>34</td>
+		<td>21516</td>
+		<td>36</td>
 	</tr>
 </table>
 </sub></sup>
@@ -179,8 +179,8 @@
 		<td>2535</td>
 		<td>2558</td>
 		<td>2585</td>
-		<td>2589</td>
-		<td>+ 4</td>
+		<td>2591</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -223,8 +223,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21514</td>
-		<td>34</td>
+		<td>21516</td>
+		<td>36</td>
 	</tr>
 </table>
 </sub></sup>
