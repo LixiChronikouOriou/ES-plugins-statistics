@@ -32,8 +32,8 @@
 		<td>2596</td>
 		<td>2628</td>
 		<td>2658</td>
-		<td>2674</td>
-		<td>+ 16</td>
+		<td>2676</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
@@ -109,8 +109,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22752</td>
-		<td>120</td>
+		<td>22754</td>
+		<td>122</td>
 	</tr>
 </table>
 </sub></sup>
@@ -190,8 +190,8 @@
 		<td>2596</td>
 		<td>2628</td>
 		<td>2658</td>
-		<td>2674</td>
-		<td>+ 16</td>
+		<td>2676</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -223,8 +223,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22752</td>
-		<td>120</td>
+		<td>22754</td>
+		<td>122</td>
 	</tr>
 </table>
 </sub></sup>
@@ -232,7 +232,6 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2025-12-26</td>
 		<td>2025-12-27</td>
 		<td>2025-12-28</td>
 		<td>2025-12-29</td>
@@ -241,10 +240,10 @@
 		<td>2026-01-01</td>
 		<td>2026-01-02</td>
 		<td>2026-01-03</td>
+		<td>2026-01-04</td>
 	</tr>
 	<tr>
 		<td>page views</td>
-		<td>4</td>
 		<td>9</td>
 		<td>7</td>
 		<td>3</td>
@@ -253,10 +252,10 @@
 		<td>9</td>
 		<td>24</td>
 		<td>11</td>
+		<td>15</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
-		<td>3</td>
 		<td>7</td>
 		<td>5</td>
 		<td>3</td>
@@ -265,6 +264,7 @@
 		<td>4</td>
 		<td>10</td>
 		<td>6</td>
+		<td>7</td>
 	</tr>
 </table>
 <br>
@@ -278,8 +278,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-13</td>
-		<td>1869</td>
-		<td>579</td>
+		<td>1884</td>
+		<td>586</td>
 		<td>105</td>
 		<td>20</td>
 	</tr>
@@ -292,8 +292,8 @@
 	</tr>
 	<tr>
 		<td>84</td>
-		<td>22.25</td>
-		<td>6.89</td>
+		<td>22.43</td>
+		<td>6.98</td>
 		<td></td>
 		<td></td>
 	</tr>
