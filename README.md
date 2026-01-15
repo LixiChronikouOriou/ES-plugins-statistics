@@ -32,8 +32,8 @@
 		<td>2878</td>
 		<td>2904</td>
 		<td>2932</td>
-		<td>2946</td>
-		<td>+ 14</td>
+		<td>2948</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
@@ -43,8 +43,8 @@
 		<td>3738</td>
 		<td>3765</td>
 		<td>3791</td>
-		<td>3809</td>
-		<td>+ 18</td>
+		<td>3811</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -76,8 +76,8 @@
 		<td>3296</td>
 		<td>3322</td>
 		<td>3348</td>
-		<td>3364</td>
-		<td>+ 16</td>
+		<td>3368</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -98,8 +98,8 @@
 		<td>2743</td>
 		<td>2769</td>
 		<td>2795</td>
-		<td>2811</td>
-		<td>+ 16</td>
+		<td>2813</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -109,8 +109,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>24886</td>
-		<td>122</td>
+		<td>24896</td>
+		<td>132</td>
 	</tr>
 </table>
 </sub></sup>
@@ -135,8 +135,8 @@
 		<td>3738</td>
 		<td>3765</td>
 		<td>3791</td>
-		<td>3809</td>
-		<td>+ 18</td>
+		<td>3811</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -146,8 +146,8 @@
 		<td>3296</td>
 		<td>3322</td>
 		<td>3348</td>
-		<td>3364</td>
-		<td>+ 16</td>
+		<td>3368</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>Bunsen.Burner</td>
@@ -190,8 +190,8 @@
 		<td>2878</td>
 		<td>2904</td>
 		<td>2932</td>
-		<td>2946</td>
-		<td>+ 14</td>
+		<td>2948</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -212,8 +212,8 @@
 		<td>2743</td>
 		<td>2769</td>
 		<td>2795</td>
-		<td>2811</td>
-		<td>+ 16</td>
+		<td>2813</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -223,8 +223,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>24886</td>
-		<td>122</td>
+		<td>24896</td>
+		<td>132</td>
 	</tr>
 </table>
 </sub></sup>
