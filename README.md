@@ -21,8 +21,8 @@
 		<td>3193</td>
 		<td>3216</td>
 		<td>3240</td>
-		<td>3247</td>
-		<td>+ 7</td>
+		<td>3248</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -109,8 +109,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>26710</td>
-		<td>63</td>
+		<td>26711</td>
+		<td>64</td>
 	</tr>
 </table>
 </sub></sup>
@@ -150,6 +150,17 @@
 		<td>+ 9</td>
 	</tr>
 	<tr>
+		<td>Bunsen.Burner</td>
+		<td>3121</td>
+		<td>3147</td>
+		<td>3170</td>
+		<td>3193</td>
+		<td>3216</td>
+		<td>3240</td>
+		<td>3248</td>
+		<td>+ 8</td>
+	</tr>
+	<tr>
 		<td>Korunak.Defense.Drones</td>
 		<td>3111</td>
 		<td>3136</td>
@@ -159,17 +170,6 @@
 		<td>3237</td>
 		<td>3247</td>
 		<td>+ 10</td>
-	</tr>
-	<tr>
-		<td>Bunsen.Burner</td>
-		<td>3121</td>
-		<td>3147</td>
-		<td>3170</td>
-		<td>3193</td>
-		<td>3216</td>
-		<td>3240</td>
-		<td>3247</td>
-		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -223,8 +223,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>26710</td>
-		<td>63</td>
+		<td>26711</td>
+		<td>64</td>
 	</tr>
 </table>
 </sub></sup>
