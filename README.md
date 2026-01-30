@@ -21,8 +21,8 @@
 		<td>3351</td>
 		<td>3374</td>
 		<td>3398</td>
-		<td>3426</td>
-		<td>+ 28</td>
+		<td>3428</td>
+		<td>+ 30</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -65,8 +65,8 @@
 		<td>3348</td>
 		<td>3371</td>
 		<td>3395</td>
-		<td>3422</td>
-		<td>+ 27</td>
+		<td>3424</td>
+		<td>+ 29</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -76,8 +76,8 @@
 		<td>3708</td>
 		<td>3731</td>
 		<td>3755</td>
-		<td>3782</td>
-		<td>+ 27</td>
+		<td>3784</td>
+		<td>+ 29</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -87,8 +87,8 @@
 		<td>3325</td>
 		<td>3348</td>
 		<td>3372</td>
-		<td>3399</td>
-		<td>+ 27</td>
+		<td>3401</td>
+		<td>+ 29</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
@@ -98,8 +98,8 @@
 		<td>3135</td>
 		<td>3161</td>
 		<td>3185</td>
-		<td>3211</td>
-		<td>+ 26</td>
+		<td>3213</td>
+		<td>+ 28</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -109,8 +109,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>28141</td>
-		<td>212</td>
+		<td>28151</td>
+		<td>222</td>
 	</tr>
 </table>
 </sub></sup>
@@ -146,8 +146,8 @@
 		<td>3708</td>
 		<td>3731</td>
 		<td>3755</td>
-		<td>3782</td>
-		<td>+ 27</td>
+		<td>3784</td>
+		<td>+ 29</td>
 	</tr>
 	<tr>
 		<td>Bunsen.Burner</td>
@@ -157,8 +157,8 @@
 		<td>3351</td>
 		<td>3374</td>
 		<td>3398</td>
-		<td>3426</td>
-		<td>+ 28</td>
+		<td>3428</td>
+		<td>+ 30</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -168,8 +168,8 @@
 		<td>3348</td>
 		<td>3371</td>
 		<td>3395</td>
-		<td>3422</td>
-		<td>+ 27</td>
+		<td>3424</td>
+		<td>+ 29</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -179,8 +179,8 @@
 		<td>3325</td>
 		<td>3348</td>
 		<td>3372</td>
-		<td>3399</td>
-		<td>+ 27</td>
+		<td>3401</td>
+		<td>+ 29</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -212,8 +212,8 @@
 		<td>3135</td>
 		<td>3161</td>
 		<td>3185</td>
-		<td>3211</td>
-		<td>+ 26</td>
+		<td>3213</td>
+		<td>+ 28</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -223,8 +223,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>28141</td>
-		<td>212</td>
+		<td>28151</td>
+		<td>222</td>
 	</tr>
 </table>
 </sub></sup>
