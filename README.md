@@ -76,8 +76,8 @@
 		<td>3853</td>
 		<td>3873</td>
 		<td>3899</td>
-		<td>3939</td>
-		<td>+ 40</td>
+		<td>3941</td>
+		<td>+ 42</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -109,8 +109,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>29311</td>
-		<td>236</td>
+		<td>29313</td>
+		<td>238</td>
 	</tr>
 </table>
 </sub></sup>
@@ -146,8 +146,8 @@
 		<td>3853</td>
 		<td>3873</td>
 		<td>3899</td>
-		<td>3939</td>
-		<td>+ 40</td>
+		<td>3941</td>
+		<td>+ 42</td>
 	</tr>
 	<tr>
 		<td>Bunsen.Burner</td>
@@ -223,8 +223,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>29311</td>
-		<td>236</td>
+		<td>29313</td>
+		<td>238</td>
 	</tr>
 </table>
 </sub></sup>
