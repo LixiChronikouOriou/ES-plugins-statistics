@@ -98,8 +98,8 @@
 		<td>3281</td>
 		<td>3297</td>
 		<td>3325</td>
-		<td>3339</td>
-		<td>+ 14</td>
+		<td>3341</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -109,8 +109,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>29198</td>
-		<td>123</td>
+		<td>29200</td>
+		<td>125</td>
 	</tr>
 </table>
 </sub></sup>
@@ -212,8 +212,8 @@
 		<td>3281</td>
 		<td>3297</td>
 		<td>3325</td>
-		<td>3339</td>
-		<td>+ 14</td>
+		<td>3341</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -223,8 +223,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>29198</td>
-		<td>123</td>
+		<td>29200</td>
+		<td>125</td>
 	</tr>
 </table>
 </sub></sup>
