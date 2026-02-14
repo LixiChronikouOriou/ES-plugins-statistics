@@ -29,6 +29,8 @@ def write_downloads():
 			# each data has max 100 releases
 			for obj in data:
 				rcount += 1 # number of releases
+				print(rcount)
+				print(data)
 				rname = obj['tag_name']
 				rdownload = obj['assets'][0]["download_count"] # number of downloads for each release 
 				if rname == 'Latest':
