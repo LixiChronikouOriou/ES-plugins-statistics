@@ -1,25 +1,25 @@
 # DOWNLOADS FOR EACH RELEASE:
-v3.0.0-Louise.Conglomerate.Shipyards | downloads: 181
-v1.3.1-Factory.Outlets | downloads: 237
+v3.0.0-Louise.Conglomerate.Shipyards | downloads: 184
+v1.3.1-Factory.Outlets | downloads: 238
 v2.0.0-Louise.Conglomerate.Shipyards | downloads: 169
-v1.8.0-Fundamental.Outfit.Expansion | downloads: 655
-v1.1.1-Zone.of.Control | downloads: 1202
-v1.1.1-Korunak.Defense.Drones | downloads: 1209
+v1.8.0-Fundamental.Outfit.Expansion | downloads: 658
+v1.1.1-Zone.of.Control | downloads: 1203
+v1.1.1-Korunak.Defense.Drones | downloads: 1210
 v1.7.0-Fundamental.Outfit.Expansion | downloads: 1446
 v1.3.0-Factory.Outlets | downloads: 2099
-v2.1.2-Solar.Sails | downloads: 2480
+v2.1.2-Solar.Sails | downloads: 2481
 v1.2.0-Factory.Outlets | downloads: 408
 v2.1.1-Solar.Sails | downloads: 199
 v1.1.1-Factory.Outlets | downloads: 44
 v1.6.0-Fundamental.Outfit.Expansion | downloads: 2171
-v1.2.3-Jaws | downloads: 3568
+v1.2.3-Jaws | downloads: 3569
 v1.1.0-Zone.of.Control | downloads: 2330
 v1.1.0-Factory.Outlets | downloads: 941
 v1.5.1-Fundamental.Outfit.Expansion | downloads: 86
 v1.5.0-Fundamental.Outfit.Expansion | downloads: 28
 v1.2.1-Louise.Conglomerate.Shipyards | downloads: 3539
 v2.1.0-Solar.Sails | downloads: 920
-v1.3.0-Bunsen.Burner | downloads: 3585
+v1.3.0-Bunsen.Burner | downloads: 3586
 v1.2.2-Jaws | downloads: 34
 v1.0.1-Zone.of.Control | downloads: 46
 v1.0.0-Factory.Outlets | downloads: 36
@@ -60,15 +60,15 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 59
-# TOTAL DOWNLOADS: 31445
+# TOTAL DOWNLOADS: 31457
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 3806
-Factory.Outlets 3765
-Fundamental.Outfit.Expansion 4742
-Jaws 3670
-Korunak.Defense.Drones 3819
-Louise.Conglomerate.Shipyards 4266
-Solar.Sails 3777
-Zone.of.Control 3600
+Bunsen.Burner 3807
+Factory.Outlets 3766
+Fundamental.Outfit.Expansion 4745
+Jaws 3671
+Korunak.Defense.Drones 3820
+Louise.Conglomerate.Shipyards 4269
+Solar.Sails 3778
+Zone.of.Control 3601
