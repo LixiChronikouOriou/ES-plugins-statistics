@@ -1,25 +1,25 @@
 # DOWNLOADS FOR EACH RELEASE:
-v3.0.0-Louise.Conglomerate.Shipyards | downloads: 195
-v1.3.1-Factory.Outlets | downloads: 246
+v3.0.0-Louise.Conglomerate.Shipyards | downloads: 198
+v1.3.1-Factory.Outlets | downloads: 249
 v2.0.0-Louise.Conglomerate.Shipyards | downloads: 169
-v1.8.0-Fundamental.Outfit.Expansion | downloads: 668
-v1.1.1-Zone.of.Control | downloads: 1212
-v1.1.1-Korunak.Defense.Drones | downloads: 1221
+v1.8.0-Fundamental.Outfit.Expansion | downloads: 671
+v1.1.1-Zone.of.Control | downloads: 1215
+v1.1.1-Korunak.Defense.Drones | downloads: 1224
 v1.7.0-Fundamental.Outfit.Expansion | downloads: 1446
 v1.3.0-Factory.Outlets | downloads: 2099
-v2.1.2-Solar.Sails | downloads: 2488
+v2.1.2-Solar.Sails | downloads: 2491
 v1.2.0-Factory.Outlets | downloads: 408
 v2.1.1-Solar.Sails | downloads: 199
 v1.1.1-Factory.Outlets | downloads: 44
 v1.6.0-Fundamental.Outfit.Expansion | downloads: 2171
-v1.2.3-Jaws | downloads: 3579
+v1.2.3-Jaws | downloads: 3582
 v1.1.0-Zone.of.Control | downloads: 2330
 v1.1.0-Factory.Outlets | downloads: 941
 v1.5.1-Fundamental.Outfit.Expansion | downloads: 86
 v1.5.0-Fundamental.Outfit.Expansion | downloads: 28
 v1.2.1-Louise.Conglomerate.Shipyards | downloads: 3539
 v2.1.0-Solar.Sails | downloads: 920
-v1.3.0-Bunsen.Burner | downloads: 3594
+v1.3.0-Bunsen.Burner | downloads: 3597
 v1.2.2-Jaws | downloads: 34
 v1.0.1-Zone.of.Control | downloads: 46
 v1.0.0-Factory.Outlets | downloads: 36
@@ -60,15 +60,15 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 59
-# TOTAL DOWNLOADS: 31531
+# TOTAL DOWNLOADS: 31555
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 3815
-Factory.Outlets 3774
-Fundamental.Outfit.Expansion 4755
-Jaws 3681
-Korunak.Defense.Drones 3831
-Louise.Conglomerate.Shipyards 4280
-Solar.Sails 3785
-Zone.of.Control 3610
+Bunsen.Burner 3818
+Factory.Outlets 3777
+Fundamental.Outfit.Expansion 4758
+Jaws 3684
+Korunak.Defense.Drones 3834
+Louise.Conglomerate.Shipyards 4283
+Solar.Sails 3788
+Zone.of.Control 3613
