@@ -1,25 +1,25 @@
 # DOWNLOADS FOR EACH RELEASE:
-v3.0.0-Louise.Conglomerate.Shipyards | downloads: 192
-v1.3.1-Factory.Outlets | downloads: 243
+v3.0.0-Louise.Conglomerate.Shipyards | downloads: 193
+v1.3.1-Factory.Outlets | downloads: 244
 v2.0.0-Louise.Conglomerate.Shipyards | downloads: 169
-v1.8.0-Fundamental.Outfit.Expansion | downloads: 665
-v1.1.1-Zone.of.Control | downloads: 1210
-v1.1.1-Korunak.Defense.Drones | downloads: 1218
+v1.8.0-Fundamental.Outfit.Expansion | downloads: 666
+v1.1.1-Zone.of.Control | downloads: 1211
+v1.1.1-Korunak.Defense.Drones | downloads: 1219
 v1.7.0-Fundamental.Outfit.Expansion | downloads: 1446
 v1.3.0-Factory.Outlets | downloads: 2099
-v2.1.2-Solar.Sails | downloads: 2486
+v2.1.2-Solar.Sails | downloads: 2487
 v1.2.0-Factory.Outlets | downloads: 408
 v2.1.1-Solar.Sails | downloads: 199
 v1.1.1-Factory.Outlets | downloads: 44
 v1.6.0-Fundamental.Outfit.Expansion | downloads: 2171
-v1.2.3-Jaws | downloads: 3576
+v1.2.3-Jaws | downloads: 3577
 v1.1.0-Zone.of.Control | downloads: 2330
 v1.1.0-Factory.Outlets | downloads: 941
 v1.5.1-Fundamental.Outfit.Expansion | downloads: 86
 v1.5.0-Fundamental.Outfit.Expansion | downloads: 28
 v1.2.1-Louise.Conglomerate.Shipyards | downloads: 3539
 v2.1.0-Solar.Sails | downloads: 920
-v1.3.0-Bunsen.Burner | downloads: 3591
+v1.3.0-Bunsen.Burner | downloads: 3592
 v1.2.2-Jaws | downloads: 34
 v1.0.1-Zone.of.Control | downloads: 46
 v1.0.0-Factory.Outlets | downloads: 36
@@ -60,15 +60,15 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 59
-# TOTAL DOWNLOADS: 31509
+# TOTAL DOWNLOADS: 31517
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 3812
-Factory.Outlets 3771
-Fundamental.Outfit.Expansion 4752
-Jaws 3678
-Korunak.Defense.Drones 3828
-Louise.Conglomerate.Shipyards 4277
-Solar.Sails 3783
-Zone.of.Control 3608
+Bunsen.Burner 3813
+Factory.Outlets 3772
+Fundamental.Outfit.Expansion 4753
+Jaws 3679
+Korunak.Defense.Drones 3829
+Louise.Conglomerate.Shipyards 4278
+Solar.Sails 3784
+Zone.of.Control 3609
