@@ -1,25 +1,25 @@
 # DOWNLOADS FOR EACH RELEASE:
-v3.0.0-Louise.Conglomerate.Shipyards | downloads: 208
-v1.3.1-Factory.Outlets | downloads: 257
+v3.0.0-Louise.Conglomerate.Shipyards | downloads: 209
+v1.3.1-Factory.Outlets | downloads: 258
 v2.0.0-Louise.Conglomerate.Shipyards | downloads: 169
-v1.8.0-Fundamental.Outfit.Expansion | downloads: 683
-v1.1.1-Zone.of.Control | downloads: 1225
-v1.1.1-Korunak.Defense.Drones | downloads: 1232
+v1.8.0-Fundamental.Outfit.Expansion | downloads: 684
+v1.1.1-Zone.of.Control | downloads: 1226
+v1.1.1-Korunak.Defense.Drones | downloads: 1233
 v1.7.0-Fundamental.Outfit.Expansion | downloads: 1446
 v1.3.0-Factory.Outlets | downloads: 2099
-v2.1.2-Solar.Sails | downloads: 2499
+v2.1.2-Solar.Sails | downloads: 2500
 v1.2.0-Factory.Outlets | downloads: 408
 v2.1.1-Solar.Sails | downloads: 199
 v1.1.1-Factory.Outlets | downloads: 44
 v1.6.0-Fundamental.Outfit.Expansion | downloads: 2171
-v1.2.3-Jaws | downloads: 3590
+v1.2.3-Jaws | downloads: 3591
 v1.1.0-Zone.of.Control | downloads: 2330
 v1.1.0-Factory.Outlets | downloads: 941
 v1.5.1-Fundamental.Outfit.Expansion | downloads: 86
 v1.5.0-Fundamental.Outfit.Expansion | downloads: 28
 v1.2.1-Louise.Conglomerate.Shipyards | downloads: 3539
 v2.1.0-Solar.Sails | downloads: 920
-v1.3.0-Bunsen.Burner | downloads: 3605
+v1.3.0-Bunsen.Burner | downloads: 3606
 v1.2.2-Jaws | downloads: 34
 v1.0.1-Zone.of.Control | downloads: 46
 v1.0.0-Factory.Outlets | downloads: 36
@@ -60,15 +60,15 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 59
-# TOTAL DOWNLOADS: 31627
+# TOTAL DOWNLOADS: 31635
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 3826
-Factory.Outlets 3785
-Fundamental.Outfit.Expansion 4770
-Jaws 3692
-Korunak.Defense.Drones 3842
-Louise.Conglomerate.Shipyards 4293
-Solar.Sails 3796
-Zone.of.Control 3623
+Bunsen.Burner 3827
+Factory.Outlets 3786
+Fundamental.Outfit.Expansion 4771
+Jaws 3693
+Korunak.Defense.Drones 3843
+Louise.Conglomerate.Shipyards 4294
+Solar.Sails 3797
+Zone.of.Control 3624
