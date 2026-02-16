@@ -1,25 +1,25 @@
 # DOWNLOADS FOR EACH RELEASE:
-v3.0.0-Louise.Conglomerate.Shipyards | downloads: 226
-v1.3.1-Factory.Outlets | downloads: 273
+v3.0.0-Louise.Conglomerate.Shipyards | downloads: 227
+v1.3.1-Factory.Outlets | downloads: 274
 v2.0.0-Louise.Conglomerate.Shipyards | downloads: 169
-v1.8.0-Fundamental.Outfit.Expansion | downloads: 699
-v1.1.1-Zone.of.Control | downloads: 1241
-v1.1.1-Korunak.Defense.Drones | downloads: 1250
+v1.8.0-Fundamental.Outfit.Expansion | downloads: 700
+v1.1.1-Zone.of.Control | downloads: 1242
+v1.1.1-Korunak.Defense.Drones | downloads: 1251
 v1.7.0-Fundamental.Outfit.Expansion | downloads: 1446
 v1.3.0-Factory.Outlets | downloads: 2099
-v2.1.2-Solar.Sails | downloads: 2519
+v2.1.2-Solar.Sails | downloads: 2520
 v1.2.0-Factory.Outlets | downloads: 408
 v2.1.1-Solar.Sails | downloads: 199
 v1.1.1-Factory.Outlets | downloads: 44
 v1.6.0-Fundamental.Outfit.Expansion | downloads: 2171
-v1.2.3-Jaws | downloads: 3608
+v1.2.3-Jaws | downloads: 3609
 v1.1.0-Zone.of.Control | downloads: 2330
 v1.1.0-Factory.Outlets | downloads: 941
 v1.5.1-Fundamental.Outfit.Expansion | downloads: 86
 v1.5.0-Fundamental.Outfit.Expansion | downloads: 28
 v1.2.1-Louise.Conglomerate.Shipyards | downloads: 3539
 v2.1.0-Solar.Sails | downloads: 920
-v1.3.0-Bunsen.Burner | downloads: 3621
+v1.3.0-Bunsen.Burner | downloads: 3622
 v1.2.2-Jaws | downloads: 34
 v1.0.1-Zone.of.Control | downloads: 46
 v1.0.0-Factory.Outlets | downloads: 36
@@ -60,15 +60,15 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 59
-# TOTAL DOWNLOADS: 31765
+# TOTAL DOWNLOADS: 31773
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 3842
-Factory.Outlets 3801
-Fundamental.Outfit.Expansion 4786
-Jaws 3710
-Korunak.Defense.Drones 3860
-Louise.Conglomerate.Shipyards 4311
-Solar.Sails 3816
-Zone.of.Control 3639
+Bunsen.Burner 3843
+Factory.Outlets 3802
+Fundamental.Outfit.Expansion 4787
+Jaws 3711
+Korunak.Defense.Drones 3861
+Louise.Conglomerate.Shipyards 4312
+Solar.Sails 3817
+Zone.of.Control 3640
