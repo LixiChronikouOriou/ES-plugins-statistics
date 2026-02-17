@@ -1,25 +1,25 @@
 # DOWNLOADS FOR EACH RELEASE:
-v3.0.0-Louise.Conglomerate.Shipyards | downloads: 231
-v1.3.1-Factory.Outlets | downloads: 276
+v3.0.0-Louise.Conglomerate.Shipyards | downloads: 233
+v1.3.1-Factory.Outlets | downloads: 278
 v2.0.0-Louise.Conglomerate.Shipyards | downloads: 169
-v1.8.0-Fundamental.Outfit.Expansion | downloads: 704
-v1.1.1-Zone.of.Control | downloads: 1244
-v1.1.1-Korunak.Defense.Drones | downloads: 1255
+v1.8.0-Fundamental.Outfit.Expansion | downloads: 705
+v1.1.1-Zone.of.Control | downloads: 1246
+v1.1.1-Korunak.Defense.Drones | downloads: 1257
 v1.7.0-Fundamental.Outfit.Expansion | downloads: 1446
 v1.3.0-Factory.Outlets | downloads: 2099
-v2.1.2-Solar.Sails | downloads: 2522
+v2.1.2-Solar.Sails | downloads: 2526
 v1.2.0-Factory.Outlets | downloads: 408
 v2.1.1-Solar.Sails | downloads: 199
 v1.1.1-Factory.Outlets | downloads: 44
 v1.6.0-Fundamental.Outfit.Expansion | downloads: 2171
-v1.2.3-Jaws | downloads: 3611
+v1.2.3-Jaws | downloads: 3612
 v1.1.0-Zone.of.Control | downloads: 2330
 v1.1.0-Factory.Outlets | downloads: 941
 v1.5.1-Fundamental.Outfit.Expansion | downloads: 86
 v1.5.0-Fundamental.Outfit.Expansion | downloads: 28
 v1.2.1-Louise.Conglomerate.Shipyards | downloads: 3539
 v2.1.0-Solar.Sails | downloads: 920
-v1.3.0-Bunsen.Burner | downloads: 3624
+v1.3.0-Bunsen.Burner | downloads: 3625
 v1.2.2-Jaws | downloads: 34
 v1.0.1-Zone.of.Control | downloads: 46
 v1.0.0-Factory.Outlets | downloads: 36
@@ -60,15 +60,15 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 59
-# TOTAL DOWNLOADS: 31795
+# TOTAL DOWNLOADS: 31810
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 3845
-Factory.Outlets 3804
-Fundamental.Outfit.Expansion 4791
-Jaws 3713
-Korunak.Defense.Drones 3865
-Louise.Conglomerate.Shipyards 4316
-Solar.Sails 3819
-Zone.of.Control 3642
+Bunsen.Burner 3846
+Factory.Outlets 3806
+Fundamental.Outfit.Expansion 4792
+Jaws 3714
+Korunak.Defense.Drones 3867
+Louise.Conglomerate.Shipyards 4318
+Solar.Sails 3823
+Zone.of.Control 3644
