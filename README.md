@@ -43,8 +43,8 @@
 		<td>4767</td>
 		<td>4788</td>
 		<td>4821</td>
-		<td>4838</td>
-		<td>+ 17</td>
+		<td>4840</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -54,8 +54,8 @@
 		<td>3689</td>
 		<td>3712</td>
 		<td>3736</td>
-		<td>3753</td>
-		<td>+ 17</td>
+		<td>3755</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -65,8 +65,8 @@
 		<td>3839</td>
 		<td>3862</td>
 		<td>3888</td>
-		<td>3903</td>
-		<td>+ 15</td>
+		<td>3905</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -76,8 +76,8 @@
 		<td>4290</td>
 		<td>4313</td>
 		<td>4343</td>
-		<td>4361</td>
-		<td>+ 18</td>
+		<td>4363</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -98,8 +98,8 @@
 		<td>3620</td>
 		<td>3641</td>
 		<td>3665</td>
-		<td>3683</td>
-		<td>+ 18</td>
+		<td>3685</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -109,8 +109,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>32118</td>
-		<td>131</td>
+		<td>32128</td>
+		<td>141</td>
 	</tr>
 </table>
 </sub></sup>
@@ -135,8 +135,8 @@
 		<td>4767</td>
 		<td>4788</td>
 		<td>4821</td>
-		<td>4838</td>
-		<td>+ 17</td>
+		<td>4840</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -146,8 +146,8 @@
 		<td>4290</td>
 		<td>4313</td>
 		<td>4343</td>
-		<td>4361</td>
-		<td>+ 18</td>
+		<td>4363</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -157,8 +157,8 @@
 		<td>3839</td>
 		<td>3862</td>
 		<td>3888</td>
-		<td>3903</td>
-		<td>+ 15</td>
+		<td>3905</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>Bunsen.Burner</td>
@@ -201,8 +201,8 @@
 		<td>3689</td>
 		<td>3712</td>
 		<td>3736</td>
-		<td>3753</td>
-		<td>+ 17</td>
+		<td>3755</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
@@ -212,8 +212,8 @@
 		<td>3620</td>
 		<td>3641</td>
 		<td>3665</td>
-		<td>3683</td>
-		<td>+ 18</td>
+		<td>3685</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -223,8 +223,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>32118</td>
-		<td>131</td>
+		<td>32128</td>
+		<td>141</td>
 	</tr>
 </table>
 </sub></sup>
