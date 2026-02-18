@@ -1,25 +1,25 @@
 # DOWNLOADS FOR EACH RELEASE:
-v3.0.0-Louise.Conglomerate.Shipyards | downloads: 268
-v1.3.1-Factory.Outlets | downloads: 307
+v3.0.0-Louise.Conglomerate.Shipyards | downloads: 269
+v1.3.1-Factory.Outlets | downloads: 308
 v2.0.0-Louise.Conglomerate.Shipyards | downloads: 169
-v1.8.0-Fundamental.Outfit.Expansion | downloads: 743
-v1.1.1-Zone.of.Control | downloads: 1277
-v1.1.1-Korunak.Defense.Drones | downloads: 1285
+v1.8.0-Fundamental.Outfit.Expansion | downloads: 744
+v1.1.1-Zone.of.Control | downloads: 1278
+v1.1.1-Korunak.Defense.Drones | downloads: 1286
 v1.7.0-Fundamental.Outfit.Expansion | downloads: 1446
 v1.3.0-Factory.Outlets | downloads: 2099
-v2.1.2-Solar.Sails | downloads: 2553
+v2.1.2-Solar.Sails | downloads: 2554
 v1.2.0-Factory.Outlets | downloads: 408
 v2.1.1-Solar.Sails | downloads: 199
 v1.1.1-Factory.Outlets | downloads: 44
 v1.6.0-Fundamental.Outfit.Expansion | downloads: 2171
-v1.2.3-Jaws | downloads: 3643
+v1.2.3-Jaws | downloads: 3644
 v1.1.0-Zone.of.Control | downloads: 2330
 v1.1.0-Factory.Outlets | downloads: 941
 v1.5.1-Fundamental.Outfit.Expansion | downloads: 86
 v1.5.0-Fundamental.Outfit.Expansion | downloads: 28
 v1.2.1-Louise.Conglomerate.Shipyards | downloads: 3539
 v2.1.0-Solar.Sails | downloads: 920
-v1.3.0-Bunsen.Burner | downloads: 3652
+v1.3.0-Bunsen.Burner | downloads: 3653
 v1.2.2-Jaws | downloads: 34
 v1.0.1-Zone.of.Control | downloads: 46
 v1.0.0-Factory.Outlets | downloads: 36
@@ -60,15 +60,15 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 59
-# TOTAL DOWNLOADS: 32056
+# TOTAL DOWNLOADS: 32064
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 3873
-Factory.Outlets 3835
-Fundamental.Outfit.Expansion 4830
-Jaws 3745
-Korunak.Defense.Drones 3895
-Louise.Conglomerate.Shipyards 4353
-Solar.Sails 3850
-Zone.of.Control 3675
+Bunsen.Burner 3874
+Factory.Outlets 3836
+Fundamental.Outfit.Expansion 4831
+Jaws 3746
+Korunak.Defense.Drones 3896
+Louise.Conglomerate.Shipyards 4354
+Solar.Sails 3851
+Zone.of.Control 3676
