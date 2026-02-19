@@ -1,25 +1,25 @@
 # DOWNLOADS FOR EACH RELEASE:
-v3.0.0-Louise.Conglomerate.Shipyards | downloads: 294
-v1.3.1-Factory.Outlets | downloads: 330
+v3.0.0-Louise.Conglomerate.Shipyards | downloads: 296
+v1.3.1-Factory.Outlets | downloads: 332
 v2.0.0-Louise.Conglomerate.Shipyards | downloads: 169
-v1.8.0-Fundamental.Outfit.Expansion | downloads: 771
-v1.1.1-Zone.of.Control | downloads: 1305
-v1.1.1-Korunak.Defense.Drones | downloads: 1313
+v1.8.0-Fundamental.Outfit.Expansion | downloads: 773
+v1.1.1-Zone.of.Control | downloads: 1307
+v1.1.1-Korunak.Defense.Drones | downloads: 1315
 v1.7.0-Fundamental.Outfit.Expansion | downloads: 1446
 v1.3.0-Factory.Outlets | downloads: 2099
-v2.1.2-Solar.Sails | downloads: 2576
+v2.1.2-Solar.Sails | downloads: 2578
 v1.2.0-Factory.Outlets | downloads: 408
 v2.1.1-Solar.Sails | downloads: 199
 v1.1.1-Factory.Outlets | downloads: 44
 v1.6.0-Fundamental.Outfit.Expansion | downloads: 2171
-v1.2.3-Jaws | downloads: 3669
+v1.2.3-Jaws | downloads: 3671
 v1.1.0-Zone.of.Control | downloads: 2330
 v1.1.0-Factory.Outlets | downloads: 941
 v1.5.1-Fundamental.Outfit.Expansion | downloads: 86
 v1.5.0-Fundamental.Outfit.Expansion | downloads: 28
 v1.2.1-Louise.Conglomerate.Shipyards | downloads: 3539
 v2.1.0-Solar.Sails | downloads: 920
-v1.3.0-Bunsen.Burner | downloads: 3676
+v1.3.0-Bunsen.Burner | downloads: 3678
 v1.2.2-Jaws | downloads: 34
 v1.0.1-Zone.of.Control | downloads: 46
 v1.0.0-Factory.Outlets | downloads: 36
@@ -60,15 +60,15 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 59
-# TOTAL DOWNLOADS: 32262
+# TOTAL DOWNLOADS: 32278
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 3897
-Factory.Outlets 3858
-Fundamental.Outfit.Expansion 4858
-Jaws 3771
-Korunak.Defense.Drones 3923
-Louise.Conglomerate.Shipyards 4379
-Solar.Sails 3873
-Zone.of.Control 3703
+Bunsen.Burner 3899
+Factory.Outlets 3860
+Fundamental.Outfit.Expansion 4860
+Jaws 3773
+Korunak.Defense.Drones 3925
+Louise.Conglomerate.Shipyards 4381
+Solar.Sails 3875
+Zone.of.Control 3705
