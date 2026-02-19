@@ -1,25 +1,25 @@
 # DOWNLOADS FOR EACH RELEASE:
-v3.0.0-Louise.Conglomerate.Shipyards | downloads: 287
-v1.3.1-Factory.Outlets | downloads: 323
+v3.0.0-Louise.Conglomerate.Shipyards | downloads: 288
+v1.3.1-Factory.Outlets | downloads: 324
 v2.0.0-Louise.Conglomerate.Shipyards | downloads: 169
-v1.8.0-Fundamental.Outfit.Expansion | downloads: 764
-v1.1.1-Zone.of.Control | downloads: 1296
-v1.1.1-Korunak.Defense.Drones | downloads: 1304
+v1.8.0-Fundamental.Outfit.Expansion | downloads: 765
+v1.1.1-Zone.of.Control | downloads: 1299
+v1.1.1-Korunak.Defense.Drones | downloads: 1305
 v1.7.0-Fundamental.Outfit.Expansion | downloads: 1446
 v1.3.0-Factory.Outlets | downloads: 2099
-v2.1.2-Solar.Sails | downloads: 2569
+v2.1.2-Solar.Sails | downloads: 2570
 v1.2.0-Factory.Outlets | downloads: 408
 v2.1.1-Solar.Sails | downloads: 199
 v1.1.1-Factory.Outlets | downloads: 44
 v1.6.0-Fundamental.Outfit.Expansion | downloads: 2171
-v1.2.3-Jaws | downloads: 3662
+v1.2.3-Jaws | downloads: 3663
 v1.1.0-Zone.of.Control | downloads: 2330
 v1.1.0-Factory.Outlets | downloads: 941
 v1.5.1-Fundamental.Outfit.Expansion | downloads: 86
 v1.5.0-Fundamental.Outfit.Expansion | downloads: 28
 v1.2.1-Louise.Conglomerate.Shipyards | downloads: 3539
 v2.1.0-Solar.Sails | downloads: 920
-v1.3.0-Bunsen.Burner | downloads: 3669
+v1.3.0-Bunsen.Burner | downloads: 3670
 v1.2.2-Jaws | downloads: 34
 v1.0.1-Zone.of.Control | downloads: 46
 v1.0.0-Factory.Outlets | downloads: 36
@@ -60,15 +60,15 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 59
-# TOTAL DOWNLOADS: 32202
+# TOTAL DOWNLOADS: 32212
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 3890
-Factory.Outlets 3851
-Fundamental.Outfit.Expansion 4851
-Jaws 3764
-Korunak.Defense.Drones 3914
-Louise.Conglomerate.Shipyards 4372
-Solar.Sails 3866
-Zone.of.Control 3694
+Bunsen.Burner 3891
+Factory.Outlets 3852
+Fundamental.Outfit.Expansion 4852
+Jaws 3765
+Korunak.Defense.Drones 3915
+Louise.Conglomerate.Shipyards 4373
+Solar.Sails 3867
+Zone.of.Control 3697
