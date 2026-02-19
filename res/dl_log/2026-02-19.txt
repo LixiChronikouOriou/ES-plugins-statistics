@@ -1,25 +1,25 @@
 # DOWNLOADS FOR EACH RELEASE:
-v3.0.0-Louise.Conglomerate.Shipyards | downloads: 297
-v1.3.1-Factory.Outlets | downloads: 333
+v3.0.0-Louise.Conglomerate.Shipyards | downloads: 300
+v1.3.1-Factory.Outlets | downloads: 334
 v2.0.0-Louise.Conglomerate.Shipyards | downloads: 169
-v1.8.0-Fundamental.Outfit.Expansion | downloads: 774
-v1.1.1-Zone.of.Control | downloads: 1308
-v1.1.1-Korunak.Defense.Drones | downloads: 1316
+v1.8.0-Fundamental.Outfit.Expansion | downloads: 777
+v1.1.1-Zone.of.Control | downloads: 1311
+v1.1.1-Korunak.Defense.Drones | downloads: 1319
 v1.7.0-Fundamental.Outfit.Expansion | downloads: 1446
 v1.3.0-Factory.Outlets | downloads: 2099
-v2.1.2-Solar.Sails | downloads: 2579
+v2.1.2-Solar.Sails | downloads: 2580
 v1.2.0-Factory.Outlets | downloads: 408
 v2.1.1-Solar.Sails | downloads: 199
 v1.1.1-Factory.Outlets | downloads: 44
 v1.6.0-Fundamental.Outfit.Expansion | downloads: 2171
-v1.2.3-Jaws | downloads: 3672
+v1.2.3-Jaws | downloads: 3675
 v1.1.0-Zone.of.Control | downloads: 2330
 v1.1.0-Factory.Outlets | downloads: 941
 v1.5.1-Fundamental.Outfit.Expansion | downloads: 86
 v1.5.0-Fundamental.Outfit.Expansion | downloads: 28
 v1.2.1-Louise.Conglomerate.Shipyards | downloads: 3539
 v2.1.0-Solar.Sails | downloads: 920
-v1.3.0-Bunsen.Burner | downloads: 3679
+v1.3.0-Bunsen.Burner | downloads: 3680
 v1.2.2-Jaws | downloads: 34
 v1.0.1-Zone.of.Control | downloads: 46
 v1.0.0-Factory.Outlets | downloads: 36
@@ -60,15 +60,15 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 59
-# TOTAL DOWNLOADS: 32286
+# TOTAL DOWNLOADS: 32304
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 3900
-Factory.Outlets 3861
-Fundamental.Outfit.Expansion 4861
-Jaws 3774
-Korunak.Defense.Drones 3926
-Louise.Conglomerate.Shipyards 4382
-Solar.Sails 3876
-Zone.of.Control 3706
+Bunsen.Burner 3901
+Factory.Outlets 3862
+Fundamental.Outfit.Expansion 4864
+Jaws 3777
+Korunak.Defense.Drones 3929
+Louise.Conglomerate.Shipyards 4385
+Solar.Sails 3877
+Zone.of.Control 3709
