@@ -1,25 +1,25 @@
 # DOWNLOADS FOR EACH RELEASE:
-v3.0.0-Louise.Conglomerate.Shipyards | downloads: 327
-v1.3.1-Factory.Outlets | downloads: 360
+v3.0.0-Louise.Conglomerate.Shipyards | downloads: 329
+v1.3.1-Factory.Outlets | downloads: 362
 v2.0.0-Louise.Conglomerate.Shipyards | downloads: 169
-v1.8.0-Fundamental.Outfit.Expansion | downloads: 807
-v1.1.1-Zone.of.Control | downloads: 1337
-v1.1.1-Korunak.Defense.Drones | downloads: 1342
+v1.8.0-Fundamental.Outfit.Expansion | downloads: 809
+v1.1.1-Zone.of.Control | downloads: 1339
+v1.1.1-Korunak.Defense.Drones | downloads: 1344
 v1.7.0-Fundamental.Outfit.Expansion | downloads: 1446
 v1.3.0-Factory.Outlets | downloads: 2099
-v2.1.2-Solar.Sails | downloads: 2604
+v2.1.2-Solar.Sails | downloads: 2606
 v1.2.0-Factory.Outlets | downloads: 408
 v2.1.1-Solar.Sails | downloads: 199
 v1.1.1-Factory.Outlets | downloads: 44
 v1.6.0-Fundamental.Outfit.Expansion | downloads: 2171
-v1.2.3-Jaws | downloads: 3700
+v1.2.3-Jaws | downloads: 3702
 v1.1.0-Zone.of.Control | downloads: 2330
 v1.1.0-Factory.Outlets | downloads: 941
 v1.5.1-Fundamental.Outfit.Expansion | downloads: 86
 v1.5.0-Fundamental.Outfit.Expansion | downloads: 28
 v1.2.1-Louise.Conglomerate.Shipyards | downloads: 3539
 v2.1.0-Solar.Sails | downloads: 920
-v1.3.0-Bunsen.Burner | downloads: 3703
+v1.3.0-Bunsen.Burner | downloads: 3705
 v1.2.2-Jaws | downloads: 34
 v1.0.1-Zone.of.Control | downloads: 46
 v1.0.0-Factory.Outlets | downloads: 36
@@ -60,15 +60,15 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 59
-# TOTAL DOWNLOADS: 32508
+# TOTAL DOWNLOADS: 32524
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 3924
-Factory.Outlets 3888
-Fundamental.Outfit.Expansion 4894
-Jaws 3802
-Korunak.Defense.Drones 3952
-Louise.Conglomerate.Shipyards 4412
-Solar.Sails 3901
-Zone.of.Control 3735
+Bunsen.Burner 3926
+Factory.Outlets 3890
+Fundamental.Outfit.Expansion 4896
+Jaws 3804
+Korunak.Defense.Drones 3954
+Louise.Conglomerate.Shipyards 4414
+Solar.Sails 3903
+Zone.of.Control 3737
