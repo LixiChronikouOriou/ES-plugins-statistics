@@ -1,25 +1,25 @@
 # DOWNLOADS FOR EACH RELEASE:
-v3.0.0-Louise.Conglomerate.Shipyards | downloads: 345
-v1.3.1-Factory.Outlets | downloads: 380
+v3.0.0-Louise.Conglomerate.Shipyards | downloads: 347
+v1.3.1-Factory.Outlets | downloads: 382
 v2.0.0-Louise.Conglomerate.Shipyards | downloads: 169
-v1.8.0-Fundamental.Outfit.Expansion | downloads: 829
-v1.1.1-Zone.of.Control | downloads: 1357
-v1.1.1-Korunak.Defense.Drones | downloads: 1362
+v1.8.0-Fundamental.Outfit.Expansion | downloads: 831
+v1.1.1-Zone.of.Control | downloads: 1359
+v1.1.1-Korunak.Defense.Drones | downloads: 1364
 v1.7.0-Fundamental.Outfit.Expansion | downloads: 1446
 v1.3.0-Factory.Outlets | downloads: 2099
-v2.1.2-Solar.Sails | downloads: 2622
+v2.1.2-Solar.Sails | downloads: 2624
 v1.2.0-Factory.Outlets | downloads: 408
 v2.1.1-Solar.Sails | downloads: 199
 v1.1.1-Factory.Outlets | downloads: 44
 v1.6.0-Fundamental.Outfit.Expansion | downloads: 2171
-v1.2.3-Jaws | downloads: 3718
+v1.2.3-Jaws | downloads: 3720
 v1.1.0-Zone.of.Control | downloads: 2330
 v1.1.0-Factory.Outlets | downloads: 941
 v1.5.1-Fundamental.Outfit.Expansion | downloads: 86
 v1.5.0-Fundamental.Outfit.Expansion | downloads: 28
 v1.2.1-Louise.Conglomerate.Shipyards | downloads: 3539
 v2.1.0-Solar.Sails | downloads: 920
-v1.3.0-Bunsen.Burner | downloads: 3722
+v1.3.0-Bunsen.Burner | downloads: 3724
 v1.2.2-Jaws | downloads: 34
 v1.0.1-Zone.of.Control | downloads: 46
 v1.0.0-Factory.Outlets | downloads: 36
@@ -60,15 +60,15 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 59
-# TOTAL DOWNLOADS: 32663
+# TOTAL DOWNLOADS: 32679
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 3943
-Factory.Outlets 3908
-Fundamental.Outfit.Expansion 4916
-Jaws 3820
-Korunak.Defense.Drones 3972
-Louise.Conglomerate.Shipyards 4430
-Solar.Sails 3919
-Zone.of.Control 3755
+Bunsen.Burner 3945
+Factory.Outlets 3910
+Fundamental.Outfit.Expansion 4918
+Jaws 3822
+Korunak.Defense.Drones 3974
+Louise.Conglomerate.Shipyards 4432
+Solar.Sails 3921
+Zone.of.Control 3757
