@@ -1,25 +1,25 @@
 # DOWNLOADS FOR EACH RELEASE:
-v3.0.0-Louise.Conglomerate.Shipyards | downloads: 365
-v1.3.1-Factory.Outlets | downloads: 393
+v3.0.0-Louise.Conglomerate.Shipyards | downloads: 367
+v1.3.1-Factory.Outlets | downloads: 396
 v2.0.0-Louise.Conglomerate.Shipyards | downloads: 169
-v1.8.0-Fundamental.Outfit.Expansion | downloads: 851
-v1.1.1-Zone.of.Control | downloads: 1372
-v1.1.1-Korunak.Defense.Drones | downloads: 1384
+v1.8.0-Fundamental.Outfit.Expansion | downloads: 853
+v1.1.1-Zone.of.Control | downloads: 1374
+v1.1.1-Korunak.Defense.Drones | downloads: 1386
 v1.7.0-Fundamental.Outfit.Expansion | downloads: 1446
 v1.3.0-Factory.Outlets | downloads: 2099
-v2.1.2-Solar.Sails | downloads: 2637
+v2.1.2-Solar.Sails | downloads: 2639
 v1.2.0-Factory.Outlets | downloads: 408
 v2.1.1-Solar.Sails | downloads: 199
 v1.1.1-Factory.Outlets | downloads: 44
 v1.6.0-Fundamental.Outfit.Expansion | downloads: 2171
-v1.2.3-Jaws | downloads: 3736
+v1.2.3-Jaws | downloads: 3738
 v1.1.0-Zone.of.Control | downloads: 2330
 v1.1.0-Factory.Outlets | downloads: 941
 v1.5.1-Fundamental.Outfit.Expansion | downloads: 86
 v1.5.0-Fundamental.Outfit.Expansion | downloads: 28
 v1.2.1-Louise.Conglomerate.Shipyards | downloads: 3539
 v2.1.0-Solar.Sails | downloads: 920
-v1.3.0-Bunsen.Burner | downloads: 3735
+v1.3.0-Bunsen.Burner | downloads: 3738
 v1.2.2-Jaws | downloads: 34
 v1.0.1-Zone.of.Control | downloads: 46
 v1.0.0-Factory.Outlets | downloads: 36
@@ -60,15 +60,15 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 59
-# TOTAL DOWNLOADS: 32801
+# TOTAL DOWNLOADS: 32819
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 3956
-Factory.Outlets 3921
-Fundamental.Outfit.Expansion 4938
-Jaws 3838
-Korunak.Defense.Drones 3994
-Louise.Conglomerate.Shipyards 4450
-Solar.Sails 3934
-Zone.of.Control 3770
+Bunsen.Burner 3959
+Factory.Outlets 3924
+Fundamental.Outfit.Expansion 4940
+Jaws 3840
+Korunak.Defense.Drones 3996
+Louise.Conglomerate.Shipyards 4452
+Solar.Sails 3936
+Zone.of.Control 3772
