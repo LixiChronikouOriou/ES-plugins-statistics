@@ -1,25 +1,25 @@
 # DOWNLOADS FOR EACH RELEASE:
-v3.0.0-Louise.Conglomerate.Shipyards | downloads: 375
-v1.3.1-Factory.Outlets | downloads: 404
+v3.0.0-Louise.Conglomerate.Shipyards | downloads: 376
+v1.3.1-Factory.Outlets | downloads: 405
 v2.0.0-Louise.Conglomerate.Shipyards | downloads: 169
-v1.8.0-Fundamental.Outfit.Expansion | downloads: 863
-v1.1.1-Zone.of.Control | downloads: 1381
-v1.1.1-Korunak.Defense.Drones | downloads: 1394
+v1.8.0-Fundamental.Outfit.Expansion | downloads: 864
+v1.1.1-Zone.of.Control | downloads: 1382
+v1.1.1-Korunak.Defense.Drones | downloads: 1395
 v1.7.0-Fundamental.Outfit.Expansion | downloads: 1446
 v1.3.0-Factory.Outlets | downloads: 2099
-v2.1.2-Solar.Sails | downloads: 2647
+v2.1.2-Solar.Sails | downloads: 2648
 v1.2.0-Factory.Outlets | downloads: 408
 v2.1.1-Solar.Sails | downloads: 199
 v1.1.1-Factory.Outlets | downloads: 44
 v1.6.0-Fundamental.Outfit.Expansion | downloads: 2171
-v1.2.3-Jaws | downloads: 3746
+v1.2.3-Jaws | downloads: 3747
 v1.1.0-Zone.of.Control | downloads: 2330
 v1.1.0-Factory.Outlets | downloads: 941
 v1.5.1-Fundamental.Outfit.Expansion | downloads: 86
 v1.5.0-Fundamental.Outfit.Expansion | downloads: 28
 v1.2.1-Louise.Conglomerate.Shipyards | downloads: 3539
 v2.1.0-Solar.Sails | downloads: 920
-v1.3.0-Bunsen.Burner | downloads: 3746
+v1.3.0-Bunsen.Burner | downloads: 3748
 v1.2.2-Jaws | downloads: 34
 v1.0.1-Zone.of.Control | downloads: 46
 v1.0.0-Factory.Outlets | downloads: 36
@@ -60,15 +60,15 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 59
-# TOTAL DOWNLOADS: 32884
+# TOTAL DOWNLOADS: 32893
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 3967
-Factory.Outlets 3932
-Fundamental.Outfit.Expansion 4950
-Jaws 3848
-Korunak.Defense.Drones 4004
-Louise.Conglomerate.Shipyards 4460
-Solar.Sails 3944
-Zone.of.Control 3779
+Bunsen.Burner 3969
+Factory.Outlets 3933
+Fundamental.Outfit.Expansion 4951
+Jaws 3849
+Korunak.Defense.Drones 4005
+Louise.Conglomerate.Shipyards 4461
+Solar.Sails 3945
+Zone.of.Control 3780
