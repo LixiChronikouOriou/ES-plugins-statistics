@@ -1,25 +1,25 @@
 # DOWNLOADS FOR EACH RELEASE:
-v3.0.0-Louise.Conglomerate.Shipyards | downloads: 402
-v1.3.1-Factory.Outlets | downloads: 427
+v3.0.0-Louise.Conglomerate.Shipyards | downloads: 403
+v1.3.1-Factory.Outlets | downloads: 428
 v2.0.0-Louise.Conglomerate.Shipyards | downloads: 169
-v1.8.0-Fundamental.Outfit.Expansion | downloads: 893
-v1.1.1-Zone.of.Control | downloads: 1406
-v1.1.1-Korunak.Defense.Drones | downloads: 1419
+v1.8.0-Fundamental.Outfit.Expansion | downloads: 894
+v1.1.1-Zone.of.Control | downloads: 1407
+v1.1.1-Korunak.Defense.Drones | downloads: 1420
 v1.7.0-Fundamental.Outfit.Expansion | downloads: 1446
 v1.3.0-Factory.Outlets | downloads: 2099
-v2.1.2-Solar.Sails | downloads: 2671
+v2.1.2-Solar.Sails | downloads: 2672
 v1.2.0-Factory.Outlets | downloads: 408
 v2.1.1-Solar.Sails | downloads: 199
 v1.1.1-Factory.Outlets | downloads: 44
 v1.6.0-Fundamental.Outfit.Expansion | downloads: 2171
-v1.2.3-Jaws | downloads: 3769
+v1.2.3-Jaws | downloads: 3770
 v1.1.0-Zone.of.Control | downloads: 2330
 v1.1.0-Factory.Outlets | downloads: 941
 v1.5.1-Fundamental.Outfit.Expansion | downloads: 86
 v1.5.0-Fundamental.Outfit.Expansion | downloads: 28
 v1.2.1-Louise.Conglomerate.Shipyards | downloads: 3539
 v2.1.0-Solar.Sails | downloads: 920
-v1.3.0-Bunsen.Burner | downloads: 3769
+v1.3.0-Bunsen.Burner | downloads: 3770
 v1.2.2-Jaws | downloads: 34
 v1.0.1-Zone.of.Control | downloads: 46
 v1.0.0-Factory.Outlets | downloads: 36
@@ -60,15 +60,15 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 59
-# TOTAL DOWNLOADS: 33084
+# TOTAL DOWNLOADS: 33092
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 3990
-Factory.Outlets 3955
-Fundamental.Outfit.Expansion 4980
-Jaws 3871
-Korunak.Defense.Drones 4029
-Louise.Conglomerate.Shipyards 4487
-Solar.Sails 3968
-Zone.of.Control 3804
+Bunsen.Burner 3991
+Factory.Outlets 3956
+Fundamental.Outfit.Expansion 4981
+Jaws 3872
+Korunak.Defense.Drones 4030
+Louise.Conglomerate.Shipyards 4488
+Solar.Sails 3969
+Zone.of.Control 3805
