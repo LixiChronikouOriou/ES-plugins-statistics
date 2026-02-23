@@ -32,8 +32,8 @@
 		<td>3894</td>
 		<td>3920</td>
 		<td>3942</td>
-		<td>3948</td>
-		<td>+ 6</td>
+		<td>3950</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
@@ -43,8 +43,8 @@
 		<td>4900</td>
 		<td>4935</td>
 		<td>4964</td>
-		<td>4971</td>
-		<td>+ 7</td>
+		<td>4973</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -76,8 +76,8 @@
 		<td>4418</td>
 		<td>4447</td>
 		<td>4472</td>
-		<td>4478</td>
-		<td>+ 6</td>
+		<td>4480</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -87,8 +87,8 @@
 		<td>3907</td>
 		<td>3933</td>
 		<td>3954</td>
-		<td>3961</td>
-		<td>+ 7</td>
+		<td>3963</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
@@ -98,8 +98,8 @@
 		<td>3741</td>
 		<td>3767</td>
 		<td>3791</td>
-		<td>3797</td>
-		<td>+ 6</td>
+		<td>3799</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -109,8 +109,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>33030</td>
-		<td>52</td>
+		<td>33040</td>
+		<td>62</td>
 	</tr>
 </table>
 </sub></sup>
@@ -135,8 +135,8 @@
 		<td>4900</td>
 		<td>4935</td>
 		<td>4964</td>
-		<td>4971</td>
-		<td>+ 7</td>
+		<td>4973</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -146,8 +146,8 @@
 		<td>4418</td>
 		<td>4447</td>
 		<td>4472</td>
-		<td>4478</td>
-		<td>+ 6</td>
+		<td>4480</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -179,8 +179,8 @@
 		<td>3907</td>
 		<td>3933</td>
 		<td>3954</td>
-		<td>3961</td>
-		<td>+ 7</td>
+		<td>3963</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -190,8 +190,8 @@
 		<td>3894</td>
 		<td>3920</td>
 		<td>3942</td>
-		<td>3948</td>
-		<td>+ 6</td>
+		<td>3950</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -212,8 +212,8 @@
 		<td>3741</td>
 		<td>3767</td>
 		<td>3791</td>
-		<td>3797</td>
-		<td>+ 6</td>
+		<td>3799</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -223,8 +223,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>33030</td>
-		<td>52</td>
+		<td>33040</td>
+		<td>62</td>
 	</tr>
 </table>
 </sub></sup>
