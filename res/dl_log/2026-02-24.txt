@@ -1,25 +1,25 @@
 # DOWNLOADS FOR EACH RELEASE:
-v3.0.0-Louise.Conglomerate.Shipyards | downloads: 419
-v1.3.1-Factory.Outlets | downloads: 444
+v3.0.0-Louise.Conglomerate.Shipyards | downloads: 420
+v1.3.1-Factory.Outlets | downloads: 446
 v2.0.0-Louise.Conglomerate.Shipyards | downloads: 169
-v1.8.0-Fundamental.Outfit.Expansion | downloads: 915
-v1.1.1-Zone.of.Control | downloads: 1422
-v1.1.1-Korunak.Defense.Drones | downloads: 1435
+v1.8.0-Fundamental.Outfit.Expansion | downloads: 916
+v1.1.1-Zone.of.Control | downloads: 1423
+v1.1.1-Korunak.Defense.Drones | downloads: 1436
 v1.7.0-Fundamental.Outfit.Expansion | downloads: 1446
 v1.3.0-Factory.Outlets | downloads: 2099
-v2.1.2-Solar.Sails | downloads: 2687
+v2.1.2-Solar.Sails | downloads: 2688
 v1.2.0-Factory.Outlets | downloads: 408
 v2.1.1-Solar.Sails | downloads: 199
 v1.1.1-Factory.Outlets | downloads: 44
 v1.6.0-Fundamental.Outfit.Expansion | downloads: 2171
-v1.2.3-Jaws | downloads: 3788
+v1.2.3-Jaws | downloads: 3789
 v1.1.0-Zone.of.Control | downloads: 2330
 v1.1.0-Factory.Outlets | downloads: 941
 v1.5.1-Fundamental.Outfit.Expansion | downloads: 86
 v1.5.0-Fundamental.Outfit.Expansion | downloads: 28
 v1.2.1-Louise.Conglomerate.Shipyards | downloads: 3539
 v2.1.0-Solar.Sails | downloads: 920
-v1.3.0-Bunsen.Burner | downloads: 3785
+v1.3.0-Bunsen.Burner | downloads: 3786
 v1.2.2-Jaws | downloads: 34
 v1.0.1-Zone.of.Control | downloads: 46
 v1.0.0-Factory.Outlets | downloads: 36
@@ -60,15 +60,15 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 59
-# TOTAL DOWNLOADS: 33223
+# TOTAL DOWNLOADS: 33232
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 4006
-Factory.Outlets 3972
-Fundamental.Outfit.Expansion 5002
-Jaws 3890
-Korunak.Defense.Drones 4045
-Louise.Conglomerate.Shipyards 4504
-Solar.Sails 3984
-Zone.of.Control 3820
+Bunsen.Burner 4007
+Factory.Outlets 3974
+Fundamental.Outfit.Expansion 5003
+Jaws 3891
+Korunak.Defense.Drones 4046
+Louise.Conglomerate.Shipyards 4505
+Solar.Sails 3985
+Zone.of.Control 3821
