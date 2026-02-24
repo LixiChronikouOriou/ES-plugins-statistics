@@ -1,25 +1,25 @@
 # DOWNLOADS FOR EACH RELEASE:
-v3.0.0-Louise.Conglomerate.Shipyards | downloads: 416
-v1.3.1-Factory.Outlets | downloads: 441
+v3.0.0-Louise.Conglomerate.Shipyards | downloads: 417
+v1.3.1-Factory.Outlets | downloads: 442
 v2.0.0-Louise.Conglomerate.Shipyards | downloads: 169
-v1.8.0-Fundamental.Outfit.Expansion | downloads: 910
-v1.1.1-Zone.of.Control | downloads: 1419
-v1.1.1-Korunak.Defense.Drones | downloads: 1432
+v1.8.0-Fundamental.Outfit.Expansion | downloads: 911
+v1.1.1-Zone.of.Control | downloads: 1420
+v1.1.1-Korunak.Defense.Drones | downloads: 1433
 v1.7.0-Fundamental.Outfit.Expansion | downloads: 1446
 v1.3.0-Factory.Outlets | downloads: 2099
-v2.1.2-Solar.Sails | downloads: 2684
+v2.1.2-Solar.Sails | downloads: 2685
 v1.2.0-Factory.Outlets | downloads: 408
 v2.1.1-Solar.Sails | downloads: 199
 v1.1.1-Factory.Outlets | downloads: 44
 v1.6.0-Fundamental.Outfit.Expansion | downloads: 2171
-v1.2.3-Jaws | downloads: 3785
+v1.2.3-Jaws | downloads: 3786
 v1.1.0-Zone.of.Control | downloads: 2330
 v1.1.0-Factory.Outlets | downloads: 941
 v1.5.1-Fundamental.Outfit.Expansion | downloads: 86
 v1.5.0-Fundamental.Outfit.Expansion | downloads: 28
 v1.2.1-Louise.Conglomerate.Shipyards | downloads: 3539
 v2.1.0-Solar.Sails | downloads: 920
-v1.3.0-Bunsen.Burner | downloads: 3782
+v1.3.0-Bunsen.Burner | downloads: 3783
 v1.2.2-Jaws | downloads: 34
 v1.0.1-Zone.of.Control | downloads: 46
 v1.0.0-Factory.Outlets | downloads: 36
@@ -60,15 +60,15 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 59
-# TOTAL DOWNLOADS: 33197
+# TOTAL DOWNLOADS: 33205
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 4003
-Factory.Outlets 3969
-Fundamental.Outfit.Expansion 4997
-Jaws 3887
-Korunak.Defense.Drones 4042
-Louise.Conglomerate.Shipyards 4501
-Solar.Sails 3981
-Zone.of.Control 3817
+Bunsen.Burner 4004
+Factory.Outlets 3970
+Fundamental.Outfit.Expansion 4998
+Jaws 3888
+Korunak.Defense.Drones 4043
+Louise.Conglomerate.Shipyards 4502
+Solar.Sails 3982
+Zone.of.Control 3818
