@@ -1,25 +1,25 @@
 # DOWNLOADS FOR EACH RELEASE:
-v3.0.0-Louise.Conglomerate.Shipyards | downloads: 449
-v1.3.1-Factory.Outlets | downloads: 471
+v3.0.0-Louise.Conglomerate.Shipyards | downloads: 451
+v1.3.1-Factory.Outlets | downloads: 473
 v2.0.0-Louise.Conglomerate.Shipyards | downloads: 169
-v1.8.0-Fundamental.Outfit.Expansion | downloads: 942
-v1.1.1-Zone.of.Control | downloads: 1447
-v1.1.1-Korunak.Defense.Drones | downloads: 1465
+v1.8.0-Fundamental.Outfit.Expansion | downloads: 944
+v1.1.1-Zone.of.Control | downloads: 1448
+v1.1.1-Korunak.Defense.Drones | downloads: 1467
 v1.7.0-Fundamental.Outfit.Expansion | downloads: 1446
 v1.3.0-Factory.Outlets | downloads: 2099
-v2.1.2-Solar.Sails | downloads: 2711
+v2.1.2-Solar.Sails | downloads: 2713
 v1.2.0-Factory.Outlets | downloads: 408
 v2.1.1-Solar.Sails | downloads: 199
 v1.1.1-Factory.Outlets | downloads: 44
 v1.6.0-Fundamental.Outfit.Expansion | downloads: 2171
-v1.2.3-Jaws | downloads: 3816
+v1.2.3-Jaws | downloads: 3817
 v1.1.0-Zone.of.Control | downloads: 2330
 v1.1.0-Factory.Outlets | downloads: 941
 v1.5.1-Fundamental.Outfit.Expansion | downloads: 86
 v1.5.0-Fundamental.Outfit.Expansion | downloads: 28
 v1.2.1-Louise.Conglomerate.Shipyards | downloads: 3539
 v2.1.0-Solar.Sails | downloads: 920
-v1.3.0-Bunsen.Burner | downloads: 3810
+v1.3.0-Bunsen.Burner | downloads: 3812
 v1.2.2-Jaws | downloads: 34
 v1.0.1-Zone.of.Control | downloads: 46
 v1.0.0-Factory.Outlets | downloads: 36
@@ -60,15 +60,15 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 59
-# TOTAL DOWNLOADS: 33439
+# TOTAL DOWNLOADS: 33453
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 4031
-Factory.Outlets 3999
-Fundamental.Outfit.Expansion 5029
-Jaws 3918
-Korunak.Defense.Drones 4075
-Louise.Conglomerate.Shipyards 4534
-Solar.Sails 4008
-Zone.of.Control 3845
+Bunsen.Burner 4033
+Factory.Outlets 4001
+Fundamental.Outfit.Expansion 5031
+Jaws 3919
+Korunak.Defense.Drones 4077
+Louise.Conglomerate.Shipyards 4536
+Solar.Sails 4010
+Zone.of.Control 3846
