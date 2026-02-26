@@ -21,8 +21,8 @@
 		<td>4000</td>
 		<td>4018</td>
 		<td>4039</td>
-		<td>4048</td>
-		<td>+ 9</td>
+		<td>4049</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -109,8 +109,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>33574</td>
-		<td>66</td>
+		<td>33575</td>
+		<td>67</td>
 	</tr>
 </table>
 </sub></sup>
@@ -168,8 +168,8 @@
 		<td>4000</td>
 		<td>4018</td>
 		<td>4039</td>
-		<td>4048</td>
-		<td>+ 9</td>
+		<td>4049</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -223,8 +223,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>33574</td>
-		<td>66</td>
+		<td>33575</td>
+		<td>67</td>
 	</tr>
 </table>
 </sub></sup>
