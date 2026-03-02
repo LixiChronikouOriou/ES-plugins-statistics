@@ -1,25 +1,25 @@
 # DOWNLOADS FOR EACH RELEASE:
-v3.0.0-Louise.Conglomerate.Shipyards | downloads: 568
-v1.3.1-Factory.Outlets | downloads: 578
+v3.0.0-Louise.Conglomerate.Shipyards | downloads: 570
+v1.3.1-Factory.Outlets | downloads: 580
 v2.0.0-Louise.Conglomerate.Shipyards | downloads: 169
-v1.8.0-Fundamental.Outfit.Expansion | downloads: 1064
-v1.1.1-Zone.of.Control | downloads: 1550
-v1.1.1-Korunak.Defense.Drones | downloads: 1576
+v1.8.0-Fundamental.Outfit.Expansion | downloads: 1066
+v1.1.1-Zone.of.Control | downloads: 1552
+v1.1.1-Korunak.Defense.Drones | downloads: 1578
 v1.7.0-Fundamental.Outfit.Expansion | downloads: 1446
 v1.3.0-Factory.Outlets | downloads: 2099
-v2.1.2-Solar.Sails | downloads: 2817
+v2.1.2-Solar.Sails | downloads: 2819
 v1.2.0-Factory.Outlets | downloads: 408
 v2.1.1-Solar.Sails | downloads: 199
 v1.1.1-Factory.Outlets | downloads: 44
 v1.6.0-Fundamental.Outfit.Expansion | downloads: 2171
-v1.2.3-Jaws | downloads: 3921
+v1.2.3-Jaws | downloads: 3923
 v1.1.0-Zone.of.Control | downloads: 2330
 v1.1.0-Factory.Outlets | downloads: 941
 v1.5.1-Fundamental.Outfit.Expansion | downloads: 86
 v1.5.0-Fundamental.Outfit.Expansion | downloads: 28
 v1.2.1-Louise.Conglomerate.Shipyards | downloads: 3539
 v2.1.0-Solar.Sails | downloads: 920
-v1.3.0-Bunsen.Burner | downloads: 3914
+v1.3.0-Bunsen.Burner | downloads: 3916
 v1.2.2-Jaws | downloads: 34
 v1.0.1-Zone.of.Control | downloads: 46
 v1.0.0-Factory.Outlets | downloads: 36
@@ -60,15 +60,15 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 59
-# TOTAL DOWNLOADS: 34316
+# TOTAL DOWNLOADS: 34332
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 4135
-Factory.Outlets 4106
-Fundamental.Outfit.Expansion 5151
-Jaws 4023
-Korunak.Defense.Drones 4186
-Louise.Conglomerate.Shipyards 4653
-Solar.Sails 4114
-Zone.of.Control 3948
+Bunsen.Burner 4137
+Factory.Outlets 4108
+Fundamental.Outfit.Expansion 5153
+Jaws 4025
+Korunak.Defense.Drones 4188
+Louise.Conglomerate.Shipyards 4655
+Solar.Sails 4116
+Zone.of.Control 3950
