@@ -21,8 +21,8 @@
 		<td>4108</td>
 		<td>4130</td>
 		<td>4152</td>
-		<td>4156</td>
-		<td>+ 4</td>
+		<td>4157</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -32,8 +32,8 @@
 		<td>4080</td>
 		<td>4101</td>
 		<td>4123</td>
-		<td>4127</td>
-		<td>+ 4</td>
+		<td>4128</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
@@ -43,8 +43,8 @@
 		<td>5121</td>
 		<td>5146</td>
 		<td>5170</td>
-		<td>5175</td>
-		<td>+ 5</td>
+		<td>5176</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -87,8 +87,8 @@
 		<td>4089</td>
 		<td>4109</td>
 		<td>4129</td>
-		<td>4133</td>
-		<td>+ 4</td>
+		<td>4134</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
@@ -98,8 +98,8 @@
 		<td>3920</td>
 		<td>3941</td>
 		<td>3968</td>
-		<td>3971</td>
-		<td>+ 3</td>
+		<td>3972</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -109,8 +109,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>34494</td>
-		<td>35</td>
+		<td>34499</td>
+		<td>40</td>
 	</tr>
 </table>
 </sub></sup>
@@ -135,8 +135,8 @@
 		<td>5121</td>
 		<td>5146</td>
 		<td>5170</td>
-		<td>5175</td>
-		<td>+ 5</td>
+		<td>5176</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -168,8 +168,8 @@
 		<td>4108</td>
 		<td>4130</td>
 		<td>4152</td>
-		<td>4156</td>
-		<td>+ 4</td>
+		<td>4157</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -179,8 +179,8 @@
 		<td>4089</td>
 		<td>4109</td>
 		<td>4129</td>
-		<td>4133</td>
-		<td>+ 4</td>
+		<td>4134</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -190,8 +190,8 @@
 		<td>4080</td>
 		<td>4101</td>
 		<td>4123</td>
-		<td>4127</td>
-		<td>+ 4</td>
+		<td>4128</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -212,8 +212,8 @@
 		<td>3920</td>
 		<td>3941</td>
 		<td>3968</td>
-		<td>3971</td>
-		<td>+ 3</td>
+		<td>3972</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -223,8 +223,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>34494</td>
-		<td>35</td>
+		<td>34499</td>
+		<td>40</td>
 	</tr>
 </table>
 </sub></sup>
