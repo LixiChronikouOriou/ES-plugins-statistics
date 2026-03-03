@@ -1,25 +1,25 @@
 # DOWNLOADS FOR EACH RELEASE:
-v3.0.0-Louise.Conglomerate.Shipyards | downloads: 598
-v1.3.1-Factory.Outlets | downloads: 606
+v3.0.0-Louise.Conglomerate.Shipyards | downloads: 599
+v1.3.1-Factory.Outlets | downloads: 607
 v2.0.0-Louise.Conglomerate.Shipyards | downloads: 169
-v1.8.0-Fundamental.Outfit.Expansion | downloads: 1096
-v1.1.1-Zone.of.Control | downloads: 1580
-v1.1.1-Korunak.Defense.Drones | downloads: 1604
+v1.8.0-Fundamental.Outfit.Expansion | downloads: 1097
+v1.1.1-Zone.of.Control | downloads: 1581
+v1.1.1-Korunak.Defense.Drones | downloads: 1605
 v1.7.0-Fundamental.Outfit.Expansion | downloads: 1446
 v1.3.0-Factory.Outlets | downloads: 2099
-v2.1.2-Solar.Sails | downloads: 2843
+v2.1.2-Solar.Sails | downloads: 2847
 v1.2.0-Factory.Outlets | downloads: 408
 v2.1.1-Solar.Sails | downloads: 199
 v1.1.1-Factory.Outlets | downloads: 44
 v1.6.0-Fundamental.Outfit.Expansion | downloads: 2171
-v1.2.3-Jaws | downloads: 3951
+v1.2.3-Jaws | downloads: 3952
 v1.1.0-Zone.of.Control | downloads: 2330
 v1.1.0-Factory.Outlets | downloads: 941
 v1.5.1-Fundamental.Outfit.Expansion | downloads: 86
 v1.5.0-Fundamental.Outfit.Expansion | downloads: 28
 v1.2.1-Louise.Conglomerate.Shipyards | downloads: 3539
 v2.1.0-Solar.Sails | downloads: 920
-v1.3.0-Bunsen.Burner | downloads: 3942
+v1.3.0-Bunsen.Burner | downloads: 3943
 v1.2.2-Jaws | downloads: 34
 v1.0.1-Zone.of.Control | downloads: 46
 v1.0.0-Factory.Outlets | downloads: 36
@@ -60,15 +60,15 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 59
-# TOTAL DOWNLOADS: 34548
+# TOTAL DOWNLOADS: 34559
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 4163
-Factory.Outlets 4134
-Fundamental.Outfit.Expansion 5183
-Jaws 4053
-Korunak.Defense.Drones 4214
-Louise.Conglomerate.Shipyards 4683
-Solar.Sails 4140
-Zone.of.Control 3978
+Bunsen.Burner 4164
+Factory.Outlets 4135
+Fundamental.Outfit.Expansion 5184
+Jaws 4054
+Korunak.Defense.Drones 4215
+Louise.Conglomerate.Shipyards 4684
+Solar.Sails 4144
+Zone.of.Control 3979
