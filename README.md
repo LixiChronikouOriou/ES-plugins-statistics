@@ -21,8 +21,8 @@
 		<td>4130</td>
 		<td>4152</td>
 		<td>4173</td>
-		<td>4174</td>
-		<td>+ 1</td>
+		<td>4175</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -109,8 +109,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>34644</td>
-		<td>6</td>
+		<td>34645</td>
+		<td>7</td>
 	</tr>
 </table>
 </sub></sup>
@@ -168,8 +168,8 @@
 		<td>4130</td>
 		<td>4152</td>
 		<td>4173</td>
-		<td>4174</td>
-		<td>+ 1</td>
+		<td>4175</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -223,8 +223,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>34644</td>
-		<td>6</td>
+		<td>34645</td>
+		<td>7</td>
 	</tr>
 </table>
 </sub></sup>
