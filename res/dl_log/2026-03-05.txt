@@ -1,25 +1,25 @@
 # DOWNLOADS FOR EACH RELEASE:
-v3.0.0-Louise.Conglomerate.Shipyards | downloads: 645
-v1.3.1-Factory.Outlets | downloads: 651
+v3.0.0-Louise.Conglomerate.Shipyards | downloads: 646
+v1.3.1-Factory.Outlets | downloads: 652
 v2.0.0-Louise.Conglomerate.Shipyards | downloads: 169
-v1.8.0-Fundamental.Outfit.Expansion | downloads: 1150
-v1.1.1-Zone.of.Control | downloads: 1623
-v1.1.1-Korunak.Defense.Drones | downloads: 1650
+v1.8.0-Fundamental.Outfit.Expansion | downloads: 1151
+v1.1.1-Zone.of.Control | downloads: 1624
+v1.1.1-Korunak.Defense.Drones | downloads: 1651
 v1.7.0-Fundamental.Outfit.Expansion | downloads: 1446
 v1.3.0-Factory.Outlets | downloads: 2099
-v2.1.2-Solar.Sails | downloads: 2897
+v2.1.2-Solar.Sails | downloads: 2898
 v1.2.0-Factory.Outlets | downloads: 408
 v2.1.1-Solar.Sails | downloads: 199
 v1.1.1-Factory.Outlets | downloads: 44
 v1.6.0-Fundamental.Outfit.Expansion | downloads: 2171
-v1.2.3-Jaws | downloads: 3995
+v1.2.3-Jaws | downloads: 3996
 v1.1.0-Zone.of.Control | downloads: 2330
 v1.1.0-Factory.Outlets | downloads: 941
 v1.5.1-Fundamental.Outfit.Expansion | downloads: 86
 v1.5.0-Fundamental.Outfit.Expansion | downloads: 28
 v1.2.1-Louise.Conglomerate.Shipyards | downloads: 3539
 v2.1.0-Solar.Sails | downloads: 920
-v1.3.0-Bunsen.Burner | downloads: 3987
+v1.3.0-Bunsen.Burner | downloads: 3988
 v1.2.2-Jaws | downloads: 34
 v1.0.1-Zone.of.Control | downloads: 46
 v1.0.0-Factory.Outlets | downloads: 36
@@ -60,15 +60,15 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 59
-# TOTAL DOWNLOADS: 34926
+# TOTAL DOWNLOADS: 34934
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 4208
-Factory.Outlets 4179
-Fundamental.Outfit.Expansion 5237
-Jaws 4097
-Korunak.Defense.Drones 4260
-Louise.Conglomerate.Shipyards 4730
-Solar.Sails 4194
-Zone.of.Control 4021
+Bunsen.Burner 4209
+Factory.Outlets 4180
+Fundamental.Outfit.Expansion 5238
+Jaws 4098
+Korunak.Defense.Drones 4261
+Louise.Conglomerate.Shipyards 4731
+Solar.Sails 4195
+Zone.of.Control 4022
