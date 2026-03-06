@@ -43,8 +43,8 @@
 		<td>5199</td>
 		<td>5220</td>
 		<td>5240</td>
-		<td>5255</td>
-		<td>+ 15</td>
+		<td>5256</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -87,8 +87,8 @@
 		<td>4155</td>
 		<td>4175</td>
 		<td>4197</td>
-		<td>4212</td>
-		<td>+ 15</td>
+		<td>4213</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
@@ -109,8 +109,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>35079</td>
-		<td>128</td>
+		<td>35081</td>
+		<td>130</td>
 	</tr>
 </table>
 </sub></sup>
@@ -135,8 +135,8 @@
 		<td>5199</td>
 		<td>5220</td>
 		<td>5240</td>
-		<td>5255</td>
-		<td>+ 15</td>
+		<td>5256</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -179,8 +179,8 @@
 		<td>4155</td>
 		<td>4175</td>
 		<td>4197</td>
-		<td>4212</td>
-		<td>+ 15</td>
+		<td>4213</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -223,8 +223,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>35079</td>
-		<td>128</td>
+		<td>35081</td>
+		<td>130</td>
 	</tr>
 </table>
 </sub></sup>
