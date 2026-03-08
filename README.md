@@ -21,8 +21,8 @@
 		<td>4211</td>
 		<td>4232</td>
 		<td>4253</td>
-		<td>4264</td>
-		<td>+ 11</td>
+		<td>4265</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -32,8 +32,8 @@
 		<td>4182</td>
 		<td>4199</td>
 		<td>4219</td>
-		<td>4232</td>
-		<td>+ 13</td>
+		<td>4233</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
@@ -87,8 +87,8 @@
 		<td>4197</td>
 		<td>4215</td>
 		<td>4236</td>
-		<td>4250</td>
-		<td>+ 14</td>
+		<td>4251</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
@@ -98,8 +98,8 @@
 		<td>4025</td>
 		<td>4044</td>
 		<td>4065</td>
-		<td>4079</td>
-		<td>+ 14</td>
+		<td>4080</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -109,8 +109,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>35374</td>
-		<td>111</td>
+		<td>35378</td>
+		<td>115</td>
 	</tr>
 </table>
 </sub></sup>
@@ -168,8 +168,8 @@
 		<td>4211</td>
 		<td>4232</td>
 		<td>4253</td>
-		<td>4264</td>
-		<td>+ 11</td>
+		<td>4265</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -179,8 +179,8 @@
 		<td>4197</td>
 		<td>4215</td>
 		<td>4236</td>
-		<td>4250</td>
-		<td>+ 14</td>
+		<td>4251</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -190,8 +190,8 @@
 		<td>4182</td>
 		<td>4199</td>
 		<td>4219</td>
-		<td>4232</td>
-		<td>+ 13</td>
+		<td>4233</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -212,8 +212,8 @@
 		<td>4025</td>
 		<td>4044</td>
 		<td>4065</td>
-		<td>4079</td>
-		<td>+ 14</td>
+		<td>4080</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -223,8 +223,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>35374</td>
-		<td>111</td>
+		<td>35378</td>
+		<td>115</td>
 	</tr>
 </table>
 </sub></sup>
