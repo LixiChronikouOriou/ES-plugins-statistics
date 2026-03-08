@@ -1,25 +1,25 @@
 # DOWNLOADS FOR EACH RELEASE:
-v3.0.0-Louise.Conglomerate.Shipyards | downloads: 693
-v1.3.1-Factory.Outlets | downloads: 698
+v3.0.0-Louise.Conglomerate.Shipyards | downloads: 694
+v1.3.1-Factory.Outlets | downloads: 699
 v2.0.0-Louise.Conglomerate.Shipyards | downloads: 169
-v1.8.0-Fundamental.Outfit.Expansion | downloads: 1204
-v1.1.1-Zone.of.Control | downloads: 1674
-v1.1.1-Korunak.Defense.Drones | downloads: 1698
+v1.8.0-Fundamental.Outfit.Expansion | downloads: 1205
+v1.1.1-Zone.of.Control | downloads: 1675
+v1.1.1-Korunak.Defense.Drones | downloads: 1699
 v1.7.0-Fundamental.Outfit.Expansion | downloads: 1446
 v1.3.0-Factory.Outlets | downloads: 2099
-v2.1.2-Solar.Sails | downloads: 2946
+v2.1.2-Solar.Sails | downloads: 2947
 v1.2.0-Factory.Outlets | downloads: 408
 v2.1.1-Solar.Sails | downloads: 199
 v1.1.1-Factory.Outlets | downloads: 44
 v1.6.0-Fundamental.Outfit.Expansion | downloads: 2171
-v1.2.3-Jaws | downloads: 4041
+v1.2.3-Jaws | downloads: 4042
 v1.1.0-Zone.of.Control | downloads: 2330
 v1.1.0-Factory.Outlets | downloads: 941
 v1.5.1-Fundamental.Outfit.Expansion | downloads: 86
 v1.5.0-Fundamental.Outfit.Expansion | downloads: 28
 v1.2.1-Louise.Conglomerate.Shipyards | downloads: 3539
 v2.1.0-Solar.Sails | downloads: 920
-v1.3.0-Bunsen.Burner | downloads: 4037
+v1.3.0-Bunsen.Burner | downloads: 4038
 v1.2.2-Jaws | downloads: 34
 v1.0.1-Zone.of.Control | downloads: 46
 v1.0.0-Factory.Outlets | downloads: 36
@@ -60,15 +60,15 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 59
-# TOTAL DOWNLOADS: 35319
+# TOTAL DOWNLOADS: 35327
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 4258
-Factory.Outlets 4226
-Fundamental.Outfit.Expansion 5291
-Jaws 4143
-Korunak.Defense.Drones 4308
-Louise.Conglomerate.Shipyards 4778
-Solar.Sails 4243
-Zone.of.Control 4072
+Bunsen.Burner 4259
+Factory.Outlets 4227
+Fundamental.Outfit.Expansion 5292
+Jaws 4144
+Korunak.Defense.Drones 4309
+Louise.Conglomerate.Shipyards 4779
+Solar.Sails 4244
+Zone.of.Control 4073
