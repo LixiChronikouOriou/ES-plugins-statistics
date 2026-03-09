@@ -1,25 +1,25 @@
 # DOWNLOADS FOR EACH RELEASE:
-v3.0.0-Louise.Conglomerate.Shipyards | downloads: 710
-v1.3.1-Factory.Outlets | downloads: 714
+v3.0.0-Louise.Conglomerate.Shipyards | downloads: 711
+v1.3.1-Factory.Outlets | downloads: 715
 v2.0.0-Louise.Conglomerate.Shipyards | downloads: 169
-v1.8.0-Fundamental.Outfit.Expansion | downloads: 1222
-v1.1.1-Zone.of.Control | downloads: 1688
-v1.1.1-Korunak.Defense.Drones | downloads: 1715
+v1.8.0-Fundamental.Outfit.Expansion | downloads: 1223
+v1.1.1-Zone.of.Control | downloads: 1689
+v1.1.1-Korunak.Defense.Drones | downloads: 1716
 v1.7.0-Fundamental.Outfit.Expansion | downloads: 1446
 v1.3.0-Factory.Outlets | downloads: 2099
-v2.1.2-Solar.Sails | downloads: 2964
+v2.1.2-Solar.Sails | downloads: 2965
 v1.2.0-Factory.Outlets | downloads: 408
 v2.1.1-Solar.Sails | downloads: 199
 v1.1.1-Factory.Outlets | downloads: 44
 v1.6.0-Fundamental.Outfit.Expansion | downloads: 2171
-v1.2.3-Jaws | downloads: 4057
+v1.2.3-Jaws | downloads: 4058
 v1.1.0-Zone.of.Control | downloads: 2330
 v1.1.0-Factory.Outlets | downloads: 941
 v1.5.1-Fundamental.Outfit.Expansion | downloads: 86
 v1.5.0-Fundamental.Outfit.Expansion | downloads: 28
 v1.2.1-Louise.Conglomerate.Shipyards | downloads: 3539
 v2.1.0-Solar.Sails | downloads: 920
-v1.3.0-Bunsen.Burner | downloads: 4052
+v1.3.0-Bunsen.Burner | downloads: 4053
 v1.2.2-Jaws | downloads: 34
 v1.0.1-Zone.of.Control | downloads: 46
 v1.0.0-Factory.Outlets | downloads: 36
@@ -60,15 +60,15 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 59
-# TOTAL DOWNLOADS: 35450
+# TOTAL DOWNLOADS: 35458
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 4273
-Factory.Outlets 4242
-Fundamental.Outfit.Expansion 5309
-Jaws 4159
-Korunak.Defense.Drones 4325
-Louise.Conglomerate.Shipyards 4795
-Solar.Sails 4261
-Zone.of.Control 4086
+Bunsen.Burner 4274
+Factory.Outlets 4243
+Fundamental.Outfit.Expansion 5310
+Jaws 4160
+Korunak.Defense.Drones 4326
+Louise.Conglomerate.Shipyards 4796
+Solar.Sails 4262
+Zone.of.Control 4087
