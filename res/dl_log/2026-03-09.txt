@@ -1,25 +1,25 @@
 # DOWNLOADS FOR EACH RELEASE:
-v3.0.0-Louise.Conglomerate.Shipyards | downloads: 712
-v1.3.1-Factory.Outlets | downloads: 716
+v3.0.0-Louise.Conglomerate.Shipyards | downloads: 714
+v1.3.1-Factory.Outlets | downloads: 717
 v2.0.0-Louise.Conglomerate.Shipyards | downloads: 169
-v1.8.0-Fundamental.Outfit.Expansion | downloads: 1224
-v1.1.1-Zone.of.Control | downloads: 1690
-v1.1.1-Korunak.Defense.Drones | downloads: 1717
+v1.8.0-Fundamental.Outfit.Expansion | downloads: 1225
+v1.1.1-Zone.of.Control | downloads: 1692
+v1.1.1-Korunak.Defense.Drones | downloads: 1719
 v1.7.0-Fundamental.Outfit.Expansion | downloads: 1446
 v1.3.0-Factory.Outlets | downloads: 2099
-v2.1.2-Solar.Sails | downloads: 2966
+v2.1.2-Solar.Sails | downloads: 2968
 v1.2.0-Factory.Outlets | downloads: 408
 v2.1.1-Solar.Sails | downloads: 199
 v1.1.1-Factory.Outlets | downloads: 44
 v1.6.0-Fundamental.Outfit.Expansion | downloads: 2171
-v1.2.3-Jaws | downloads: 4059
+v1.2.3-Jaws | downloads: 4060
 v1.1.0-Zone.of.Control | downloads: 2330
 v1.1.0-Factory.Outlets | downloads: 941
 v1.5.1-Fundamental.Outfit.Expansion | downloads: 86
 v1.5.0-Fundamental.Outfit.Expansion | downloads: 28
 v1.2.1-Louise.Conglomerate.Shipyards | downloads: 3539
 v2.1.0-Solar.Sails | downloads: 920
-v1.3.0-Bunsen.Burner | downloads: 4054
+v1.3.0-Bunsen.Burner | downloads: 4055
 v1.2.2-Jaws | downloads: 34
 v1.0.1-Zone.of.Control | downloads: 46
 v1.0.0-Factory.Outlets | downloads: 36
@@ -60,15 +60,15 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 59
-# TOTAL DOWNLOADS: 35466
+# TOTAL DOWNLOADS: 35478
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 4275
-Factory.Outlets 4244
-Fundamental.Outfit.Expansion 5311
-Jaws 4161
-Korunak.Defense.Drones 4327
-Louise.Conglomerate.Shipyards 4797
-Solar.Sails 4263
-Zone.of.Control 4088
+Bunsen.Burner 4276
+Factory.Outlets 4245
+Fundamental.Outfit.Expansion 5312
+Jaws 4162
+Korunak.Defense.Drones 4329
+Louise.Conglomerate.Shipyards 4799
+Solar.Sails 4265
+Zone.of.Control 4090
