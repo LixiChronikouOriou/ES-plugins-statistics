@@ -32,8 +32,8 @@
 		<td>4219</td>
 		<td>4236</td>
 		<td>4255</td>
-		<td>4271</td>
-		<td>+ 16</td>
+		<td>4272</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
@@ -87,8 +87,8 @@
 		<td>4236</td>
 		<td>4255</td>
 		<td>4275</td>
-		<td>4290</td>
-		<td>+ 15</td>
+		<td>4291</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
@@ -98,8 +98,8 @@
 		<td>4065</td>
 		<td>4083</td>
 		<td>4100</td>
-		<td>4116</td>
-		<td>+ 16</td>
+		<td>4117</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -109,8 +109,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>35694</td>
-		<td>136</td>
+		<td>35697</td>
+		<td>139</td>
 	</tr>
 </table>
 </sub></sup>
@@ -179,8 +179,8 @@
 		<td>4236</td>
 		<td>4255</td>
 		<td>4275</td>
-		<td>4290</td>
-		<td>+ 15</td>
+		<td>4291</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -190,8 +190,8 @@
 		<td>4219</td>
 		<td>4236</td>
 		<td>4255</td>
-		<td>4271</td>
-		<td>+ 16</td>
+		<td>4272</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -212,8 +212,8 @@
 		<td>4065</td>
 		<td>4083</td>
 		<td>4100</td>
-		<td>4116</td>
-		<td>+ 16</td>
+		<td>4117</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -223,8 +223,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>35694</td>
-		<td>136</td>
+		<td>35697</td>
+		<td>139</td>
 	</tr>
 </table>
 </sub></sup>
