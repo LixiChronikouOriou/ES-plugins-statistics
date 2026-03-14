@@ -32,8 +32,8 @@
 		<td>4304</td>
 		<td>4325</td>
 		<td>4346</td>
-		<td>4350</td>
-		<td>+ 4</td>
+		<td>4351</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
@@ -109,8 +109,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>36325</td>
-		<td>31</td>
+		<td>36326</td>
+		<td>32</td>
 	</tr>
 </table>
 </sub></sup>
@@ -190,8 +190,8 @@
 		<td>4304</td>
 		<td>4325</td>
 		<td>4346</td>
-		<td>4350</td>
-		<td>+ 4</td>
+		<td>4351</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -223,8 +223,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>36325</td>
-		<td>31</td>
+		<td>36326</td>
+		<td>32</td>
 	</tr>
 </table>
 </sub></sup>
