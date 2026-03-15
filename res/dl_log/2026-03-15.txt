@@ -1,25 +1,25 @@
 # DOWNLOADS FOR EACH RELEASE:
-v3.0.0-Louise.Conglomerate.Shipyards | downloads: 827
-v1.3.1-Factory.Outlets | downloads: 826
+v3.0.0-Louise.Conglomerate.Shipyards | downloads: 828
+v1.3.1-Factory.Outlets | downloads: 827
 v2.0.0-Louise.Conglomerate.Shipyards | downloads: 169
-v1.8.0-Fundamental.Outfit.Expansion | downloads: 1353
-v1.1.1-Zone.of.Control | downloads: 1811
-v1.1.1-Korunak.Defense.Drones | downloads: 1843
+v1.8.0-Fundamental.Outfit.Expansion | downloads: 1354
+v1.1.1-Zone.of.Control | downloads: 1812
+v1.1.1-Korunak.Defense.Drones | downloads: 1844
 v1.7.0-Fundamental.Outfit.Expansion | downloads: 1446
 v1.3.0-Factory.Outlets | downloads: 2112
-v2.1.2-Solar.Sails | downloads: 3089
+v2.1.2-Solar.Sails | downloads: 3090
 v1.2.0-Factory.Outlets | downloads: 408
 v2.1.1-Solar.Sails | downloads: 199
 v1.1.1-Factory.Outlets | downloads: 44
 v1.6.0-Fundamental.Outfit.Expansion | downloads: 2171
-v1.2.3-Jaws | downloads: 4176
+v1.2.3-Jaws | downloads: 4177
 v1.1.0-Zone.of.Control | downloads: 2330
 v1.1.0-Factory.Outlets | downloads: 941
 v1.5.1-Fundamental.Outfit.Expansion | downloads: 86
 v1.5.0-Fundamental.Outfit.Expansion | downloads: 28
 v1.2.1-Louise.Conglomerate.Shipyards | downloads: 3555
 v2.1.0-Solar.Sails | downloads: 920
-v1.3.0-Bunsen.Burner | downloads: 4172
+v1.3.0-Bunsen.Burner | downloads: 4173
 v1.2.2-Jaws | downloads: 34
 v1.0.1-Zone.of.Control | downloads: 46
 v1.0.0-Factory.Outlets | downloads: 36
@@ -60,15 +60,15 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 59
-# TOTAL DOWNLOADS: 36454
+# TOTAL DOWNLOADS: 36462
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 4393
-Factory.Outlets 4367
-Fundamental.Outfit.Expansion 5440
-Jaws 4278
-Korunak.Defense.Drones 4453
-Louise.Conglomerate.Shipyards 4928
-Solar.Sails 4386
-Zone.of.Control 4209
+Bunsen.Burner 4394
+Factory.Outlets 4368
+Fundamental.Outfit.Expansion 5441
+Jaws 4279
+Korunak.Defense.Drones 4454
+Louise.Conglomerate.Shipyards 4929
+Solar.Sails 4387
+Zone.of.Control 4210
