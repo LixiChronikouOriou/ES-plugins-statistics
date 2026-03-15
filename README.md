@@ -232,7 +232,6 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2026-03-05</td>
 		<td>2026-03-06</td>
 		<td>2026-03-07</td>
 		<td>2026-03-08</td>
@@ -241,10 +240,10 @@
 		<td>2026-03-11</td>
 		<td>2026-03-12</td>
 		<td>2026-03-13</td>
+		<td>2026-03-14</td>
 	</tr>
 	<tr>
 		<td>page views</td>
-		<td>8</td>
 		<td>81</td>
 		<td>13</td>
 		<td>29</td>
@@ -253,10 +252,10 @@
 		<td>46</td>
 		<td>5</td>
 		<td>13</td>
+		<td>11</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
-		<td>3</td>
 		<td>6</td>
 		<td>4</td>
 		<td>7</td>
@@ -265,6 +264,7 @@
 		<td>25</td>
 		<td>4</td>
 		<td>5</td>
+		<td>4</td>
 	</tr>
 </table>
 <br>
@@ -278,8 +278,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-13</td>
-		<td>3766</td>
-		<td>1121</td>
+		<td>3777</td>
+		<td>1125</td>
 		<td>169</td>
 		<td>45</td>
 	</tr>
@@ -292,8 +292,8 @@
 	</tr>
 	<tr>
 		<td>153</td>
-		<td>24.61</td>
-		<td>7.33</td>
+		<td>24.69</td>
+		<td>7.35</td>
 		<td></td>
 		<td></td>
 	</tr>
