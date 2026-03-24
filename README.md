@@ -43,8 +43,8 @@
 		<td>5555</td>
 		<td>5576</td>
 		<td>5600</td>
-		<td>5616</td>
-		<td>+ 16</td>
+		<td>5617</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -109,8 +109,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>37773</td>
-		<td>117</td>
+		<td>37774</td>
+		<td>118</td>
 	</tr>
 </table>
 </sub></sup>
@@ -135,8 +135,8 @@
 		<td>5555</td>
 		<td>5576</td>
 		<td>5600</td>
-		<td>5616</td>
-		<td>+ 16</td>
+		<td>5617</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -223,8 +223,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>37773</td>
-		<td>117</td>
+		<td>37774</td>
+		<td>118</td>
 	</tr>
 </table>
 </sub></sup>
