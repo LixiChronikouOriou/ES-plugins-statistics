@@ -1,27 +1,27 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.4.0-Bunsen.Burner | downloads: 28
-v1.1.2-Zone.of.Control | downloads: 95
-v3.0.0-Louise.Conglomerate.Shipyards | downloads: 1016
-v1.3.1-Factory.Outlets | downloads: 1012
+v1.1.2-Zone.of.Control | downloads: 96
+v3.0.0-Louise.Conglomerate.Shipyards | downloads: 1017
+v1.3.1-Factory.Outlets | downloads: 1013
 v2.0.0-Louise.Conglomerate.Shipyards | downloads: 169
-v1.8.0-Fundamental.Outfit.Expansion | downloads: 1552
+v1.8.0-Fundamental.Outfit.Expansion | downloads: 1553
 v1.1.1-Zone.of.Control | downloads: 1898
-v1.1.1-Korunak.Defense.Drones | downloads: 2032
+v1.1.1-Korunak.Defense.Drones | downloads: 2033
 v1.7.0-Fundamental.Outfit.Expansion | downloads: 1446
 v1.3.0-Factory.Outlets | downloads: 2114
-v2.1.2-Solar.Sails | downloads: 3271
+v2.1.2-Solar.Sails | downloads: 3272
 v1.2.0-Factory.Outlets | downloads: 408
 v2.1.1-Solar.Sails | downloads: 199
 v1.1.1-Factory.Outlets | downloads: 44
 v1.6.0-Fundamental.Outfit.Expansion | downloads: 2171
-v1.2.3-Jaws | downloads: 4361
+v1.2.3-Jaws | downloads: 4362
 v1.1.0-Zone.of.Control | downloads: 2330
 v1.1.0-Factory.Outlets | downloads: 941
 v1.5.1-Fundamental.Outfit.Expansion | downloads: 86
 v1.5.0-Fundamental.Outfit.Expansion | downloads: 28
 v1.2.1-Louise.Conglomerate.Shipyards | downloads: 3557
 v2.1.0-Solar.Sails | downloads: 920
-v1.3.0-Bunsen.Burner | downloads: 4343
+v1.3.0-Bunsen.Burner | downloads: 4344
 v1.2.2-Jaws | downloads: 34
 v1.0.1-Zone.of.Control | downloads: 46
 v1.0.0-Factory.Outlets | downloads: 36
@@ -62,15 +62,15 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 61
-# TOTAL DOWNLOADS: 37969
+# TOTAL DOWNLOADS: 37977
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 4592
-Factory.Outlets 4555
-Fundamental.Outfit.Expansion 5639
-Jaws 4463
-Korunak.Defense.Drones 4642
-Louise.Conglomerate.Shipyards 5119
-Solar.Sails 4568
-Zone.of.Control 4391
+Bunsen.Burner 4593
+Factory.Outlets 4556
+Fundamental.Outfit.Expansion 5640
+Jaws 4464
+Korunak.Defense.Drones 4643
+Louise.Conglomerate.Shipyards 5120
+Solar.Sails 4569
+Zone.of.Control 4392
