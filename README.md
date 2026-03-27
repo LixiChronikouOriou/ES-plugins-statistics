@@ -76,8 +76,8 @@
 		<td>5099</td>
 		<td>5123</td>
 		<td>5142</td>
-		<td>5158</td>
-		<td>+ 16</td>
+		<td>5159</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -109,8 +109,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>38311</td>
-		<td>134</td>
+		<td>38312</td>
+		<td>135</td>
 	</tr>
 </table>
 </sub></sup>
@@ -146,8 +146,8 @@
 		<td>5099</td>
 		<td>5123</td>
 		<td>5142</td>
-		<td>5158</td>
-		<td>+ 16</td>
+		<td>5159</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -223,8 +223,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>38311</td>
-		<td>134</td>
+		<td>38312</td>
+		<td>135</td>
 	</tr>
 </table>
 </sub></sup>
