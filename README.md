@@ -21,8 +21,8 @@
 		<td>5419</td>
 		<td>5451</td>
 		<td>5493</td>
-		<td>5519</td>
-		<td>+ 26</td>
+		<td>5520</td>
+		<td>+ 27</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -109,8 +109,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>43780</td>
-		<td>134</td>
+		<td>43781</td>
+		<td>135</td>
 	</tr>
 </table>
 </sub></sup>
@@ -157,8 +157,8 @@
 		<td>5419</td>
 		<td>5451</td>
 		<td>5493</td>
-		<td>5519</td>
-		<td>+ 26</td>
+		<td>5520</td>
+		<td>+ 27</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -223,8 +223,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>43780</td>
-		<td>134</td>
+		<td>43781</td>
+		<td>135</td>
 	</tr>
 </table>
 </sub></sup>
