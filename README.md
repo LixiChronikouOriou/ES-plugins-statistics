@@ -21,8 +21,8 @@
 		<td>5714</td>
 		<td>5744</td>
 		<td>5780</td>
-		<td>5794</td>
-		<td>+ 14</td>
+		<td>5795</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -65,8 +65,8 @@
 		<td>5444</td>
 		<td>5462</td>
 		<td>5481</td>
-		<td>5489</td>
-		<td>+ 8</td>
+		<td>5490</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -76,8 +76,8 @@
 		<td>5962</td>
 		<td>5982</td>
 		<td>6004</td>
-		<td>6012</td>
-		<td>+ 8</td>
+		<td>6013</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -87,8 +87,8 @@
 		<td>5363</td>
 		<td>5379</td>
 		<td>5398</td>
-		<td>5406</td>
-		<td>+ 8</td>
+		<td>5407</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
@@ -98,8 +98,8 @@
 		<td>5189</td>
 		<td>5208</td>
 		<td>5228</td>
-		<td>5236</td>
-		<td>+ 8</td>
+		<td>5237</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -109,8 +109,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>45188</td>
-		<td>73</td>
+		<td>45193</td>
+		<td>78</td>
 	</tr>
 </table>
 </sub></sup>
@@ -146,8 +146,8 @@
 		<td>5962</td>
 		<td>5982</td>
 		<td>6004</td>
-		<td>6012</td>
-		<td>+ 8</td>
+		<td>6013</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>Bunsen.Burner</td>
@@ -157,8 +157,8 @@
 		<td>5714</td>
 		<td>5744</td>
 		<td>5780</td>
-		<td>5794</td>
-		<td>+ 14</td>
+		<td>5795</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -168,8 +168,8 @@
 		<td>5444</td>
 		<td>5462</td>
 		<td>5481</td>
-		<td>5489</td>
-		<td>+ 8</td>
+		<td>5490</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -179,8 +179,8 @@
 		<td>5363</td>
 		<td>5379</td>
 		<td>5398</td>
-		<td>5406</td>
-		<td>+ 8</td>
+		<td>5407</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -212,8 +212,8 @@
 		<td>5189</td>
 		<td>5208</td>
 		<td>5228</td>
-		<td>5236</td>
-		<td>+ 8</td>
+		<td>5237</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -223,8 +223,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>45188</td>
-		<td>73</td>
+		<td>45193</td>
+		<td>78</td>
 	</tr>
 </table>
 </sub></sup>
