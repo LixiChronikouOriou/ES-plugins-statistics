@@ -4,102 +4,102 @@
 <table>
 	<tr>
 		<td></td>
-		<td>2026-04-25</td>
 		<td>2026-04-26</td>
 		<td>2026-04-27</td>
 		<td>2026-04-28</td>
 		<td>2026-04-29</td>
 		<td>2026-04-30</td>
 		<td>2026-05-01</td>
+		<td>2026-05-02</td>
 		<td>today +</td>
 	</tr>
 	<tr>
 		<td>Bunsen.Burner</td>
-		<td>5577</td>
 		<td>5620</td>
 		<td>5652</td>
 		<td>5684</td>
 		<td>5714</td>
 		<td>5744</td>
 		<td>5780</td>
-		<td>+ 36</td>
+		<td>5784</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
-		<td>5275</td>
 		<td>5298</td>
 		<td>5318</td>
 		<td>5337</td>
 		<td>5357</td>
 		<td>5375</td>
 		<td>5396</td>
-		<td>+ 21</td>
+		<td>5399</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
-		<td>6398</td>
 		<td>6425</td>
 		<td>6450</td>
 		<td>6473</td>
 		<td>6495</td>
 		<td>6517</td>
 		<td>6542</td>
-		<td>+ 25</td>
+		<td>6544</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
-		<td>5171</td>
 		<td>5193</td>
 		<td>5215</td>
 		<td>5234</td>
 		<td>5250</td>
 		<td>5266</td>
 		<td>5286</td>
-		<td>+ 20</td>
+		<td>5288</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
-		<td>5364</td>
 		<td>5386</td>
 		<td>5408</td>
 		<td>5427</td>
 		<td>5444</td>
 		<td>5462</td>
 		<td>5481</td>
-		<td>+ 19</td>
+		<td>5483</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
-		<td>5878</td>
 		<td>5901</td>
 		<td>5923</td>
 		<td>5945</td>
 		<td>5962</td>
 		<td>5982</td>
 		<td>6004</td>
-		<td>+ 22</td>
+		<td>6006</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
-		<td>5286</td>
 		<td>5308</td>
 		<td>5328</td>
 		<td>5347</td>
 		<td>5363</td>
 		<td>5379</td>
 		<td>5398</td>
-		<td>+ 19</td>
+		<td>5400</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
-		<td>5108</td>
 		<td>5130</td>
 		<td>5153</td>
 		<td>5170</td>
 		<td>5189</td>
 		<td>5208</td>
 		<td>5228</td>
-		<td>+ 20</td>
+		<td>5230</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -109,8 +109,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>45115</td>
-		<td>182</td>
+		<td>45134</td>
+		<td>19</td>
 	</tr>
 </table>
 </sub></sup>
@@ -118,102 +118,102 @@
 <table>
 	<tr>
 		<td></td>
-		<td>2026-04-25</td>
 		<td>2026-04-26</td>
 		<td>2026-04-27</td>
 		<td>2026-04-28</td>
 		<td>2026-04-29</td>
 		<td>2026-04-30</td>
 		<td>2026-05-01</td>
+		<td>2026-05-02</td>
 		<td>today +</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
-		<td>6398</td>
 		<td>6425</td>
 		<td>6450</td>
 		<td>6473</td>
 		<td>6495</td>
 		<td>6517</td>
 		<td>6542</td>
-		<td>+ 25</td>
+		<td>6544</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
-		<td>5878</td>
 		<td>5901</td>
 		<td>5923</td>
 		<td>5945</td>
 		<td>5962</td>
 		<td>5982</td>
 		<td>6004</td>
-		<td>+ 22</td>
+		<td>6006</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Bunsen.Burner</td>
-		<td>5577</td>
 		<td>5620</td>
 		<td>5652</td>
 		<td>5684</td>
 		<td>5714</td>
 		<td>5744</td>
 		<td>5780</td>
-		<td>+ 36</td>
+		<td>5784</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
-		<td>5364</td>
 		<td>5386</td>
 		<td>5408</td>
 		<td>5427</td>
 		<td>5444</td>
 		<td>5462</td>
 		<td>5481</td>
-		<td>+ 19</td>
+		<td>5483</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
-		<td>5286</td>
 		<td>5308</td>
 		<td>5328</td>
 		<td>5347</td>
 		<td>5363</td>
 		<td>5379</td>
 		<td>5398</td>
-		<td>+ 19</td>
+		<td>5400</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
-		<td>5275</td>
 		<td>5298</td>
 		<td>5318</td>
 		<td>5337</td>
 		<td>5357</td>
 		<td>5375</td>
 		<td>5396</td>
-		<td>+ 21</td>
+		<td>5399</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
-		<td>5171</td>
 		<td>5193</td>
 		<td>5215</td>
 		<td>5234</td>
 		<td>5250</td>
 		<td>5266</td>
 		<td>5286</td>
-		<td>+ 20</td>
+		<td>5288</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
-		<td>5108</td>
 		<td>5130</td>
 		<td>5153</td>
 		<td>5170</td>
 		<td>5189</td>
 		<td>5208</td>
 		<td>5228</td>
-		<td>+ 20</td>
+		<td>5230</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -223,8 +223,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>45115</td>
-		<td>182</td>
+		<td>45134</td>
+		<td>19</td>
 	</tr>
 </table>
 </sub></sup>
@@ -291,9 +291,9 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>200</td>
-		<td>23.75</td>
-		<td>7.05</td>
+		<td>201</td>
+		<td>23.63</td>
+		<td>7.02</td>
 		<td></td>
 		<td></td>
 	</tr>
