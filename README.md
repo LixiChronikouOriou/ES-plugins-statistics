@@ -21,8 +21,8 @@
 		<td>5714</td>
 		<td>5744</td>
 		<td>5780</td>
-		<td>5799</td>
-		<td>+ 19</td>
+		<td>5801</td>
+		<td>+ 21</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -32,8 +32,8 @@
 		<td>5357</td>
 		<td>5375</td>
 		<td>5396</td>
-		<td>5407</td>
-		<td>+ 11</td>
+		<td>5409</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
@@ -43,8 +43,8 @@
 		<td>6495</td>
 		<td>6517</td>
 		<td>6542</td>
-		<td>6554</td>
-		<td>+ 12</td>
+		<td>6556</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -54,8 +54,8 @@
 		<td>5250</td>
 		<td>5266</td>
 		<td>5286</td>
-		<td>5296</td>
-		<td>+ 10</td>
+		<td>5298</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -65,8 +65,8 @@
 		<td>5444</td>
 		<td>5462</td>
 		<td>5481</td>
-		<td>5492</td>
-		<td>+ 11</td>
+		<td>5494</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -76,8 +76,8 @@
 		<td>5962</td>
 		<td>5982</td>
 		<td>6004</td>
-		<td>6015</td>
-		<td>+ 11</td>
+		<td>6017</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -87,8 +87,8 @@
 		<td>5363</td>
 		<td>5379</td>
 		<td>5398</td>
-		<td>5409</td>
-		<td>+ 11</td>
+		<td>5411</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
@@ -98,8 +98,8 @@
 		<td>5189</td>
 		<td>5208</td>
 		<td>5228</td>
-		<td>5239</td>
-		<td>+ 11</td>
+		<td>5241</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -109,8 +109,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>45211</td>
-		<td>96</td>
+		<td>45227</td>
+		<td>112</td>
 	</tr>
 </table>
 </sub></sup>
@@ -135,8 +135,8 @@
 		<td>6495</td>
 		<td>6517</td>
 		<td>6542</td>
-		<td>6554</td>
-		<td>+ 12</td>
+		<td>6556</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -146,8 +146,8 @@
 		<td>5962</td>
 		<td>5982</td>
 		<td>6004</td>
-		<td>6015</td>
-		<td>+ 11</td>
+		<td>6017</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>Bunsen.Burner</td>
@@ -157,8 +157,8 @@
 		<td>5714</td>
 		<td>5744</td>
 		<td>5780</td>
-		<td>5799</td>
-		<td>+ 19</td>
+		<td>5801</td>
+		<td>+ 21</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -168,8 +168,8 @@
 		<td>5444</td>
 		<td>5462</td>
 		<td>5481</td>
-		<td>5492</td>
-		<td>+ 11</td>
+		<td>5494</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -179,8 +179,8 @@
 		<td>5363</td>
 		<td>5379</td>
 		<td>5398</td>
-		<td>5409</td>
-		<td>+ 11</td>
+		<td>5411</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -190,8 +190,8 @@
 		<td>5357</td>
 		<td>5375</td>
 		<td>5396</td>
-		<td>5407</td>
-		<td>+ 11</td>
+		<td>5409</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -201,8 +201,8 @@
 		<td>5250</td>
 		<td>5266</td>
 		<td>5286</td>
-		<td>5296</td>
-		<td>+ 10</td>
+		<td>5298</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
@@ -212,8 +212,8 @@
 		<td>5189</td>
 		<td>5208</td>
 		<td>5228</td>
-		<td>5239</td>
-		<td>+ 11</td>
+		<td>5241</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -223,8 +223,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>45211</td>
-		<td>96</td>
+		<td>45227</td>
+		<td>112</td>
 	</tr>
 </table>
 </sub></sup>
