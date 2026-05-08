@@ -21,8 +21,8 @@
 		<td>5922</td>
 		<td>5951</td>
 		<td>5982</td>
-		<td>5996</td>
-		<td>+ 14</td>
+		<td>5999</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -32,8 +32,8 @@
 		<td>5480</td>
 		<td>5498</td>
 		<td>5517</td>
-		<td>5527</td>
-		<td>+ 10</td>
+		<td>5529</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
@@ -43,8 +43,8 @@
 		<td>6633</td>
 		<td>6653</td>
 		<td>6672</td>
-		<td>6682</td>
-		<td>+ 10</td>
+		<td>6684</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -54,8 +54,8 @@
 		<td>5367</td>
 		<td>5384</td>
 		<td>5402</td>
-		<td>5411</td>
-		<td>+ 9</td>
+		<td>5413</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -65,8 +65,8 @@
 		<td>5565</td>
 		<td>5583</td>
 		<td>5602</td>
-		<td>5611</td>
-		<td>+ 9</td>
+		<td>5613</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -76,8 +76,8 @@
 		<td>6092</td>
 		<td>6113</td>
 		<td>6132</td>
-		<td>6142</td>
-		<td>+ 10</td>
+		<td>6144</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -87,8 +87,8 @@
 		<td>5482</td>
 		<td>5499</td>
 		<td>5517</td>
-		<td>5526</td>
-		<td>+ 9</td>
+		<td>5528</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
@@ -98,8 +98,8 @@
 		<td>5311</td>
 		<td>5329</td>
 		<td>5347</td>
-		<td>5356</td>
-		<td>+ 9</td>
+		<td>5358</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -109,8 +109,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>46251</td>
-		<td>80</td>
+		<td>46268</td>
+		<td>97</td>
 	</tr>
 </table>
 </sub></sup>
@@ -135,8 +135,8 @@
 		<td>6633</td>
 		<td>6653</td>
 		<td>6672</td>
-		<td>6682</td>
-		<td>+ 10</td>
+		<td>6684</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -146,8 +146,8 @@
 		<td>6092</td>
 		<td>6113</td>
 		<td>6132</td>
-		<td>6142</td>
-		<td>+ 10</td>
+		<td>6144</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>Bunsen.Burner</td>
@@ -157,8 +157,8 @@
 		<td>5922</td>
 		<td>5951</td>
 		<td>5982</td>
-		<td>5996</td>
-		<td>+ 14</td>
+		<td>5999</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -168,8 +168,8 @@
 		<td>5565</td>
 		<td>5583</td>
 		<td>5602</td>
-		<td>5611</td>
-		<td>+ 9</td>
+		<td>5613</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -179,8 +179,8 @@
 		<td>5480</td>
 		<td>5498</td>
 		<td>5517</td>
-		<td>5527</td>
-		<td>+ 10</td>
+		<td>5529</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -190,8 +190,8 @@
 		<td>5482</td>
 		<td>5499</td>
 		<td>5517</td>
-		<td>5526</td>
-		<td>+ 9</td>
+		<td>5528</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -201,8 +201,8 @@
 		<td>5367</td>
 		<td>5384</td>
 		<td>5402</td>
-		<td>5411</td>
-		<td>+ 9</td>
+		<td>5413</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
@@ -212,8 +212,8 @@
 		<td>5311</td>
 		<td>5329</td>
 		<td>5347</td>
-		<td>5356</td>
-		<td>+ 9</td>
+		<td>5358</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -223,8 +223,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>46251</td>
-		<td>80</td>
+		<td>46268</td>
+		<td>97</td>
 	</tr>
 </table>
 </sub></sup>
@@ -232,7 +232,6 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2026-04-28</td>
 		<td>2026-04-29</td>
 		<td>2026-04-30</td>
 		<td>2026-05-01</td>
@@ -241,10 +240,10 @@
 		<td>2026-05-04</td>
 		<td>2026-05-05</td>
 		<td>2026-05-06</td>
+		<td>2026-05-07</td>
 	</tr>
 	<tr>
 		<td>page views</td>
-		<td>2</td>
 		<td>7</td>
 		<td>16</td>
 		<td>14</td>
@@ -253,10 +252,10 @@
 		<td>0</td>
 		<td>7</td>
 		<td>7</td>
+		<td>3</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
-		<td>2</td>
 		<td>6</td>
 		<td>8</td>
 		<td>7</td>
@@ -265,6 +264,7 @@
 		<td>0</td>
 		<td>4</td>
 		<td>3</td>
+		<td>2</td>
 	</tr>
 </table>
 <br>
@@ -278,8 +278,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-13</td>
-		<td>4790</td>
-		<td>1434</td>
+		<td>4793</td>
+		<td>1436</td>
 		<td>169</td>
 		<td>45</td>
 	</tr>
@@ -292,8 +292,8 @@
 	</tr>
 	<tr>
 		<td>207</td>
-		<td>23.14</td>
-		<td>6.93</td>
+		<td>23.15</td>
+		<td>6.94</td>
 		<td></td>
 		<td></td>
 	</tr>
