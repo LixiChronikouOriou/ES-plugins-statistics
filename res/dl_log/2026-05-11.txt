@@ -1,6 +1,6 @@
 # DOWNLOADS FOR EACH RELEASE:
-v3.1.0-Louise.Conglomerate.Shipyards | downloads: 730
-v1.4.2-Bunsen.Burner | downloads: 1101
+v3.1.0-Louise.Conglomerate.Shipyards | downloads: 731
+v1.4.2-Bunsen.Burner | downloads: 1102
 v1.2.0-Korunak.Defense.Drones | downloads: 709
 v2.1.3-Solar.Sails | downloads: 747
 v1.1.4-Zone.of.Control | downloads: 752
@@ -69,15 +69,15 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 68
-# TOTAL DOWNLOADS: 46805
+# TOTAL DOWNLOADS: 46807
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 6106
+Bunsen.Burner 6107
 Factory.Outlets 5589
 Fundamental.Outfit.Expansion 6747
 Jaws 5474
 Korunak.Defense.Drones 5676
-Louise.Conglomerate.Shipyards 6207
+Louise.Conglomerate.Shipyards 6208
 Solar.Sails 5588
 Zone.of.Control 5418
