@@ -7,28 +7,28 @@ v1.1.4-Zone.of.Control | downloads: 765
 v1.4.1-Bunsen.Burner | downloads: 127
 v1.1.3-Zone.of.Control | downloads: 21
 v1.4.0-Bunsen.Burner | downloads: 140
-v1.1.2-Zone.of.Control | downloads: 350
-v3.0.0-Louise.Conglomerate.Shipyards | downloads: 1376
-v1.3.1-Factory.Outlets | downloads: 2059
+v1.1.2-Zone.of.Control | downloads: 351
+v3.0.0-Louise.Conglomerate.Shipyards | downloads: 1377
+v1.3.1-Factory.Outlets | downloads: 2060
 v2.0.0-Louise.Conglomerate.Shipyards | downloads: 170
-v1.8.0-Fundamental.Outfit.Expansion | downloads: 2674
+v1.8.0-Fundamental.Outfit.Expansion | downloads: 2675
 v1.1.1-Zone.of.Control | downloads: 1900
-v1.1.1-Korunak.Defense.Drones | downloads: 2360
+v1.1.1-Korunak.Defense.Drones | downloads: 2361
 v1.7.0-Fundamental.Outfit.Expansion | downloads: 1447
 v1.3.0-Factory.Outlets | downloads: 2114
-v2.1.2-Solar.Sails | downloads: 3548
+v2.1.2-Solar.Sails | downloads: 3549
 v1.2.0-Factory.Outlets | downloads: 408
 v2.1.1-Solar.Sails | downloads: 199
 v1.1.1-Factory.Outlets | downloads: 45
 v1.6.0-Fundamental.Outfit.Expansion | downloads: 2171
-v1.2.3-Jaws | downloads: 5385
+v1.2.3-Jaws | downloads: 5386
 v1.1.0-Zone.of.Control | downloads: 2330
 v1.1.0-Factory.Outlets | downloads: 941
 v1.5.1-Fundamental.Outfit.Expansion | downloads: 86
 v1.5.0-Fundamental.Outfit.Expansion | downloads: 28
 v1.2.1-Louise.Conglomerate.Shipyards | downloads: 3557
 v2.1.0-Solar.Sails | downloads: 920
-v1.3.0-Bunsen.Burner | downloads: 4520
+v1.3.0-Bunsen.Burner | downloads: 4521
 v1.2.2-Jaws | downloads: 34
 v1.0.1-Zone.of.Control | downloads: 46
 v1.0.0-Factory.Outlets | downloads: 36
@@ -69,15 +69,15 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 68
-# TOTAL DOWNLOADS: 46930
+# TOTAL DOWNLOADS: 46938
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 6129
-Factory.Outlets 5603
-Fundamental.Outfit.Expansion 6762
-Jaws 5487
-Korunak.Defense.Drones 5690
-Louise.Conglomerate.Shipyards 6222
-Solar.Sails 5603
-Zone.of.Control 5434
+Bunsen.Burner 6130
+Factory.Outlets 5604
+Fundamental.Outfit.Expansion 6763
+Jaws 5488
+Korunak.Defense.Drones 5691
+Louise.Conglomerate.Shipyards 6223
+Solar.Sails 5604
+Zone.of.Control 5435
