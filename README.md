@@ -21,8 +21,8 @@
 		<td>6170</td>
 		<td>6198</td>
 		<td>6227</td>
-		<td>6242</td>
-		<td>+ 15</td>
+		<td>6244</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -109,8 +109,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>47553</td>
-		<td>92</td>
+		<td>47555</td>
+		<td>94</td>
 	</tr>
 </table>
 </sub></sup>
@@ -157,8 +157,8 @@
 		<td>6170</td>
 		<td>6198</td>
 		<td>6227</td>
-		<td>6242</td>
-		<td>+ 15</td>
+		<td>6244</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -223,8 +223,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>47553</td>
-		<td>92</td>
+		<td>47555</td>
+		<td>94</td>
 	</tr>
 </table>
 </sub></sup>
@@ -232,7 +232,6 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2026-05-06</td>
 		<td>2026-05-07</td>
 		<td>2026-05-08</td>
 		<td>2026-05-09</td>
@@ -241,10 +240,10 @@
 		<td>2026-05-12</td>
 		<td>2026-05-13</td>
 		<td>2026-05-14</td>
+		<td>2026-05-15</td>
 	</tr>
 	<tr>
 		<td>page views</td>
-		<td>7</td>
 		<td>3</td>
 		<td>24</td>
 		<td>12</td>
@@ -253,10 +252,10 @@
 		<td>5</td>
 		<td>11</td>
 		<td>17</td>
+		<td>3</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
-		<td>3</td>
 		<td>2</td>
 		<td>9</td>
 		<td>6</td>
@@ -265,6 +264,7 @@
 		<td>3</td>
 		<td>4</td>
 		<td>5</td>
+		<td>3</td>
 	</tr>
 </table>
 <br>
@@ -278,8 +278,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-13</td>
-		<td>4882</td>
-		<td>1475</td>
+		<td>4885</td>
+		<td>1478</td>
 		<td>169</td>
 		<td>45</td>
 	</tr>
@@ -292,8 +292,8 @@
 	</tr>
 	<tr>
 		<td>215</td>
-		<td>22.71</td>
-		<td>6.86</td>
+		<td>22.72</td>
+		<td>6.87</td>
 		<td></td>
 		<td></td>
 	</tr>
