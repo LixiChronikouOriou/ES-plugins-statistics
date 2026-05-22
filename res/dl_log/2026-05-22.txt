@@ -1,17 +1,17 @@
 # DOWNLOADS FOR EACH RELEASE:
-v3.1.0-Louise.Conglomerate.Shipyards | downloads: 876
-v1.4.2-Bunsen.Burner | downloads: 1357
-v1.2.0-Korunak.Defense.Drones | downloads: 854
-v2.1.3-Solar.Sails | downloads: 882
-v1.1.4-Zone.of.Control | downloads: 892
+v3.1.0-Louise.Conglomerate.Shipyards | downloads: 878
+v1.4.2-Bunsen.Burner | downloads: 1360
+v1.2.0-Korunak.Defense.Drones | downloads: 856
+v2.1.3-Solar.Sails | downloads: 884
+v1.1.4-Zone.of.Control | downloads: 894
 v1.4.1-Bunsen.Burner | downloads: 127
 v1.1.3-Zone.of.Control | downloads: 21
 v1.4.0-Bunsen.Burner | downloads: 140
 v1.1.2-Zone.of.Control | downloads: 389
 v3.0.0-Louise.Conglomerate.Shipyards | downloads: 1415
-v1.3.1-Factory.Outlets | downloads: 2232
+v1.3.1-Factory.Outlets | downloads: 2235
 v2.0.0-Louise.Conglomerate.Shipyards | downloads: 170
-v1.8.0-Fundamental.Outfit.Expansion | downloads: 2870
+v1.8.0-Fundamental.Outfit.Expansion | downloads: 2872
 v1.1.1-Zone.of.Control | downloads: 1900
 v1.1.1-Korunak.Defense.Drones | downloads: 2399
 v1.7.0-Fundamental.Outfit.Expansion | downloads: 1447
@@ -21,7 +21,7 @@ v1.2.0-Factory.Outlets | downloads: 408
 v2.1.1-Solar.Sails | downloads: 199
 v1.1.1-Factory.Outlets | downloads: 45
 v1.6.0-Fundamental.Outfit.Expansion | downloads: 2171
-v1.2.3-Jaws | downloads: 5548
+v1.2.3-Jaws | downloads: 5550
 v1.1.0-Zone.of.Control | downloads: 2330
 v1.1.0-Factory.Outlets | downloads: 941
 v1.5.1-Fundamental.Outfit.Expansion | downloads: 86
@@ -69,15 +69,15 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 68
-# TOTAL DOWNLOADS: 48412
+# TOTAL DOWNLOADS: 48430
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 6404
-Factory.Outlets 5776
-Fundamental.Outfit.Expansion 6958
-Jaws 5650
-Korunak.Defense.Drones 5863
-Louise.Conglomerate.Shipyards 6395
-Solar.Sails 5766
-Zone.of.Control 5600
+Bunsen.Burner 6407
+Factory.Outlets 5779
+Fundamental.Outfit.Expansion 6960
+Jaws 5652
+Korunak.Defense.Drones 5865
+Louise.Conglomerate.Shipyards 6397
+Solar.Sails 5768
+Zone.of.Control 5602
