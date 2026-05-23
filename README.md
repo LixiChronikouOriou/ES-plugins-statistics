@@ -21,8 +21,8 @@
 		<td>6375</td>
 		<td>6402</td>
 		<td>6426</td>
-		<td>6442</td>
-		<td>+ 16</td>
+		<td>6443</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -109,8 +109,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>48634</td>
-		<td>74</td>
+		<td>48635</td>
+		<td>75</td>
 	</tr>
 </table>
 </sub></sup>
@@ -146,8 +146,8 @@
 		<td>6375</td>
 		<td>6402</td>
 		<td>6426</td>
-		<td>6442</td>
-		<td>+ 16</td>
+		<td>6443</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -223,8 +223,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>48634</td>
-		<td>74</td>
+		<td>48635</td>
+		<td>75</td>
 	</tr>
 </table>
 </sub></sup>
@@ -232,7 +232,6 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2026-05-13</td>
 		<td>2026-05-14</td>
 		<td>2026-05-15</td>
 		<td>2026-05-16</td>
@@ -241,10 +240,10 @@
 		<td>2026-05-19</td>
 		<td>2026-05-20</td>
 		<td>2026-05-21</td>
+		<td>2026-05-22</td>
 	</tr>
 	<tr>
 		<td>page views</td>
-		<td>11</td>
 		<td>17</td>
 		<td>3</td>
 		<td>16</td>
@@ -253,10 +252,10 @@
 		<td>8</td>
 		<td>24</td>
 		<td>22</td>
+		<td>25</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
-		<td>4</td>
 		<td>5</td>
 		<td>3</td>
 		<td>13</td>
@@ -265,6 +264,7 @@
 		<td>5</td>
 		<td>6</td>
 		<td>3</td>
+		<td>6</td>
 	</tr>
 </table>
 <br>
@@ -278,8 +278,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-13</td>
-		<td>4986</td>
-		<td>1520</td>
+		<td>5011</td>
+		<td>1526</td>
 		<td>169</td>
 		<td>45</td>
 	</tr>
@@ -292,8 +292,8 @@
 	</tr>
 	<tr>
 		<td>222</td>
-		<td>22.46</td>
-		<td>6.85</td>
+		<td>22.57</td>
+		<td>6.87</td>
 		<td></td>
 		<td></td>
 	</tr>
