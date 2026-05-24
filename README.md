@@ -21,8 +21,8 @@
 		<td>6402</td>
 		<td>6426</td>
 		<td>6463</td>
-		<td>6495</td>
-		<td>+ 32</td>
+		<td>6496</td>
+		<td>+ 33</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -32,8 +32,8 @@
 		<td>5775</td>
 		<td>5794</td>
 		<td>5814</td>
-		<td>5834</td>
-		<td>+ 20</td>
+		<td>5835</td>
+		<td>+ 21</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
@@ -109,8 +109,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>48903</td>
-		<td>170</td>
+		<td>48905</td>
+		<td>172</td>
 	</tr>
 </table>
 </sub></sup>
@@ -146,8 +146,8 @@
 		<td>6402</td>
 		<td>6426</td>
 		<td>6463</td>
-		<td>6495</td>
-		<td>+ 32</td>
+		<td>6496</td>
+		<td>+ 33</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -179,8 +179,8 @@
 		<td>5775</td>
 		<td>5794</td>
 		<td>5814</td>
-		<td>5834</td>
-		<td>+ 20</td>
+		<td>5835</td>
+		<td>+ 21</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -223,8 +223,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>48903</td>
-		<td>170</td>
+		<td>48905</td>
+		<td>172</td>
 	</tr>
 </table>
 </sub></sup>
