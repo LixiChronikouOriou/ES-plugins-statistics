@@ -21,8 +21,8 @@
 		<td>6496</td>
 		<td>6522</td>
 		<td>6544</td>
-		<td>6567</td>
-		<td>+ 23</td>
+		<td>6568</td>
+		<td>+ 24</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -109,8 +109,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>49319</td>
-		<td>142</td>
+		<td>49320</td>
+		<td>143</td>
 	</tr>
 </table>
 </sub></sup>
@@ -146,8 +146,8 @@
 		<td>6496</td>
 		<td>6522</td>
 		<td>6544</td>
-		<td>6567</td>
-		<td>+ 23</td>
+		<td>6568</td>
+		<td>+ 24</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -223,8 +223,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>49319</td>
-		<td>142</td>
+		<td>49320</td>
+		<td>143</td>
 	</tr>
 </table>
 </sub></sup>
