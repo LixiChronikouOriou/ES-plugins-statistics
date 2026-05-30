@@ -21,8 +21,8 @@
 		<td>6568</td>
 		<td>6591</td>
 		<td>6614</td>
-		<td>6620</td>
-		<td>+ 6</td>
+		<td>6621</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -76,8 +76,8 @@
 		<td>6510</td>
 		<td>6529</td>
 		<td>6546</td>
-		<td>6553</td>
-		<td>+ 7</td>
+		<td>6555</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>Sheragi.Rebirth.Redux</td>
@@ -87,8 +87,8 @@
 		<td>0</td>
 		<td>7</td>
 		<td>10</td>
-		<td>13</td>
-		<td>+ 3</td>
+		<td>14</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -120,8 +120,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>49654</td>
-		<td>46</td>
+		<td>49658</td>
+		<td>50</td>
 	</tr>
 </table>
 </sub></sup>
@@ -157,8 +157,8 @@
 		<td>6568</td>
 		<td>6591</td>
 		<td>6614</td>
-		<td>6620</td>
-		<td>+ 6</td>
+		<td>6621</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -168,8 +168,8 @@
 		<td>6510</td>
 		<td>6529</td>
 		<td>6546</td>
-		<td>6553</td>
-		<td>+ 7</td>
+		<td>6555</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -234,8 +234,8 @@
 		<td>0</td>
 		<td>7</td>
 		<td>10</td>
-		<td>13</td>
-		<td>+ 3</td>
+		<td>14</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -245,8 +245,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>49654</td>
-		<td>46</td>
+		<td>49658</td>
+		<td>50</td>
 	</tr>
 </table>
 </sub></sup>
@@ -254,7 +254,6 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2026-05-20</td>
 		<td>2026-05-21</td>
 		<td>2026-05-22</td>
 		<td>2026-05-23</td>
@@ -263,10 +262,10 @@
 		<td>2026-05-26</td>
 		<td>2026-05-27</td>
 		<td>2026-05-28</td>
+		<td>2026-05-29</td>
 	</tr>
 	<tr>
 		<td>page views</td>
-		<td>24</td>
 		<td>22</td>
 		<td>25</td>
 		<td>25</td>
@@ -275,10 +274,10 @@
 		<td>7</td>
 		<td>22</td>
 		<td>25</td>
+		<td>43</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
-		<td>6</td>
 		<td>3</td>
 		<td>6</td>
 		<td>13</td>
@@ -287,6 +286,7 @@
 		<td>6</td>
 		<td>11</td>
 		<td>11</td>
+		<td>9</td>
 	</tr>
 </table>
 <br>
@@ -300,8 +300,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-13</td>
-		<td>5128</td>
-		<td>1584</td>
+		<td>5171</td>
+		<td>1593</td>
 		<td>169</td>
 		<td>45</td>
 	</tr>
@@ -314,8 +314,8 @@
 	</tr>
 	<tr>
 		<td>229</td>
-		<td>22.39</td>
-		<td>6.92</td>
+		<td>22.58</td>
+		<td>6.96</td>
 		<td></td>
 		<td></td>
 	</tr>
