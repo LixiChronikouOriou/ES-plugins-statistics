@@ -1,15 +1,15 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.4.3-Bunsen.Burner | downloads: 33
-v1.3.3-Factory.Outlets | downloads: 42
-v1.9.0-Fundamental.Outfit.Expansion | downloads: 88
-v0.1.1-Sheragi.Rebirth.Redux | downloads: 10
+v1.4.3-Bunsen.Burner | downloads: 36
+v1.3.3-Factory.Outlets | downloads: 44
+v1.9.0-Fundamental.Outfit.Expansion | downloads: 91
+v0.1.1-Sheragi.Rebirth.Redux | downloads: 12
 v1.0.0-Sheragi.Rebirth.Redux | downloads: 15
-v3.1.1-Louise.Conglomerate.Shipyards | downloads: 129
+v3.1.1-Louise.Conglomerate.Shipyards | downloads: 132
 v3.1.0-Louise.Conglomerate.Shipyards | downloads: 960
 v1.4.2-Bunsen.Burner | downloads: 1637
-v1.2.0-Korunak.Defense.Drones | downloads: 1037
-v2.1.3-Solar.Sails | downloads: 1068
-v1.1.4-Zone.of.Control | downloads: 1068
+v1.2.0-Korunak.Defense.Drones | downloads: 1039
+v2.1.3-Solar.Sails | downloads: 1070
+v1.1.4-Zone.of.Control | downloads: 1070
 v1.4.1-Bunsen.Burner | downloads: 127
 v1.1.3-Zone.of.Control | downloads: 21
 v1.4.0-Bunsen.Burner | downloads: 140
@@ -27,7 +27,7 @@ v1.2.0-Factory.Outlets | downloads: 408
 v2.1.1-Solar.Sails | downloads: 199
 v1.1.1-Factory.Outlets | downloads: 45
 v1.6.0-Fundamental.Outfit.Expansion | downloads: 2171
-v1.2.3-Jaws | downloads: 5783
+v1.2.3-Jaws | downloads: 5785
 v1.1.0-Zone.of.Control | downloads: 2330
 v1.1.0-Factory.Outlets | downloads: 941
 v1.5.1-Fundamental.Outfit.Expansion | downloads: 86
@@ -75,16 +75,16 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 74
-# TOTAL DOWNLOADS: 50547
+# TOTAL DOWNLOADS: 50568
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 6773
-Factory.Outlets 6023
-Fundamental.Outfit.Expansion 7232
-Jaws 5885
-Korunak.Defense.Drones 6102
-Louise.Conglomerate.Shipyards 6667
-Sheragi.Rebirth.Redux 25
-Solar.Sails 6008
-Zone.of.Control 5832
+Bunsen.Burner 6776
+Factory.Outlets 6025
+Fundamental.Outfit.Expansion 7235
+Jaws 5887
+Korunak.Defense.Drones 6104
+Louise.Conglomerate.Shipyards 6670
+Sheragi.Rebirth.Redux 27
+Solar.Sails 6010
+Zone.of.Control 5834
