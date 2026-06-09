@@ -1,17 +1,17 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.4.5-Bunsen.Burner | downloads: 5
+v1.4.5-Bunsen.Burner | downloads: 7
 v1.4.4-Bunsen.Burner | downloads: 109
 v1.4.3-Bunsen.Burner | downloads: 36
-v1.3.3-Factory.Outlets | downloads: 112
-v1.9.0-Fundamental.Outfit.Expansion | downloads: 169
+v1.3.3-Factory.Outlets | downloads: 113
+v1.9.0-Fundamental.Outfit.Expansion | downloads: 170
 v0.1.1-Sheragi.Rebirth.Redux | downloads: 24
 v1.0.0-Sheragi.Rebirth.Redux | downloads: 15
-v3.1.1-Louise.Conglomerate.Shipyards | downloads: 209
+v3.1.1-Louise.Conglomerate.Shipyards | downloads: 212
 v3.1.0-Louise.Conglomerate.Shipyards | downloads: 960
 v1.4.2-Bunsen.Burner | downloads: 1638
-v1.2.0-Korunak.Defense.Drones | downloads: 1105
-v2.1.3-Solar.Sails | downloads: 1131
-v1.1.4-Zone.of.Control | downloads: 1130
+v1.2.0-Korunak.Defense.Drones | downloads: 1106
+v2.1.3-Solar.Sails | downloads: 1132
+v1.1.4-Zone.of.Control | downloads: 1131
 v1.4.1-Bunsen.Burner | downloads: 127
 v1.1.3-Zone.of.Control | downloads: 21
 v1.4.0-Bunsen.Burner | downloads: 140
@@ -29,7 +29,7 @@ v1.2.0-Factory.Outlets | downloads: 408
 v2.1.1-Solar.Sails | downloads: 199
 v1.1.1-Factory.Outlets | downloads: 45
 v1.6.0-Fundamental.Outfit.Expansion | downloads: 2171
-v1.2.3-Jaws | downloads: 5862
+v1.2.3-Jaws | downloads: 5863
 v1.1.0-Zone.of.Control | downloads: 2330
 v1.1.0-Factory.Outlets | downloads: 941
 v1.5.1-Fundamental.Outfit.Expansion | downloads: 86
@@ -77,16 +77,16 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 76
-# TOTAL DOWNLOADS: 51308
+# TOTAL DOWNLOADS: 51319
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 6909
-Factory.Outlets 6111
-Fundamental.Outfit.Expansion 7331
-Jaws 5964
-Korunak.Defense.Drones 6188
-Louise.Conglomerate.Shipyards 6765
+Bunsen.Burner 6911
+Factory.Outlets 6112
+Fundamental.Outfit.Expansion 7332
+Jaws 5965
+Korunak.Defense.Drones 6189
+Louise.Conglomerate.Shipyards 6768
 Sheragi.Rebirth.Redux 39
-Solar.Sails 6089
-Zone.of.Control 5912
+Solar.Sails 6090
+Zone.of.Control 5913
