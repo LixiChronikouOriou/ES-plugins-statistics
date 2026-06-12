@@ -1,17 +1,17 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.4.5-Bunsen.Burner | downloads: 51
+v1.4.5-Bunsen.Burner | downloads: 54
 v1.4.4-Bunsen.Burner | downloads: 109
 v1.4.3-Bunsen.Burner | downloads: 36
-v1.3.3-Factory.Outlets | downloads: 142
-v1.9.0-Fundamental.Outfit.Expansion | downloads: 201
+v1.3.3-Factory.Outlets | downloads: 144
+v1.9.0-Fundamental.Outfit.Expansion | downloads: 204
 v0.1.1-Sheragi.Rebirth.Redux | downloads: 26
 v1.0.0-Sheragi.Rebirth.Redux | downloads: 15
-v3.1.1-Louise.Conglomerate.Shipyards | downloads: 243
+v3.1.1-Louise.Conglomerate.Shipyards | downloads: 246
 v3.1.0-Louise.Conglomerate.Shipyards | downloads: 960
 v1.4.2-Bunsen.Burner | downloads: 1638
-v1.2.0-Korunak.Defense.Drones | downloads: 1132
-v2.1.3-Solar.Sails | downloads: 1157
-v1.1.4-Zone.of.Control | downloads: 1157
+v1.2.0-Korunak.Defense.Drones | downloads: 1135
+v2.1.3-Solar.Sails | downloads: 1159
+v1.1.4-Zone.of.Control | downloads: 1159
 v1.4.1-Bunsen.Burner | downloads: 127
 v1.1.3-Zone.of.Control | downloads: 21
 v1.4.0-Bunsen.Burner | downloads: 140
@@ -29,7 +29,7 @@ v1.2.0-Factory.Outlets | downloads: 408
 v2.1.1-Solar.Sails | downloads: 199
 v1.1.1-Factory.Outlets | downloads: 45
 v1.6.0-Fundamental.Outfit.Expansion | downloads: 2171
-v1.2.3-Jaws | downloads: 5899
+v1.2.3-Jaws | downloads: 5902
 v1.1.0-Zone.of.Control | downloads: 2330
 v1.1.0-Factory.Outlets | downloads: 941
 v1.5.1-Fundamental.Outfit.Expansion | downloads: 86
@@ -77,16 +77,16 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 76
-# TOTAL DOWNLOADS: 51636
+# TOTAL DOWNLOADS: 51657
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 6965
-Factory.Outlets 6150
-Fundamental.Outfit.Expansion 7373
-Jaws 6001
-Korunak.Defense.Drones 6224
-Louise.Conglomerate.Shipyards 6808
+Bunsen.Burner 6968
+Factory.Outlets 6152
+Fundamental.Outfit.Expansion 7376
+Jaws 6004
+Korunak.Defense.Drones 6227
+Louise.Conglomerate.Shipyards 6811
 Sheragi.Rebirth.Redux 41
-Solar.Sails 6125
-Zone.of.Control 5949
+Solar.Sails 6127
+Zone.of.Control 5951
