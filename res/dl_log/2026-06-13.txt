@@ -1,17 +1,17 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.4.5-Bunsen.Burner | downloads: 80
+v1.4.5-Bunsen.Burner | downloads: 83
 v1.4.4-Bunsen.Burner | downloads: 109
 v1.4.3-Bunsen.Burner | downloads: 36
-v1.3.3-Factory.Outlets | downloads: 162
-v1.9.0-Fundamental.Outfit.Expansion | downloads: 223
-v0.1.1-Sheragi.Rebirth.Redux | downloads: 26
+v1.3.3-Factory.Outlets | downloads: 164
+v1.9.0-Fundamental.Outfit.Expansion | downloads: 225
+v0.1.1-Sheragi.Rebirth.Redux | downloads: 27
 v1.0.0-Sheragi.Rebirth.Redux | downloads: 15
-v3.1.1-Louise.Conglomerate.Shipyards | downloads: 264
+v3.1.1-Louise.Conglomerate.Shipyards | downloads: 266
 v3.1.0-Louise.Conglomerate.Shipyards | downloads: 960
 v1.4.2-Bunsen.Burner | downloads: 1638
-v1.2.0-Korunak.Defense.Drones | downloads: 1150
-v2.1.3-Solar.Sails | downloads: 1175
-v1.1.4-Zone.of.Control | downloads: 1175
+v1.2.0-Korunak.Defense.Drones | downloads: 1152
+v2.1.3-Solar.Sails | downloads: 1177
+v1.1.4-Zone.of.Control | downloads: 1177
 v1.4.1-Bunsen.Burner | downloads: 127
 v1.1.3-Zone.of.Control | downloads: 21
 v1.4.0-Bunsen.Burner | downloads: 140
@@ -29,7 +29,7 @@ v1.2.0-Factory.Outlets | downloads: 408
 v2.1.1-Solar.Sails | downloads: 199
 v1.1.1-Factory.Outlets | downloads: 45
 v1.6.0-Fundamental.Outfit.Expansion | downloads: 2171
-v1.2.3-Jaws | downloads: 5923
+v1.2.3-Jaws | downloads: 5925
 v1.1.0-Zone.of.Control | downloads: 2330
 v1.1.0-Factory.Outlets | downloads: 941
 v1.5.1-Fundamental.Outfit.Expansion | downloads: 86
@@ -77,16 +77,16 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 76
-# TOTAL DOWNLOADS: 51848
+# TOTAL DOWNLOADS: 51866
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 7000
-Factory.Outlets 6176
-Fundamental.Outfit.Expansion 7401
-Jaws 6025
-Korunak.Defense.Drones 6248
-Louise.Conglomerate.Shipyards 6835
-Sheragi.Rebirth.Redux 41
-Solar.Sails 6149
-Zone.of.Control 5973
+Bunsen.Burner 7003
+Factory.Outlets 6178
+Fundamental.Outfit.Expansion 7403
+Jaws 6027
+Korunak.Defense.Drones 6250
+Louise.Conglomerate.Shipyards 6837
+Sheragi.Rebirth.Redux 42
+Solar.Sails 6151
+Zone.of.Control 5975
