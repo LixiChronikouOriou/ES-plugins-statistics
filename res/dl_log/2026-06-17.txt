@@ -1,17 +1,17 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.4.5-Bunsen.Burner | downloads: 148
+v1.4.5-Bunsen.Burner | downloads: 151
 v1.4.4-Bunsen.Burner | downloads: 109
 v1.4.3-Bunsen.Burner | downloads: 36
-v1.3.3-Factory.Outlets | downloads: 204
-v1.9.0-Fundamental.Outfit.Expansion | downloads: 269
+v1.3.3-Factory.Outlets | downloads: 206
+v1.9.0-Fundamental.Outfit.Expansion | downloads: 271
 v0.1.1-Sheragi.Rebirth.Redux | downloads: 28
 v1.0.0-Sheragi.Rebirth.Redux | downloads: 15
-v3.1.1-Louise.Conglomerate.Shipyards | downloads: 306
+v3.1.1-Louise.Conglomerate.Shipyards | downloads: 308
 v3.1.0-Louise.Conglomerate.Shipyards | downloads: 960
 v1.4.2-Bunsen.Burner | downloads: 1638
-v1.2.0-Korunak.Defense.Drones | downloads: 1190
-v2.1.3-Solar.Sails | downloads: 1215
-v1.1.4-Zone.of.Control | downloads: 1214
+v1.2.0-Korunak.Defense.Drones | downloads: 1192
+v2.1.3-Solar.Sails | downloads: 1217
+v1.1.4-Zone.of.Control | downloads: 1216
 v1.4.1-Bunsen.Burner | downloads: 127
 v1.1.3-Zone.of.Control | downloads: 21
 v1.4.0-Bunsen.Burner | downloads: 140
@@ -29,7 +29,7 @@ v1.2.0-Factory.Outlets | downloads: 408
 v2.1.1-Solar.Sails | downloads: 199
 v1.1.1-Factory.Outlets | downloads: 45
 v1.6.0-Fundamental.Outfit.Expansion | downloads: 2171
-v1.2.3-Jaws | downloads: 5975
+v1.2.3-Jaws | downloads: 5977
 v1.1.0-Zone.of.Control | downloads: 2330
 v1.1.0-Factory.Outlets | downloads: 941
 v1.5.1-Fundamental.Outfit.Expansion | downloads: 86
@@ -77,16 +77,16 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 76
-# TOTAL DOWNLOADS: 52317
+# TOTAL DOWNLOADS: 52334
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 7082
-Factory.Outlets 6232
-Fundamental.Outfit.Expansion 7461
-Jaws 6077
-Korunak.Defense.Drones 6302
-Louise.Conglomerate.Shipyards 6891
+Bunsen.Burner 7085
+Factory.Outlets 6234
+Fundamental.Outfit.Expansion 7463
+Jaws 6079
+Korunak.Defense.Drones 6304
+Louise.Conglomerate.Shipyards 6893
 Sheragi.Rebirth.Redux 43
-Solar.Sails 6203
-Zone.of.Control 6026
+Solar.Sails 6205
+Zone.of.Control 6028
