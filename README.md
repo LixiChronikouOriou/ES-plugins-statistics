@@ -4,113 +4,113 @@
 <table>
 	<tr>
 		<td></td>
-		<td>2026-06-15</td>
 		<td>2026-06-16</td>
 		<td>2026-06-17</td>
 		<td>2026-06-18</td>
 		<td>2026-06-19</td>
 		<td>2026-06-20</td>
 		<td>2026-06-21</td>
+		<td>2026-06-22</td>
 		<td>today +</td>
 	</tr>
 	<tr>
 		<td>Bunsen.Burner</td>
-		<td>7059</td>
 		<td>7079</td>
 		<td>7101</td>
 		<td>7122</td>
 		<td>7149</td>
 		<td>7176</td>
 		<td>7203</td>
-		<td>+ 27</td>
+		<td>7207</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
-		<td>6216</td>
 		<td>6230</td>
 		<td>6245</td>
 		<td>6259</td>
 		<td>6276</td>
 		<td>6293</td>
 		<td>6310</td>
-		<td>+ 17</td>
+		<td>6312</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
-		<td>7445</td>
 		<td>7459</td>
 		<td>7476</td>
 		<td>7494</td>
 		<td>7516</td>
 		<td>7534</td>
 		<td>7557</td>
-		<td>+ 23</td>
+		<td>7561</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
-		<td>6062</td>
 		<td>6075</td>
 		<td>6089</td>
 		<td>6103</td>
 		<td>6122</td>
 		<td>6139</td>
 		<td>6155</td>
-		<td>+ 16</td>
+		<td>6157</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
-		<td>6286</td>
 		<td>6300</td>
 		<td>6314</td>
 		<td>6329</td>
 		<td>6346</td>
 		<td>6363</td>
 		<td>6379</td>
-		<td>+ 16</td>
+		<td>6381</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
-		<td>6875</td>
 		<td>6889</td>
 		<td>6904</td>
 		<td>6919</td>
 		<td>6939</td>
 		<td>6956</td>
 		<td>6972</td>
-		<td>+ 16</td>
+		<td>6975</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>Sheragi.Rebirth.Redux</td>
 		<td>43</td>
 		<td>43</td>
 		<td>43</td>
-		<td>43</td>
 		<td>44</td>
 		<td>44</td>
 		<td>46</td>
-		<td>+ 2</td>
+		<td>46</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
-		<td>6186</td>
 		<td>6201</td>
 		<td>6215</td>
 		<td>6229</td>
 		<td>6246</td>
 		<td>6263</td>
 		<td>6280</td>
-		<td>+ 17</td>
+		<td>6282</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
-		<td>6011</td>
 		<td>6024</td>
 		<td>6038</td>
 		<td>6052</td>
 		<td>6070</td>
 		<td>6087</td>
 		<td>6103</td>
-		<td>+ 16</td>
+		<td>6105</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -120,8 +120,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>53005</td>
-		<td>150</td>
+		<td>53026</td>
+		<td>21</td>
 	</tr>
 </table>
 </sub></sup>
@@ -129,113 +129,113 @@
 <table>
 	<tr>
 		<td></td>
-		<td>2026-06-15</td>
 		<td>2026-06-16</td>
 		<td>2026-06-17</td>
 		<td>2026-06-18</td>
 		<td>2026-06-19</td>
 		<td>2026-06-20</td>
 		<td>2026-06-21</td>
+		<td>2026-06-22</td>
 		<td>today +</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
-		<td>7445</td>
 		<td>7459</td>
 		<td>7476</td>
 		<td>7494</td>
 		<td>7516</td>
 		<td>7534</td>
 		<td>7557</td>
-		<td>+ 23</td>
+		<td>7561</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Bunsen.Burner</td>
-		<td>7059</td>
 		<td>7079</td>
 		<td>7101</td>
 		<td>7122</td>
 		<td>7149</td>
 		<td>7176</td>
 		<td>7203</td>
-		<td>+ 27</td>
+		<td>7207</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
-		<td>6875</td>
 		<td>6889</td>
 		<td>6904</td>
 		<td>6919</td>
 		<td>6939</td>
 		<td>6956</td>
 		<td>6972</td>
-		<td>+ 16</td>
+		<td>6975</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
-		<td>6286</td>
 		<td>6300</td>
 		<td>6314</td>
 		<td>6329</td>
 		<td>6346</td>
 		<td>6363</td>
 		<td>6379</td>
-		<td>+ 16</td>
+		<td>6381</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
-		<td>6216</td>
 		<td>6230</td>
 		<td>6245</td>
 		<td>6259</td>
 		<td>6276</td>
 		<td>6293</td>
 		<td>6310</td>
-		<td>+ 17</td>
+		<td>6312</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
-		<td>6186</td>
 		<td>6201</td>
 		<td>6215</td>
 		<td>6229</td>
 		<td>6246</td>
 		<td>6263</td>
 		<td>6280</td>
-		<td>+ 17</td>
+		<td>6282</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
-		<td>6062</td>
 		<td>6075</td>
 		<td>6089</td>
 		<td>6103</td>
 		<td>6122</td>
 		<td>6139</td>
 		<td>6155</td>
-		<td>+ 16</td>
+		<td>6157</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
-		<td>6011</td>
 		<td>6024</td>
 		<td>6038</td>
 		<td>6052</td>
 		<td>6070</td>
 		<td>6087</td>
 		<td>6103</td>
-		<td>+ 16</td>
+		<td>6105</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Sheragi.Rebirth.Redux</td>
 		<td>43</td>
 		<td>43</td>
 		<td>43</td>
-		<td>43</td>
 		<td>44</td>
 		<td>44</td>
 		<td>46</td>
-		<td>+ 2</td>
+		<td>46</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -245,8 +245,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>53005</td>
-		<td>150</td>
+		<td>53026</td>
+		<td>21</td>
 	</tr>
 </table>
 </sub></sup>
@@ -313,9 +313,9 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>251</td>
-		<td>23.01</td>
-		<td>6.92</td>
+		<td>252</td>
+		<td>22.92</td>
+		<td>6.89</td>
 		<td></td>
 		<td></td>
 	</tr>
