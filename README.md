@@ -43,8 +43,8 @@
 		<td>7648</td>
 		<td>7671</td>
 		<td>7690</td>
-		<td>7698</td>
-		<td>+ 8</td>
+		<td>7699</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -120,8 +120,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>54090</td>
-		<td>67</td>
+		<td>54091</td>
+		<td>68</td>
 	</tr>
 </table>
 </sub></sup>
@@ -146,8 +146,8 @@
 		<td>7648</td>
 		<td>7671</td>
 		<td>7690</td>
-		<td>7698</td>
-		<td>+ 8</td>
+		<td>7699</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>Bunsen.Burner</td>
@@ -245,8 +245,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>54090</td>
-		<td>67</td>
+		<td>54091</td>
+		<td>68</td>
 	</tr>
 </table>
 </sub></sup>
