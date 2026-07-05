@@ -43,8 +43,8 @@
 		<td>7744</td>
 		<td>7762</td>
 		<td>7781</td>
-		<td>7798</td>
-		<td>+ 17</td>
+		<td>7799</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -76,8 +76,8 @@
 		<td>7157</td>
 		<td>7177</td>
 		<td>7194</td>
-		<td>7209</td>
-		<td>+ 15</td>
+		<td>7210</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>Sheragi.Rebirth.Redux</td>
@@ -87,8 +87,8 @@
 		<td>50</td>
 		<td>50</td>
 		<td>50</td>
-		<td>50</td>
-		<td></td>
+		<td>51</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -109,8 +109,8 @@
 		<td>6270</td>
 		<td>6288</td>
 		<td>6305</td>
-		<td>6319</td>
-		<td>+ 14</td>
+		<td>6320</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -120,8 +120,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>54822</td>
-		<td>112</td>
+		<td>54826</td>
+		<td>116</td>
 	</tr>
 </table>
 </sub></sup>
@@ -146,8 +146,8 @@
 		<td>7744</td>
 		<td>7762</td>
 		<td>7781</td>
-		<td>7798</td>
-		<td>+ 17</td>
+		<td>7799</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>Bunsen.Burner</td>
@@ -168,8 +168,8 @@
 		<td>7157</td>
 		<td>7177</td>
 		<td>7194</td>
-		<td>7209</td>
-		<td>+ 15</td>
+		<td>7210</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -223,8 +223,8 @@
 		<td>6270</td>
 		<td>6288</td>
 		<td>6305</td>
-		<td>6319</td>
-		<td>+ 14</td>
+		<td>6320</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>Sheragi.Rebirth.Redux</td>
@@ -234,8 +234,8 @@
 		<td>50</td>
 		<td>50</td>
 		<td>50</td>
-		<td>50</td>
-		<td></td>
+		<td>51</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -245,8 +245,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>54822</td>
-		<td>112</td>
+		<td>54826</td>
+		<td>116</td>
 	</tr>
 </table>
 </sub></sup>
