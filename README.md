@@ -21,8 +21,8 @@
 		<td>7446</td>
 		<td>7459</td>
 		<td>7470</td>
-		<td>7478</td>
-		<td>+ 8</td>
+		<td>7479</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -120,8 +120,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>54995</td>
-		<td>70</td>
+		<td>54996</td>
+		<td>71</td>
 	</tr>
 </table>
 </sub></sup>
@@ -157,8 +157,8 @@
 		<td>7446</td>
 		<td>7459</td>
 		<td>7470</td>
-		<td>7478</td>
-		<td>+ 8</td>
+		<td>7479</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -245,8 +245,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>54995</td>
-		<td>70</td>
+		<td>54996</td>
+		<td>71</td>
 	</tr>
 </table>
 </sub></sup>
