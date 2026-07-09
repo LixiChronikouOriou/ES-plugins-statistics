@@ -54,8 +54,8 @@
 		<td>6384</td>
 		<td>6395</td>
 		<td>6411</td>
-		<td>6412</td>
-		<td>+ 1</td>
+		<td>6413</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -76,8 +76,8 @@
 		<td>7223</td>
 		<td>7234</td>
 		<td>7256</td>
-		<td>7258</td>
-		<td>+ 2</td>
+		<td>7259</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>Sheragi.Rebirth.Redux</td>
@@ -120,8 +120,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>55171</td>
-		<td>11</td>
+		<td>55173</td>
+		<td>13</td>
 	</tr>
 </table>
 </sub></sup>
@@ -168,8 +168,8 @@
 		<td>7223</td>
 		<td>7234</td>
 		<td>7256</td>
-		<td>7258</td>
-		<td>+ 2</td>
+		<td>7259</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -212,8 +212,8 @@
 		<td>6384</td>
 		<td>6395</td>
 		<td>6411</td>
-		<td>6412</td>
-		<td>+ 1</td>
+		<td>6413</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
@@ -245,8 +245,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>55171</td>
-		<td>11</td>
+		<td>55173</td>
+		<td>13</td>
 	</tr>
 </table>
 </sub></sup>
@@ -254,7 +254,6 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2026-06-29</td>
 		<td>2026-06-30</td>
 		<td>2026-07-01</td>
 		<td>2026-07-02</td>
@@ -263,10 +262,10 @@
 		<td>2026-07-05</td>
 		<td>2026-07-06</td>
 		<td>2026-07-07</td>
+		<td>2026-07-08</td>
 	</tr>
 	<tr>
 		<td>page views</td>
-		<td>16</td>
 		<td>4</td>
 		<td>4</td>
 		<td>5</td>
@@ -275,10 +274,10 @@
 		<td>49</td>
 		<td>38</td>
 		<td>7</td>
+		<td>33</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
-		<td>8</td>
 		<td>2</td>
 		<td>4</td>
 		<td>2</td>
@@ -287,6 +286,7 @@
 		<td>2</td>
 		<td>7</td>
 		<td>2</td>
+		<td>8</td>
 	</tr>
 </table>
 <br>
@@ -300,8 +300,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-13</td>
-		<td>5994</td>
-		<td>1814</td>
+		<td>6027</td>
+		<td>1822</td>
 		<td>173</td>
 		<td>45</td>
 	</tr>
@@ -314,8 +314,8 @@
 	</tr>
 	<tr>
 		<td>269</td>
-		<td>22.28</td>
-		<td>6.74</td>
+		<td>22.41</td>
+		<td>6.77</td>
 		<td></td>
 		<td></td>
 	</tr>
