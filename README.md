@@ -32,8 +32,8 @@
 		<td>6671</td>
 		<td>6685</td>
 		<td>6700</td>
-		<td>6711</td>
-		<td>+ 11</td>
+		<td>6712</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
@@ -120,8 +120,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>56305</td>
-		<td>87</td>
+		<td>56306</td>
+		<td>88</td>
 	</tr>
 </table>
 </sub></sup>
@@ -190,8 +190,8 @@
 		<td>6671</td>
 		<td>6685</td>
 		<td>6700</td>
-		<td>6711</td>
-		<td>+ 11</td>
+		<td>6712</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -245,8 +245,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>56305</td>
-		<td>87</td>
+		<td>56306</td>
+		<td>88</td>
 	</tr>
 </table>
 </sub></sup>
