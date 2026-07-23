@@ -1,18 +1,18 @@
 # DOWNLOADS FOR EACH RELEASE:
-v3.1.2-Louise.Conglomerate.Shipyards | downloads: 248
-v1.4.5-Bunsen.Burner | downloads: 734
+v3.1.2-Louise.Conglomerate.Shipyards | downloads: 250
+v1.4.5-Bunsen.Burner | downloads: 735
 v1.4.4-Bunsen.Burner | downloads: 110
 v1.4.3-Bunsen.Burner | downloads: 36
-v1.3.3-Factory.Outlets | downloads: 725
-v1.9.0-Fundamental.Outfit.Expansion | downloads: 861
+v1.3.3-Factory.Outlets | downloads: 727
+v1.9.0-Fundamental.Outfit.Expansion | downloads: 863
 v0.1.1-Sheragi.Rebirth.Redux | downloads: 49
 v1.0.0-Sheragi.Rebirth.Redux | downloads: 15
 v3.1.1-Louise.Conglomerate.Shipyards | downloads: 616
 v3.1.0-Louise.Conglomerate.Shipyards | downloads: 960
 v1.4.2-Bunsen.Burner | downloads: 1638
-v1.2.0-Korunak.Defense.Drones | downloads: 1695
-v2.1.3-Solar.Sails | downloads: 1724
-v1.1.4-Zone.of.Control | downloads: 1720
+v1.2.0-Korunak.Defense.Drones | downloads: 1696
+v2.1.3-Solar.Sails | downloads: 1725
+v1.1.4-Zone.of.Control | downloads: 1722
 v1.4.1-Bunsen.Burner | downloads: 127
 v1.1.3-Zone.of.Control | downloads: 21
 v1.4.0-Bunsen.Burner | downloads: 140
@@ -30,7 +30,7 @@ v1.2.0-Factory.Outlets | downloads: 408
 v2.1.1-Solar.Sails | downloads: 199
 v1.1.1-Factory.Outlets | downloads: 45
 v1.6.0-Fundamental.Outfit.Expansion | downloads: 2171
-v1.2.3-Jaws | downloads: 6523
+v1.2.3-Jaws | downloads: 6525
 v1.1.0-Zone.of.Control | downloads: 2330
 v1.1.0-Factory.Outlets | downloads: 941
 v1.5.1-Fundamental.Outfit.Expansion | downloads: 86
@@ -78,16 +78,16 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 77
-# TOTAL DOWNLOADS: 56937
+# TOTAL DOWNLOADS: 56950
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 7708
-Factory.Outlets 6792
-Fundamental.Outfit.Expansion 8092
-Jaws 6625
-Korunak.Defense.Drones 6846
-Louise.Conglomerate.Shipyards 7488
+Bunsen.Burner 7709
+Factory.Outlets 6794
+Fundamental.Outfit.Expansion 8094
+Jaws 6627
+Korunak.Defense.Drones 6847
+Louise.Conglomerate.Shipyards 7490
 Sheragi.Rebirth.Redux 64
-Solar.Sails 6751
-Zone.of.Control 6571
+Solar.Sails 6752
+Zone.of.Control 6573
