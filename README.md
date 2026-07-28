@@ -32,8 +32,8 @@
 		<td>6824</td>
 		<td>6840</td>
 		<td>6854</td>
-		<td>6858</td>
-		<td>+ 4</td>
+		<td>6859</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
@@ -54,8 +54,8 @@
 		<td>6656</td>
 		<td>6672</td>
 		<td>6685</td>
-		<td>6688</td>
-		<td>+ 3</td>
+		<td>6689</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -120,8 +120,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>57454</td>
-		<td>26</td>
+		<td>57456</td>
+		<td>28</td>
 	</tr>
 </table>
 </sub></sup>
@@ -190,8 +190,8 @@
 		<td>6824</td>
 		<td>6840</td>
 		<td>6854</td>
-		<td>6858</td>
-		<td>+ 4</td>
+		<td>6859</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -212,8 +212,8 @@
 		<td>6656</td>
 		<td>6672</td>
 		<td>6685</td>
-		<td>6688</td>
-		<td>+ 3</td>
+		<td>6689</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
@@ -245,8 +245,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>57454</td>
-		<td>26</td>
+		<td>57456</td>
+		<td>28</td>
 	</tr>
 </table>
 </sub></sup>
@@ -254,7 +254,6 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2026-07-18</td>
 		<td>2026-07-19</td>
 		<td>2026-07-20</td>
 		<td>2026-07-21</td>
@@ -263,10 +262,10 @@
 		<td>2026-07-24</td>
 		<td>2026-07-25</td>
 		<td>2026-07-26</td>
+		<td>2026-07-27</td>
 	</tr>
 	<tr>
 		<td>page views</td>
-		<td>21</td>
 		<td>8</td>
 		<td>0</td>
 		<td>4</td>
@@ -275,10 +274,10 @@
 		<td>29</td>
 		<td>6</td>
 		<td>4</td>
+		<td>7</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
-		<td>8</td>
 		<td>4</td>
 		<td>0</td>
 		<td>4</td>
@@ -287,6 +286,7 @@
 		<td>5</td>
 		<td>2</td>
 		<td>2</td>
+		<td>3</td>
 	</tr>
 </table>
 <br>
@@ -300,8 +300,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-13</td>
-		<td>6198</td>
-		<td>1893</td>
+		<td>6205</td>
+		<td>1896</td>
 		<td>173</td>
 		<td>45</td>
 	</tr>
@@ -314,8 +314,8 @@
 	</tr>
 	<tr>
 		<td>288</td>
-		<td>21.52</td>
-		<td>6.57</td>
+		<td>21.55</td>
+		<td>6.58</td>
 		<td></td>
 		<td></td>
 	</tr>
