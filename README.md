@@ -21,8 +21,8 @@
 		<td>7815</td>
 		<td>7830</td>
 		<td>7844</td>
-		<td>7848</td>
-		<td>+ 4</td>
+		<td>7850</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -43,8 +43,8 @@
 		<td>8217</td>
 		<td>8234</td>
 		<td>8249</td>
-		<td>8254</td>
-		<td>+ 5</td>
+		<td>8255</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -65,8 +65,8 @@
 		<td>6954</td>
 		<td>6968</td>
 		<td>6981</td>
-		<td>6987</td>
-		<td>+ 6</td>
+		<td>6988</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -98,8 +98,8 @@
 		<td>6857</td>
 		<td>6871</td>
 		<td>6884</td>
-		<td>6889</td>
-		<td>+ 5</td>
+		<td>6890</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
@@ -120,8 +120,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>58095</td>
-		<td>34</td>
+		<td>58100</td>
+		<td>39</td>
 	</tr>
 </table>
 </sub></sup>
@@ -146,8 +146,8 @@
 		<td>8217</td>
 		<td>8234</td>
 		<td>8249</td>
-		<td>8254</td>
-		<td>+ 5</td>
+		<td>8255</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>Bunsen.Burner</td>
@@ -157,8 +157,8 @@
 		<td>7815</td>
 		<td>7830</td>
 		<td>7844</td>
-		<td>7848</td>
-		<td>+ 4</td>
+		<td>7850</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -179,8 +179,8 @@
 		<td>6954</td>
 		<td>6968</td>
 		<td>6981</td>
-		<td>6987</td>
-		<td>+ 6</td>
+		<td>6988</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -201,8 +201,8 @@
 		<td>6857</td>
 		<td>6871</td>
 		<td>6884</td>
-		<td>6889</td>
-		<td>+ 5</td>
+		<td>6890</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -245,8 +245,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>58095</td>
-		<td>34</td>
+		<td>58100</td>
+		<td>39</td>
 	</tr>
 </table>
 </sub></sup>
