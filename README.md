@@ -21,8 +21,8 @@
 		<td>7889</td>
 		<td>7911</td>
 		<td>7936</td>
-		<td>7943</td>
-		<td>+ 7</td>
+		<td>7944</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -65,8 +65,8 @@
 		<td>7027</td>
 		<td>7051</td>
 		<td>7076</td>
-		<td>7083</td>
-		<td>+ 7</td>
+		<td>7084</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -98,8 +98,8 @@
 		<td>6927</td>
 		<td>6949</td>
 		<td>6974</td>
-		<td>6981</td>
-		<td>+ 7</td>
+		<td>6982</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
@@ -120,8 +120,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>58871</td>
-		<td>57</td>
+		<td>58874</td>
+		<td>60</td>
 	</tr>
 </table>
 </sub></sup>
@@ -157,8 +157,8 @@
 		<td>7889</td>
 		<td>7911</td>
 		<td>7936</td>
-		<td>7943</td>
-		<td>+ 7</td>
+		<td>7944</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -179,8 +179,8 @@
 		<td>7027</td>
 		<td>7051</td>
 		<td>7076</td>
-		<td>7083</td>
-		<td>+ 7</td>
+		<td>7084</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -201,8 +201,8 @@
 		<td>6927</td>
 		<td>6949</td>
 		<td>6974</td>
-		<td>6981</td>
-		<td>+ 7</td>
+		<td>6982</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -245,8 +245,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>58871</td>
-		<td>57</td>
+		<td>58874</td>
+		<td>60</td>
 	</tr>
 </table>
 </sub></sup>
