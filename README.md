@@ -21,8 +21,8 @@
 		<td>7960</td>
 		<td>7979</td>
 		<td>7998</td>
-		<td>8014</td>
-		<td>+ 16</td>
+		<td>8015</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -32,8 +32,8 @@
 		<td>7052</td>
 		<td>7073</td>
 		<td>7092</td>
-		<td>7107</td>
-		<td>+ 15</td>
+		<td>7108</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
@@ -43,8 +43,8 @@
 		<td>8374</td>
 		<td>8395</td>
 		<td>8418</td>
-		<td>8434</td>
-		<td>+ 16</td>
+		<td>8435</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -54,8 +54,8 @@
 		<td>6874</td>
 		<td>6892</td>
 		<td>6913</td>
-		<td>6928</td>
-		<td>+ 15</td>
+		<td>6929</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -65,8 +65,8 @@
 		<td>7100</td>
 		<td>7121</td>
 		<td>7141</td>
-		<td>7156</td>
-		<td>+ 15</td>
+		<td>7157</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -120,8 +120,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>59449</td>
-		<td>126</td>
+		<td>59454</td>
+		<td>131</td>
 	</tr>
 </table>
 </sub></sup>
@@ -146,8 +146,8 @@
 		<td>8374</td>
 		<td>8395</td>
 		<td>8418</td>
-		<td>8434</td>
-		<td>+ 16</td>
+		<td>8435</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>Bunsen.Burner</td>
@@ -157,8 +157,8 @@
 		<td>7960</td>
 		<td>7979</td>
 		<td>7998</td>
-		<td>8014</td>
-		<td>+ 16</td>
+		<td>8015</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -179,8 +179,8 @@
 		<td>7100</td>
 		<td>7121</td>
 		<td>7141</td>
-		<td>7156</td>
-		<td>+ 15</td>
+		<td>7157</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -190,8 +190,8 @@
 		<td>7052</td>
 		<td>7073</td>
 		<td>7092</td>
-		<td>7107</td>
-		<td>+ 15</td>
+		<td>7108</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -212,8 +212,8 @@
 		<td>6874</td>
 		<td>6892</td>
 		<td>6913</td>
-		<td>6928</td>
-		<td>+ 15</td>
+		<td>6929</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
@@ -245,8 +245,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>59449</td>
-		<td>126</td>
+		<td>59454</td>
+		<td>131</td>
 	</tr>
 </table>
 </sub></sup>
