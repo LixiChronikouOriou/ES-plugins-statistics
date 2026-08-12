@@ -76,8 +76,8 @@
 		<td>7751</td>
 		<td>7773</td>
 		<td>7792</td>
-		<td>7805</td>
-		<td>+ 13</td>
+		<td>7806</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>Sheragi.Rebirth.Redux</td>
@@ -98,8 +98,8 @@
 		<td>6999</td>
 		<td>7019</td>
 		<td>7039</td>
-		<td>7051</td>
-		<td>+ 12</td>
+		<td>7052</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
@@ -120,8 +120,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>59422</td>
-		<td>99</td>
+		<td>59424</td>
+		<td>101</td>
 	</tr>
 </table>
 </sub></sup>
@@ -168,8 +168,8 @@
 		<td>7751</td>
 		<td>7773</td>
 		<td>7792</td>
-		<td>7805</td>
-		<td>+ 13</td>
+		<td>7806</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -201,8 +201,8 @@
 		<td>6999</td>
 		<td>7019</td>
 		<td>7039</td>
-		<td>7051</td>
-		<td>+ 12</td>
+		<td>7052</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -245,8 +245,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>59422</td>
-		<td>99</td>
+		<td>59424</td>
+		<td>101</td>
 	</tr>
 </table>
 </sub></sup>
