@@ -1,6 +1,6 @@
 # DOWNLOADS FOR EACH RELEASE:
 v3.1.2-Louise.Conglomerate.Shipyards | downloads: 700
-v1.4.5-Bunsen.Burner | downloads: 1172
+v1.4.5-Bunsen.Burner | downloads: 1173
 v1.4.4-Bunsen.Burner | downloads: 111
 v1.4.3-Bunsen.Burner | downloads: 36
 v1.3.3-Factory.Outlets | downloads: 1172
@@ -78,11 +78,11 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 77
-# TOTAL DOWNLOADS: 60507
+# TOTAL DOWNLOADS: 60508
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 8147
+Bunsen.Burner 8148
 Factory.Outlets 7239
 Fundamental.Outfit.Expansion 8573
 Jaws 7059
