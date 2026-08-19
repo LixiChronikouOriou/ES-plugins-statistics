@@ -21,8 +21,8 @@
 		<td>8107</td>
 		<td>8131</td>
 		<td>8157</td>
-		<td>8180</td>
-		<td>+ 23</td>
+		<td>8181</td>
+		<td>+ 24</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -120,8 +120,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>60759</td>
-		<td>179</td>
+		<td>60760</td>
+		<td>180</td>
 	</tr>
 </table>
 </sub></sup>
@@ -157,8 +157,8 @@
 		<td>8107</td>
 		<td>8131</td>
 		<td>8157</td>
-		<td>8180</td>
-		<td>+ 23</td>
+		<td>8181</td>
+		<td>+ 24</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -245,8 +245,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>60759</td>
-		<td>179</td>
+		<td>60760</td>
+		<td>180</td>
 	</tr>
 </table>
 </sub></sup>
