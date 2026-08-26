@@ -87,8 +87,8 @@
 		<td>74</td>
 		<td>74</td>
 		<td>74</td>
-		<td>74</td>
-		<td></td>
+		<td>75</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -120,8 +120,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>62210</td>
-		<td>147</td>
+		<td>62211</td>
+		<td>148</td>
 	</tr>
 </table>
 </sub></sup>
@@ -234,8 +234,8 @@
 		<td>74</td>
 		<td>74</td>
 		<td>74</td>
-		<td>74</td>
-		<td></td>
+		<td>75</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -245,8 +245,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>62210</td>
-		<td>147</td>
+		<td>62211</td>
+		<td>148</td>
 	</tr>
 </table>
 </sub></sup>
