@@ -1,18 +1,18 @@
 # DOWNLOADS FOR EACH RELEASE:
-v3.1.2-Louise.Conglomerate.Shipyards | downloads: 1023
-v1.4.5-Bunsen.Burner | downloads: 1483
+v3.1.2-Louise.Conglomerate.Shipyards | downloads: 1025
+v1.4.5-Bunsen.Burner | downloads: 1485
 v1.4.4-Bunsen.Burner | downloads: 111
 v1.4.3-Bunsen.Burner | downloads: 36
-v1.3.3-Factory.Outlets | downloads: 1481
-v1.9.0-Fundamental.Outfit.Expansion | downloads: 1677
-v0.1.1-Sheragi.Rebirth.Redux | downloads: 64
+v1.3.3-Factory.Outlets | downloads: 1483
+v1.9.0-Fundamental.Outfit.Expansion | downloads: 1679
+v0.1.1-Sheragi.Rebirth.Redux | downloads: 65
 v1.0.0-Sheragi.Rebirth.Redux | downloads: 15
 v3.1.1-Louise.Conglomerate.Shipyards | downloads: 616
 v3.1.0-Louise.Conglomerate.Shipyards | downloads: 960
 v1.4.2-Bunsen.Burner | downloads: 1639
-v1.2.0-Korunak.Defense.Drones | downloads: 2447
-v2.1.3-Solar.Sails | downloads: 2461
-v1.1.4-Zone.of.Control | downloads: 2451
+v1.2.0-Korunak.Defense.Drones | downloads: 2449
+v2.1.3-Solar.Sails | downloads: 2463
+v1.1.4-Zone.of.Control | downloads: 2453
 v1.4.1-Bunsen.Burner | downloads: 127
 v1.1.3-Zone.of.Control | downloads: 21
 v1.4.0-Bunsen.Burner | downloads: 140
@@ -30,7 +30,7 @@ v1.2.0-Factory.Outlets | downloads: 408
 v2.1.1-Solar.Sails | downloads: 199
 v1.1.1-Factory.Outlets | downloads: 45
 v1.6.0-Fundamental.Outfit.Expansion | downloads: 2171
-v1.2.3-Jaws | downloads: 7254
+v1.2.3-Jaws | downloads: 7256
 v1.1.0-Zone.of.Control | downloads: 2330
 v1.1.0-Factory.Outlets | downloads: 941
 v1.5.1-Fundamental.Outfit.Expansion | downloads: 86
@@ -78,16 +78,16 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 77
-# TOTAL DOWNLOADS: 63001
+# TOTAL DOWNLOADS: 63018
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 8459
-Factory.Outlets 7548
-Fundamental.Outfit.Expansion 8908
-Jaws 7356
-Korunak.Defense.Drones 7598
-Louise.Conglomerate.Shipyards 8263
-Sheragi.Rebirth.Redux 79
-Solar.Sails 7488
-Zone.of.Control 7302
+Bunsen.Burner 8461
+Factory.Outlets 7550
+Fundamental.Outfit.Expansion 8910
+Jaws 7358
+Korunak.Defense.Drones 7600
+Louise.Conglomerate.Shipyards 8265
+Sheragi.Rebirth.Redux 80
+Solar.Sails 7490
+Zone.of.Control 7304
