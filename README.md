@@ -65,8 +65,8 @@
 		<td>7680</td>
 		<td>7691</td>
 		<td>7697</td>
-		<td>7703</td>
-		<td>+ 6</td>
+		<td>7704</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -76,8 +76,8 @@
 		<td>8343</td>
 		<td>8355</td>
 		<td>8361</td>
-		<td>8368</td>
-		<td>+ 7</td>
+		<td>8369</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>Sheragi.Rebirth.Redux</td>
@@ -120,8 +120,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>63849</td>
-		<td>54</td>
+		<td>63851</td>
+		<td>56</td>
 	</tr>
 </table>
 </sub></sup>
@@ -168,8 +168,8 @@
 		<td>8343</td>
 		<td>8355</td>
 		<td>8361</td>
-		<td>8368</td>
-		<td>+ 7</td>
+		<td>8369</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -179,8 +179,8 @@
 		<td>7680</td>
 		<td>7691</td>
 		<td>7697</td>
-		<td>7703</td>
-		<td>+ 6</td>
+		<td>7704</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -245,8 +245,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>63849</td>
-		<td>54</td>
+		<td>63851</td>
+		<td>56</td>
 	</tr>
 </table>
 </sub></sup>
@@ -254,7 +254,6 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2026-09-05</td>
 		<td>2026-09-06</td>
 		<td>2026-09-07</td>
 		<td>2026-09-08</td>
@@ -263,10 +262,10 @@
 		<td>2026-09-11</td>
 		<td>2026-09-12</td>
 		<td>2026-09-13</td>
+		<td>2026-09-14</td>
 	</tr>
 	<tr>
 		<td>page views</td>
-		<td>22</td>
 		<td>9</td>
 		<td>4</td>
 		<td>1</td>
@@ -275,10 +274,10 @@
 		<td>67</td>
 		<td>66</td>
 		<td>15</td>
+		<td>0</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
-		<td>8</td>
 		<td>5</td>
 		<td>3</td>
 		<td>1</td>
@@ -287,6 +286,7 @@
 		<td>7</td>
 		<td>8</td>
 		<td>6</td>
+		<td>0</td>
 	</tr>
 </table>
 <br>
