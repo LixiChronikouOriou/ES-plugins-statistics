@@ -21,8 +21,8 @@
 		<td>8557</td>
 		<td>8570</td>
 		<td>8580</td>
-		<td>8580</td>
-		<td></td>
+		<td>8582</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -32,8 +32,8 @@
 		<td>7651</td>
 		<td>7665</td>
 		<td>7675</td>
-		<td>7675</td>
-		<td></td>
+		<td>7677</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
@@ -43,8 +43,8 @@
 		<td>9014</td>
 		<td>9029</td>
 		<td>9039</td>
-		<td>9039</td>
-		<td></td>
+		<td>9041</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -54,8 +54,8 @@
 		<td>7451</td>
 		<td>7465</td>
 		<td>7474</td>
-		<td>7474</td>
-		<td></td>
+		<td>7476</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -65,8 +65,8 @@
 		<td>7697</td>
 		<td>7711</td>
 		<td>7720</td>
-		<td>7720</td>
-		<td></td>
+		<td>7722</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -76,8 +76,8 @@
 		<td>8361</td>
 		<td>8377</td>
 		<td>8387</td>
-		<td>8387</td>
-		<td></td>
+		<td>8389</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Sheragi.Rebirth.Redux</td>
@@ -98,8 +98,8 @@
 		<td>7584</td>
 		<td>7597</td>
 		<td>7606</td>
-		<td>7606</td>
-		<td></td>
+		<td>7608</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
@@ -109,8 +109,8 @@
 		<td>7397</td>
 		<td>7410</td>
 		<td>7419</td>
-		<td>7419</td>
-		<td></td>
+		<td>7421</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -120,8 +120,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>63985</td>
-		<td>0</td>
+		<td>64001</td>
+		<td>16</td>
 	</tr>
 </table>
 </sub></sup>
@@ -146,8 +146,8 @@
 		<td>9014</td>
 		<td>9029</td>
 		<td>9039</td>
-		<td>9039</td>
-		<td></td>
+		<td>9041</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Bunsen.Burner</td>
@@ -157,8 +157,8 @@
 		<td>8557</td>
 		<td>8570</td>
 		<td>8580</td>
-		<td>8580</td>
-		<td></td>
+		<td>8582</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -168,8 +168,8 @@
 		<td>8361</td>
 		<td>8377</td>
 		<td>8387</td>
-		<td>8387</td>
-		<td></td>
+		<td>8389</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -179,8 +179,8 @@
 		<td>7697</td>
 		<td>7711</td>
 		<td>7720</td>
-		<td>7720</td>
-		<td></td>
+		<td>7722</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -190,8 +190,8 @@
 		<td>7651</td>
 		<td>7665</td>
 		<td>7675</td>
-		<td>7675</td>
-		<td></td>
+		<td>7677</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -201,8 +201,8 @@
 		<td>7584</td>
 		<td>7597</td>
 		<td>7606</td>
-		<td>7606</td>
-		<td></td>
+		<td>7608</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -212,8 +212,8 @@
 		<td>7451</td>
 		<td>7465</td>
 		<td>7474</td>
-		<td>7474</td>
-		<td></td>
+		<td>7476</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
@@ -223,8 +223,8 @@
 		<td>7397</td>
 		<td>7410</td>
 		<td>7419</td>
-		<td>7419</td>
-		<td></td>
+		<td>7421</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Sheragi.Rebirth.Redux</td>
@@ -245,8 +245,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>63985</td>
-		<td>0</td>
+		<td>64001</td>
+		<td>16</td>
 	</tr>
 </table>
 </sub></sup>
@@ -254,7 +254,6 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2026-09-07</td>
 		<td>2026-09-08</td>
 		<td>2026-09-09</td>
 		<td>2026-09-10</td>
@@ -263,10 +262,10 @@
 		<td>2026-09-13</td>
 		<td>2026-09-14</td>
 		<td>2026-09-15</td>
+		<td>2026-09-16</td>
 	</tr>
 	<tr>
 		<td>page views</td>
-		<td>4</td>
 		<td>1</td>
 		<td>8</td>
 		<td>195</td>
@@ -275,10 +274,10 @@
 		<td>15</td>
 		<td>0</td>
 		<td>8</td>
+		<td>19</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
-		<td>3</td>
 		<td>1</td>
 		<td>3</td>
 		<td>6</td>
@@ -287,6 +286,7 @@
 		<td>6</td>
 		<td>0</td>
 		<td>7</td>
+		<td>8</td>
 	</tr>
 </table>
 <br>
@@ -300,8 +300,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-13</td>
-		<td>7053</td>
-		<td>2144</td>
+		<td>7072</td>
+		<td>2152</td>
 		<td>195</td>
 		<td>45</td>
 	</tr>
@@ -314,8 +314,8 @@
 	</tr>
 	<tr>
 		<td>339</td>
-		<td>20.81</td>
-		<td>6.32</td>
+		<td>20.86</td>
+		<td>6.35</td>
 		<td></td>
 		<td></td>
 	</tr>
