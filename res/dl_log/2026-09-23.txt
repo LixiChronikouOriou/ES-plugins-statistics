@@ -1,19 +1,19 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.3.4-Factory.Outlets | downloads: 125
-v3.1.2-Louise.Conglomerate.Shipyards | downloads: 1225
-v1.4.5-Bunsen.Burner | downloads: 1672
+v1.3.4-Factory.Outlets | downloads: 127
+v3.1.2-Louise.Conglomerate.Shipyards | downloads: 1229
+v1.4.5-Bunsen.Burner | downloads: 1674
 v1.4.4-Bunsen.Burner | downloads: 111
 v1.4.3-Bunsen.Burner | downloads: 36
 v1.3.3-Factory.Outlets | downloads: 1554
-v1.9.0-Fundamental.Outfit.Expansion | downloads: 1888
-v0.1.1-Sheragi.Rebirth.Redux | downloads: 70
+v1.9.0-Fundamental.Outfit.Expansion | downloads: 1894
+v0.1.1-Sheragi.Rebirth.Redux | downloads: 71
 v1.0.0-Sheragi.Rebirth.Redux | downloads: 15
 v3.1.1-Louise.Conglomerate.Shipyards | downloads: 616
 v3.1.0-Louise.Conglomerate.Shipyards | downloads: 960
 v1.4.2-Bunsen.Burner | downloads: 1639
-v1.2.0-Korunak.Defense.Drones | downloads: 2638
-v2.1.3-Solar.Sails | downloads: 2645
-v1.1.4-Zone.of.Control | downloads: 2631
+v1.2.0-Korunak.Defense.Drones | downloads: 2640
+v2.1.3-Solar.Sails | downloads: 2649
+v1.1.4-Zone.of.Control | downloads: 2636
 v1.4.1-Bunsen.Burner | downloads: 127
 v1.1.3-Zone.of.Control | downloads: 21
 v1.4.0-Bunsen.Burner | downloads: 140
@@ -31,7 +31,7 @@ v1.2.0-Factory.Outlets | downloads: 408
 v2.1.1-Solar.Sails | downloads: 199
 v1.1.1-Factory.Outlets | downloads: 45
 v1.6.0-Fundamental.Outfit.Expansion | downloads: 2171
-v1.2.3-Jaws | downloads: 7434
+v1.2.3-Jaws | downloads: 7439
 v1.1.0-Zone.of.Control | downloads: 2330
 v1.1.0-Factory.Outlets | downloads: 941
 v1.5.1-Fundamental.Outfit.Expansion | downloads: 86
@@ -79,16 +79,16 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 12
 
 
 # NUMBER OF RELEASES: 78
-# TOTAL DOWNLOADS: 64542
+# TOTAL DOWNLOADS: 64573
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 8648
-Factory.Outlets 7746
-Fundamental.Outfit.Expansion 9119
-Jaws 7536
-Korunak.Defense.Drones 7789
-Louise.Conglomerate.Shipyards 8465
-Sheragi.Rebirth.Redux 85
-Solar.Sails 7672
-Zone.of.Control 7482
+Bunsen.Burner 8650
+Factory.Outlets 7748
+Fundamental.Outfit.Expansion 9125
+Jaws 7541
+Korunak.Defense.Drones 7791
+Louise.Conglomerate.Shipyards 8469
+Sheragi.Rebirth.Redux 86
+Solar.Sails 7676
+Zone.of.Control 7487
