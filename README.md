@@ -21,8 +21,8 @@
 		<td>8841</td>
 		<td>8847</td>
 		<td>8853</td>
-		<td>8862</td>
-		<td>+ 9</td>
+		<td>8866</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -32,8 +32,8 @@
 		<td>7957</td>
 		<td>7963</td>
 		<td>7969</td>
-		<td>7977</td>
-		<td>+ 8</td>
+		<td>7981</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
@@ -43,8 +43,8 @@
 		<td>9345</td>
 		<td>9352</td>
 		<td>9361</td>
-		<td>9369</td>
-		<td>+ 8</td>
+		<td>9373</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -54,8 +54,8 @@
 		<td>7721</td>
 		<td>7726</td>
 		<td>7732</td>
-		<td>7740</td>
-		<td>+ 8</td>
+		<td>7744</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -65,8 +65,8 @@
 		<td>7988</td>
 		<td>7995</td>
 		<td>8001</td>
-		<td>8009</td>
-		<td>+ 8</td>
+		<td>8013</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -76,8 +76,8 @@
 		<td>8685</td>
 		<td>8692</td>
 		<td>8699</td>
-		<td>8709</td>
-		<td>+ 10</td>
+		<td>8713</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>Sheragi.Rebirth.Redux</td>
@@ -98,8 +98,8 @@
 		<td>7867</td>
 		<td>7873</td>
 		<td>7880</td>
-		<td>7888</td>
-		<td>+ 8</td>
+		<td>7892</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
@@ -109,8 +109,8 @@
 		<td>7666</td>
 		<td>7671</td>
 		<td>7677</td>
-		<td>7685</td>
-		<td>+ 8</td>
+		<td>7689</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -120,8 +120,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>66331</td>
-		<td>67</td>
+		<td>66363</td>
+		<td>99</td>
 	</tr>
 </table>
 </sub></sup>
@@ -146,8 +146,8 @@
 		<td>9345</td>
 		<td>9352</td>
 		<td>9361</td>
-		<td>9369</td>
-		<td>+ 8</td>
+		<td>9373</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>Bunsen.Burner</td>
@@ -157,8 +157,8 @@
 		<td>8841</td>
 		<td>8847</td>
 		<td>8853</td>
-		<td>8862</td>
-		<td>+ 9</td>
+		<td>8866</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -168,8 +168,8 @@
 		<td>8685</td>
 		<td>8692</td>
 		<td>8699</td>
-		<td>8709</td>
-		<td>+ 10</td>
+		<td>8713</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -179,8 +179,8 @@
 		<td>7988</td>
 		<td>7995</td>
 		<td>8001</td>
-		<td>8009</td>
-		<td>+ 8</td>
+		<td>8013</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -190,8 +190,8 @@
 		<td>7957</td>
 		<td>7963</td>
 		<td>7969</td>
-		<td>7977</td>
-		<td>+ 8</td>
+		<td>7981</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -201,8 +201,8 @@
 		<td>7867</td>
 		<td>7873</td>
 		<td>7880</td>
-		<td>7888</td>
-		<td>+ 8</td>
+		<td>7892</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -212,8 +212,8 @@
 		<td>7721</td>
 		<td>7726</td>
 		<td>7732</td>
-		<td>7740</td>
-		<td>+ 8</td>
+		<td>7744</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
@@ -223,8 +223,8 @@
 		<td>7666</td>
 		<td>7671</td>
 		<td>7677</td>
-		<td>7685</td>
-		<td>+ 8</td>
+		<td>7689</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>Sheragi.Rebirth.Redux</td>
@@ -245,8 +245,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>66331</td>
-		<td>67</td>
+		<td>66363</td>
+		<td>99</td>
 	</tr>
 </table>
 </sub></sup>
