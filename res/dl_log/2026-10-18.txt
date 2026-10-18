@@ -1,26 +1,26 @@
 # DOWNLOADS FOR EACH RELEASE:
-v2.0.0-Fundamental.Outfit.Expansion | downloads: 2
-v1.4.7-Bunsen.Burner | downloads: 6
-v1.4.6-Bunsen.Burner | downloads: 1
+v2.0.0-Fundamental.Outfit.Expansion | downloads: 5
+v1.4.7-Bunsen.Burner | downloads: 8
+v1.4.6-Bunsen.Burner | downloads: 2
 v1.3.5-Factory.Outlets | downloads: 5
-v1.0.0-zzzZapping.Tweaks | downloads: 1
-v1.0.0-Laser.Sight | downloads: 2
-v1.0.0-Fundamental.Outfit.Expansion.Alien | downloads: 3
+v1.0.0-zzzZapping.Tweaks | downloads: 2
+v1.0.0-Laser.Sight | downloads: 3
+v1.0.0-Fundamental.Outfit.Expansion.Alien | downloads: 5
 v1.3.4-Factory.Outlets | downloads: 409
-v3.1.2-Louise.Conglomerate.Shipyards | downloads: 1523
+v3.1.2-Louise.Conglomerate.Shipyards | downloads: 1524
 v1.4.5-Bunsen.Burner | downloads: 1931
 v1.4.4-Bunsen.Burner | downloads: 111
 v1.4.3-Bunsen.Burner | downloads: 36
 v1.3.3-Factory.Outlets | downloads: 1554
-v1.9.0-Fundamental.Outfit.Expansion | downloads: 2197
+v1.9.0-Fundamental.Outfit.Expansion | downloads: 2198
 v0.1.1-Sheragi.Rebirth.Redux | downloads: 84
 v1.0.0-Sheragi.Rebirth.Redux | downloads: 15
 v3.1.1-Louise.Conglomerate.Shipyards | downloads: 616
 v3.1.0-Louise.Conglomerate.Shipyards | downloads: 961
 v1.4.2-Bunsen.Burner | downloads: 1639
-v1.2.0-Korunak.Defense.Drones | downloads: 2911
-v2.1.3-Solar.Sails | downloads: 2916
-v1.1.4-Zone.of.Control | downloads: 2890
+v1.2.0-Korunak.Defense.Drones | downloads: 2912
+v2.1.3-Solar.Sails | downloads: 2917
+v1.1.4-Zone.of.Control | downloads: 2891
 v1.4.1-Bunsen.Burner | downloads: 127
 v1.1.3-Zone.of.Control | downloads: 21
 v1.4.0-Bunsen.Burner | downloads: 140
@@ -86,19 +86,19 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 13
 
 
 # NUMBER OF RELEASES: 85
-# TOTAL DOWNLOADS: 66793
+# TOTAL DOWNLOADS: 66808
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 8914
+Bunsen.Burner 8917
 Factory.Outlets 8036
-Fundamental.Outfit.Expansion 9432
-Fundamental.Outfit.Expansion.Alien 3
+Fundamental.Outfit.Expansion 9436
+Fundamental.Outfit.Expansion.Alien 5
 Jaws 7794
-Korunak.Defense.Drones 8062
-Laser.Sight 2
-Louise.Conglomerate.Shipyards 8766
+Korunak.Defense.Drones 8063
+Laser.Sight 3
+Louise.Conglomerate.Shipyards 8767
 Sheragi.Rebirth.Redux 99
-Solar.Sails 7943
-Zone.of.Control 7741
-zzzZapping.Tweaks 1
+Solar.Sails 7944
+Zone.of.Control 7742
+zzzZapping.Tweaks 2
