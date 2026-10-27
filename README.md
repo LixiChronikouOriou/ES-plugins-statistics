@@ -21,8 +21,8 @@
 		<td>8988</td>
 		<td>9000</td>
 		<td>9012</td>
-		<td>9032</td>
-		<td>+ 20</td>
+		<td>9033</td>
+		<td>+ 21</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -32,8 +32,8 @@
 		<td>8106</td>
 		<td>8117</td>
 		<td>8130</td>
-		<td>8144</td>
-		<td>+ 14</td>
+		<td>8146</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
@@ -43,8 +43,8 @@
 		<td>9527</td>
 		<td>9540</td>
 		<td>9553</td>
-		<td>9562</td>
-		<td>+ 9</td>
+		<td>9565</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion.Alien</td>
@@ -54,8 +54,8 @@
 		<td>24</td>
 		<td>24</td>
 		<td>32</td>
-		<td>35</td>
-		<td>+ 3</td>
+		<td>37</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -65,8 +65,8 @@
 		<td>7866</td>
 		<td>7877</td>
 		<td>7889</td>
-		<td>7896</td>
-		<td>+ 7</td>
+		<td>7897</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -76,8 +76,8 @@
 		<td>8129</td>
 		<td>8141</td>
 		<td>8153</td>
-		<td>8165</td>
-		<td>+ 12</td>
+		<td>8166</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>Laser.Sight</td>
@@ -98,8 +98,8 @@
 		<td>8840</td>
 		<td>8853</td>
 		<td>8866</td>
-		<td>8882</td>
-		<td>+ 16</td>
+		<td>8884</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>Sheragi.Rebirth.Redux</td>
@@ -109,8 +109,8 @@
 		<td>104</td>
 		<td>104</td>
 		<td>109</td>
-		<td>109</td>
-		<td></td>
+		<td>110</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -120,8 +120,8 @@
 		<td>8010</td>
 		<td>8021</td>
 		<td>8034</td>
-		<td>8046</td>
-		<td>+ 12</td>
+		<td>8047</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
@@ -131,8 +131,8 @@
 		<td>7808</td>
 		<td>7819</td>
 		<td>7832</td>
-		<td>7843</td>
-		<td>+ 11</td>
+		<td>7844</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>zzzZapping.Tweaks</td>
@@ -153,8 +153,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>67759</td>
-		<td>109</td>
+		<td>67774</td>
+		<td>124</td>
 	</tr>
 </table>
 </sub></sup>
@@ -179,8 +179,8 @@
 		<td>9527</td>
 		<td>9540</td>
 		<td>9553</td>
-		<td>9562</td>
-		<td>+ 9</td>
+		<td>9565</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>Bunsen.Burner</td>
@@ -190,8 +190,8 @@
 		<td>8988</td>
 		<td>9000</td>
 		<td>9012</td>
-		<td>9032</td>
-		<td>+ 20</td>
+		<td>9033</td>
+		<td>+ 21</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -201,8 +201,8 @@
 		<td>8840</td>
 		<td>8853</td>
 		<td>8866</td>
-		<td>8882</td>
-		<td>+ 16</td>
+		<td>8884</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -212,8 +212,8 @@
 		<td>8129</td>
 		<td>8141</td>
 		<td>8153</td>
-		<td>8165</td>
-		<td>+ 12</td>
+		<td>8166</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -223,8 +223,8 @@
 		<td>8106</td>
 		<td>8117</td>
 		<td>8130</td>
-		<td>8144</td>
-		<td>+ 14</td>
+		<td>8146</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -234,8 +234,8 @@
 		<td>8010</td>
 		<td>8021</td>
 		<td>8034</td>
-		<td>8046</td>
-		<td>+ 12</td>
+		<td>8047</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -245,8 +245,8 @@
 		<td>7866</td>
 		<td>7877</td>
 		<td>7889</td>
-		<td>7896</td>
-		<td>+ 7</td>
+		<td>7897</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
@@ -256,8 +256,8 @@
 		<td>7808</td>
 		<td>7819</td>
 		<td>7832</td>
-		<td>7843</td>
-		<td>+ 11</td>
+		<td>7844</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>Sheragi.Rebirth.Redux</td>
@@ -267,8 +267,8 @@
 		<td>104</td>
 		<td>104</td>
 		<td>109</td>
-		<td>109</td>
-		<td></td>
+		<td>110</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion.Alien</td>
@@ -278,8 +278,8 @@
 		<td>24</td>
 		<td>24</td>
 		<td>32</td>
-		<td>35</td>
-		<td>+ 3</td>
+		<td>37</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>zzzZapping.Tweaks</td>
@@ -311,8 +311,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>67759</td>
-		<td>109</td>
+		<td>67774</td>
+		<td>124</td>
 	</tr>
 </table>
 </sub></sup>
@@ -320,7 +320,6 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2026-10-17</td>
 		<td>2026-10-18</td>
 		<td>2026-10-19</td>
 		<td>2026-10-20</td>
@@ -329,10 +328,10 @@
 		<td>2026-10-23</td>
 		<td>2026-10-24</td>
 		<td>2026-10-25</td>
+		<td>2026-10-26</td>
 	</tr>
 	<tr>
 		<td>page views</td>
-		<td>25</td>
 		<td>105</td>
 		<td>59</td>
 		<td>6</td>
@@ -341,10 +340,10 @@
 		<td>6</td>
 		<td>53</td>
 		<td>11</td>
+		<td>103</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
-		<td>6</td>
 		<td>9</td>
 		<td>12</td>
 		<td>4</td>
@@ -353,6 +352,7 @@
 		<td>3</td>
 		<td>8</td>
 		<td>3</td>
+		<td>4</td>
 	</tr>
 </table>
 <br>
@@ -366,8 +366,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-13</td>
-		<td>7693</td>
-		<td>2341</td>
+		<td>7796</td>
+		<td>2345</td>
 		<td>195</td>
 		<td>45</td>
 	</tr>
@@ -380,8 +380,8 @@
 	</tr>
 	<tr>
 		<td>379</td>
-		<td>20.30</td>
-		<td>6.18</td>
+		<td>20.57</td>
+		<td>6.19</td>
 		<td></td>
 		<td></td>
 	</tr>
