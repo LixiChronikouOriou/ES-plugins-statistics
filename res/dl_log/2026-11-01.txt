@@ -1,15 +1,15 @@
 # DOWNLOADS FOR EACH RELEASE:
-v2.0.2-Fundamental.Outfit.Expansion | downloads: 69
+v2.0.2-Fundamental.Outfit.Expansion | downloads: 70
 v1.0.2-zzzZapping.Tweaks | downloads: 9
 v1.0.1-Fundamental.Outfit.Expansion.Alien | downloads: 15
-v3.1.3-Louise.Conglomerate.Shipyards | downloads: 116
+v3.1.3-Louise.Conglomerate.Shipyards | downloads: 118
 v2.0.1-Fundamental.Outfit.Expansion | downloads: 51
 v1.0.1-zzzZapping.Tweaks | downloads: 7
 v1.0.1-Laser.Sight | downloads: 12
 v2.0.0-Fundamental.Outfit.Expansion | downloads: 66
-v1.4.7-Bunsen.Burner | downloads: 156
+v1.4.7-Bunsen.Burner | downloads: 157
 v1.4.6-Bunsen.Burner | downloads: 3
-v1.3.5-Factory.Outlets | downloads: 155
+v1.3.5-Factory.Outlets | downloads: 157
 v1.0.0-zzzZapping.Tweaks | downloads: 13
 v1.0.0-Laser.Sight | downloads: 9
 v1.0.0-Fundamental.Outfit.Expansion.Alien | downloads: 28
@@ -25,9 +25,9 @@ v1.0.0-Sheragi.Rebirth.Redux | downloads: 15
 v3.1.1-Louise.Conglomerate.Shipyards | downloads: 616
 v3.1.0-Louise.Conglomerate.Shipyards | downloads: 961
 v1.4.2-Bunsen.Burner | downloads: 1640
-v1.2.0-Korunak.Defense.Drones | downloads: 3057
-v2.1.3-Solar.Sails | downloads: 3066
-v1.1.4-Zone.of.Control | downloads: 3035
+v1.2.0-Korunak.Defense.Drones | downloads: 3058
+v2.1.3-Solar.Sails | downloads: 3067
+v1.1.4-Zone.of.Control | downloads: 3036
 v1.4.1-Bunsen.Burner | downloads: 128
 v1.1.3-Zone.of.Control | downloads: 22
 v1.4.0-Bunsen.Burner | downloads: 141
@@ -45,7 +45,7 @@ v1.2.0-Factory.Outlets | downloads: 409
 v2.1.1-Solar.Sails | downloads: 200
 v1.1.1-Factory.Outlets | downloads: 46
 v1.6.0-Fundamental.Outfit.Expansion | downloads: 2171
-v1.2.3-Jaws | downloads: 7837
+v1.2.3-Jaws | downloads: 7839
 v1.1.0-Zone.of.Control | downloads: 2331
 v1.1.0-Factory.Outlets | downloads: 942
 v1.5.1-Fundamental.Outfit.Expansion | downloads: 86
@@ -93,19 +93,19 @@ v1.0.0-Louise.Conglomerate.Shipyards | downloads: 14
 
 
 # NUMBER OF RELEASES: 92
-# TOTAL DOWNLOADS: 68189
+# TOTAL DOWNLOADS: 68200
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-Bunsen.Burner 9080
-Factory.Outlets 8194
-Fundamental.Outfit.Expansion 9619
+Bunsen.Burner 9081
+Factory.Outlets 8196
+Fundamental.Outfit.Expansion 9620
 Fundamental.Outfit.Expansion.Alien 43
-Jaws 7941
-Korunak.Defense.Drones 8214
+Jaws 7943
+Korunak.Defense.Drones 8215
 Laser.Sight 21
-Louise.Conglomerate.Shipyards 8943
+Louise.Conglomerate.Shipyards 8945
 Sheragi.Rebirth.Redux 113
-Solar.Sails 8100
-Zone.of.Control 7892
+Solar.Sails 8101
+Zone.of.Control 7893
 zzzZapping.Tweaks 29
