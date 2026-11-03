@@ -120,8 +120,8 @@
 		<td>8094</td>
 		<td>8101</td>
 		<td>8107</td>
-		<td>8111</td>
-		<td>+ 4</td>
+		<td>8112</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
@@ -153,8 +153,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>68293</td>
-		<td>31</td>
+		<td>68294</td>
+		<td>32</td>
 	</tr>
 </table>
 </sub></sup>
@@ -234,8 +234,8 @@
 		<td>8094</td>
 		<td>8101</td>
 		<td>8107</td>
-		<td>8111</td>
-		<td>+ 4</td>
+		<td>8112</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -311,8 +311,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>68293</td>
-		<td>31</td>
+		<td>68294</td>
+		<td>32</td>
 	</tr>
 </table>
 </sub></sup>
