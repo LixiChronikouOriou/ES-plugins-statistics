@@ -98,8 +98,8 @@
 		<td>8980</td>
 		<td>8983</td>
 		<td>8989</td>
-		<td>8994</td>
-		<td>+ 5</td>
+		<td>8995</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>Sheragi.Rebirth.Redux</td>
@@ -153,8 +153,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>68545</td>
-		<td>26</td>
+		<td>68546</td>
+		<td>27</td>
 	</tr>
 </table>
 </sub></sup>
@@ -201,8 +201,8 @@
 		<td>8980</td>
 		<td>8983</td>
 		<td>8989</td>
-		<td>8994</td>
-		<td>+ 5</td>
+		<td>8995</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -311,8 +311,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>68545</td>
-		<td>26</td>
+		<td>68546</td>
+		<td>27</td>
 	</tr>
 </table>
 </sub></sup>
