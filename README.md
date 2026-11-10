@@ -43,8 +43,8 @@
 		<td>9681</td>
 		<td>9689</td>
 		<td>9695</td>
-		<td>9697</td>
-		<td>+ 2</td>
+		<td>9701</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion.Alien</td>
@@ -54,8 +54,8 @@
 		<td>56</td>
 		<td>60</td>
 		<td>60</td>
-		<td>60</td>
-		<td></td>
+		<td>62</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -98,8 +98,8 @@
 		<td>8998</td>
 		<td>9005</td>
 		<td>9008</td>
-		<td>9009</td>
-		<td>+ 1</td>
+		<td>9012</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Sheragi.Rebirth.Redux</td>
@@ -131,8 +131,8 @@
 		<td>7929</td>
 		<td>7932</td>
 		<td>7935</td>
-		<td>7936</td>
-		<td>+ 1</td>
+		<td>7937</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>zzzZapping.Tweaks</td>
@@ -153,8 +153,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>68650</td>
-		<td>9</td>
+		<td>68660</td>
+		<td>19</td>
 	</tr>
 </table>
 </sub></sup>
@@ -179,8 +179,8 @@
 		<td>9681</td>
 		<td>9689</td>
 		<td>9695</td>
-		<td>9697</td>
-		<td>+ 2</td>
+		<td>9701</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>Bunsen.Burner</td>
@@ -201,8 +201,8 @@
 		<td>8998</td>
 		<td>9005</td>
 		<td>9008</td>
-		<td>9009</td>
-		<td>+ 1</td>
+		<td>9012</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -256,8 +256,8 @@
 		<td>7929</td>
 		<td>7932</td>
 		<td>7935</td>
-		<td>7936</td>
-		<td>+ 1</td>
+		<td>7937</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>Sheragi.Rebirth.Redux</td>
@@ -278,8 +278,8 @@
 		<td>56</td>
 		<td>60</td>
 		<td>60</td>
-		<td>60</td>
-		<td></td>
+		<td>62</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>zzzZapping.Tweaks</td>
@@ -311,8 +311,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>68650</td>
-		<td>9</td>
+		<td>68660</td>
+		<td>19</td>
 	</tr>
 </table>
 </sub></sup>
@@ -320,7 +320,6 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2026-10-31</td>
 		<td>2026-11-01</td>
 		<td>2026-11-02</td>
 		<td>2026-11-03</td>
@@ -329,10 +328,10 @@
 		<td>2026-11-06</td>
 		<td>2026-11-07</td>
 		<td>2026-11-08</td>
+		<td>2026-11-09</td>
 	</tr>
 	<tr>
 		<td>page views</td>
-		<td>12</td>
 		<td>6</td>
 		<td>6</td>
 		<td>5</td>
@@ -341,10 +340,10 @@
 		<td>15</td>
 		<td>9</td>
 		<td>10</td>
+		<td>13</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
-		<td>7</td>
 		<td>2</td>
 		<td>2</td>
 		<td>4</td>
@@ -353,6 +352,7 @@
 		<td>3</td>
 		<td>4</td>
 		<td>5</td>
+		<td>10</td>
 	</tr>
 </table>
 <br>
@@ -366,8 +366,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-13</td>
-		<td>8040</td>
-		<td>2413</td>
+		<td>8053</td>
+		<td>2423</td>
 		<td>195</td>
 		<td>45</td>
 	</tr>
@@ -380,8 +380,8 @@
 	</tr>
 	<tr>
 		<td>393</td>
-		<td>20.46</td>
-		<td>6.14</td>
+		<td>20.49</td>
+		<td>6.17</td>
 		<td></td>
 		<td></td>
 	</tr>
