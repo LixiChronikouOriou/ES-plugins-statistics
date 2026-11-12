@@ -43,8 +43,8 @@
 		<td>9695</td>
 		<td>9704</td>
 		<td>9713</td>
-		<td>9722</td>
-		<td>+ 9</td>
+		<td>9723</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion.Alien</td>
@@ -153,8 +153,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>68782</td>
-		<td>42</td>
+		<td>68783</td>
+		<td>43</td>
 	</tr>
 </table>
 </sub></sup>
@@ -179,8 +179,8 @@
 		<td>9695</td>
 		<td>9704</td>
 		<td>9713</td>
-		<td>9722</td>
-		<td>+ 9</td>
+		<td>9723</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>Bunsen.Burner</td>
@@ -311,8 +311,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>68782</td>
-		<td>42</td>
+		<td>68783</td>
+		<td>43</td>
 	</tr>
 </table>
 </sub></sup>
