@@ -32,8 +32,8 @@
 		<td>8265</td>
 		<td>8269</td>
 		<td>8270</td>
-		<td>8272</td>
-		<td>+ 2</td>
+		<td>8274</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
@@ -43,8 +43,8 @@
 		<td>9735</td>
 		<td>9740</td>
 		<td>9745</td>
-		<td>9747</td>
-		<td>+ 2</td>
+		<td>9749</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion.Alien</td>
@@ -76,8 +76,8 @@
 		<td>8271</td>
 		<td>8275</td>
 		<td>8277</td>
-		<td>8280</td>
-		<td>+ 3</td>
+		<td>8281</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Laser.Sight</td>
@@ -98,8 +98,8 @@
 		<td>9038</td>
 		<td>9042</td>
 		<td>9045</td>
-		<td>9049</td>
-		<td>+ 4</td>
+		<td>9051</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>Sheragi.Rebirth.Redux</td>
@@ -120,8 +120,8 @@
 		<td>8166</td>
 		<td>8169</td>
 		<td>8170</td>
-		<td>8173</td>
-		<td>+ 3</td>
+		<td>8174</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
@@ -153,8 +153,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>68922</td>
-		<td>23</td>
+		<td>68930</td>
+		<td>31</td>
 	</tr>
 </table>
 </sub></sup>
@@ -179,8 +179,8 @@
 		<td>9735</td>
 		<td>9740</td>
 		<td>9745</td>
-		<td>9747</td>
-		<td>+ 2</td>
+		<td>9749</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Bunsen.Burner</td>
@@ -201,8 +201,8 @@
 		<td>9038</td>
 		<td>9042</td>
 		<td>9045</td>
-		<td>9049</td>
-		<td>+ 4</td>
+		<td>9051</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -212,8 +212,8 @@
 		<td>8271</td>
 		<td>8275</td>
 		<td>8277</td>
-		<td>8280</td>
-		<td>+ 3</td>
+		<td>8281</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -223,8 +223,8 @@
 		<td>8265</td>
 		<td>8269</td>
 		<td>8270</td>
-		<td>8272</td>
-		<td>+ 2</td>
+		<td>8274</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -234,8 +234,8 @@
 		<td>8166</td>
 		<td>8169</td>
 		<td>8170</td>
-		<td>8173</td>
-		<td>+ 3</td>
+		<td>8174</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -311,8 +311,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>68922</td>
-		<td>23</td>
+		<td>68930</td>
+		<td>31</td>
 	</tr>
 </table>
 </sub></sup>
