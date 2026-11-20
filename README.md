@@ -21,8 +21,8 @@
 		<td>9156</td>
 		<td>9161</td>
 		<td>9164</td>
-		<td>9166</td>
-		<td>+ 2</td>
+		<td>9176</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -32,8 +32,8 @@
 		<td>8274</td>
 		<td>8278</td>
 		<td>8281</td>
-		<td>8284</td>
-		<td>+ 3</td>
+		<td>8290</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion</td>
@@ -43,8 +43,8 @@
 		<td>9749</td>
 		<td>9755</td>
 		<td>9759</td>
-		<td>9764</td>
-		<td>+ 5</td>
+		<td>9772</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion.Alien</td>
@@ -54,8 +54,8 @@
 		<td>75</td>
 		<td>76</td>
 		<td>77</td>
-		<td>80</td>
-		<td>+ 3</td>
+		<td>86</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -65,8 +65,8 @@
 		<td>8011</td>
 		<td>8012</td>
 		<td>8015</td>
-		<td>8018</td>
-		<td>+ 3</td>
+		<td>8024</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -76,8 +76,8 @@
 		<td>8281</td>
 		<td>8284</td>
 		<td>8287</td>
-		<td>8291</td>
-		<td>+ 4</td>
+		<td>8300</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>Laser.Sight</td>
@@ -87,8 +87,8 @@
 		<td>31</td>
 		<td>31</td>
 		<td>32</td>
-		<td>33</td>
-		<td>+ 1</td>
+		<td>35</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -98,8 +98,8 @@
 		<td>9051</td>
 		<td>9054</td>
 		<td>9059</td>
-		<td>9062</td>
-		<td>+ 3</td>
+		<td>9074</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>Sheragi.Rebirth.Redux</td>
@@ -109,8 +109,8 @@
 		<td>120</td>
 		<td>120</td>
 		<td>120</td>
-		<td>120</td>
-		<td></td>
+		<td>124</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -120,8 +120,8 @@
 		<td>8174</td>
 		<td>8176</td>
 		<td>8179</td>
-		<td>8182</td>
-		<td>+ 3</td>
+		<td>8189</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
@@ -131,8 +131,8 @@
 		<td>7966</td>
 		<td>7967</td>
 		<td>7970</td>
-		<td>7973</td>
-		<td>+ 3</td>
+		<td>7979</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>zzzZapping.Tweaks</td>
@@ -142,8 +142,8 @@
 		<td>42</td>
 		<td>43</td>
 		<td>43</td>
-		<td>44</td>
-		<td>+ 1</td>
+		<td>46</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -153,8 +153,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>69017</td>
-		<td>31</td>
+		<td>69095</td>
+		<td>109</td>
 	</tr>
 </table>
 </sub></sup>
@@ -179,8 +179,8 @@
 		<td>9749</td>
 		<td>9755</td>
 		<td>9759</td>
-		<td>9764</td>
-		<td>+ 5</td>
+		<td>9772</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>Bunsen.Burner</td>
@@ -190,8 +190,8 @@
 		<td>9156</td>
 		<td>9161</td>
 		<td>9164</td>
-		<td>9166</td>
-		<td>+ 2</td>
+		<td>9176</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>Louise.Conglomerate.Shipyards</td>
@@ -201,8 +201,8 @@
 		<td>9051</td>
 		<td>9054</td>
 		<td>9059</td>
-		<td>9062</td>
-		<td>+ 3</td>
+		<td>9074</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>Korunak.Defense.Drones</td>
@@ -212,8 +212,8 @@
 		<td>8281</td>
 		<td>8284</td>
 		<td>8287</td>
-		<td>8291</td>
-		<td>+ 4</td>
+		<td>8300</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>Factory.Outlets</td>
@@ -223,8 +223,8 @@
 		<td>8274</td>
 		<td>8278</td>
 		<td>8281</td>
-		<td>8284</td>
-		<td>+ 3</td>
+		<td>8290</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>Solar.Sails</td>
@@ -234,8 +234,8 @@
 		<td>8174</td>
 		<td>8176</td>
 		<td>8179</td>
-		<td>8182</td>
-		<td>+ 3</td>
+		<td>8189</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>Jaws</td>
@@ -245,8 +245,8 @@
 		<td>8011</td>
 		<td>8012</td>
 		<td>8015</td>
-		<td>8018</td>
-		<td>+ 3</td>
+		<td>8024</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>Zone.of.Control</td>
@@ -256,8 +256,8 @@
 		<td>7966</td>
 		<td>7967</td>
 		<td>7970</td>
-		<td>7973</td>
-		<td>+ 3</td>
+		<td>7979</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>Sheragi.Rebirth.Redux</td>
@@ -267,8 +267,8 @@
 		<td>120</td>
 		<td>120</td>
 		<td>120</td>
-		<td>120</td>
-		<td></td>
+		<td>124</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>Fundamental.Outfit.Expansion.Alien</td>
@@ -278,8 +278,8 @@
 		<td>75</td>
 		<td>76</td>
 		<td>77</td>
-		<td>80</td>
-		<td>+ 3</td>
+		<td>86</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>zzzZapping.Tweaks</td>
@@ -289,8 +289,8 @@
 		<td>42</td>
 		<td>43</td>
 		<td>43</td>
-		<td>44</td>
-		<td>+ 1</td>
+		<td>46</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>Laser.Sight</td>
@@ -300,8 +300,8 @@
 		<td>31</td>
 		<td>31</td>
 		<td>32</td>
-		<td>33</td>
-		<td>+ 1</td>
+		<td>35</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -311,8 +311,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>69017</td>
-		<td>31</td>
+		<td>69095</td>
+		<td>109</td>
 	</tr>
 </table>
 </sub></sup>
